@@ -1,0 +1,15 @@
+FLAG IMAGES - CREDITS
+=====================
+The 195 flag images in this folder (193 UN member states + the 2 UN observer
+states, Vatican City and Palestine) were downloaded once with
+tools/fetch_flags.py from the free flag service https://flagcdn.com
+(a Flagpedia.net service: https://flagpedia.net - "completely free service";
+they appreciate a backlink). Flagpedia's flag vectors are derived from
+Wikimedia Commons national-flag artwork; national flags are official state
+symbols and are commonly used freely for educational / editorial purposes.
+
+The app never contacts flagcdn.com at runtime - everything is served locally
+from this folder, so it works fully offline.
+
+To refresh them (for example if a country changes its flag):
+    delete the .svg files and run   python tools/fetch_flags.py

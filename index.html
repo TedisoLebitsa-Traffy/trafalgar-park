@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trafalgar Park</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 10 10%27%3E%3Ctext y=%27.9em%27 font-size=%278%27%3E%F0%9F%8E%AE%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="css/theme.css">
+</head>
+<body>
+<!-- DISPLAY PAGE: capture THIS window in TikTok LIVE Studio.
+     It only ever receives what the audience should see - answers live on admin.html only. -->
+<div id="app">
+  <div id="scene"></div>
+  <canvas id="confetti" style="display:none"></canvas>
+  <div id="toast"></div>
+  <div id="toolbar">
+    <button id="tbMute" title="Mute / unmute (M)">🔊</button>
+    <button id="tbAdapt" title="Adapt to screen">⤢</button>
+    <button id="tbFull" title="Fullscreen (F)">⛶</button>
+    <button id="tbHelp" title="Keyboard shortcuts (?)">?</button>
+  </div>
+  <div id="chip" class="hide"></div>
+  <div class="modal" id="help"></div>
+</div>
+<script src="js/core.js"></script>
+<script src="js/gen/bottle.js"></script>
+<script src="js/render.js"></script>
+<script src="js/display.js"></script>
+</body>
+</html>

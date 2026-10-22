@@ -1,0 +1,2 @@
+Put images here. The FILE NAME is the answer, e.g. "Eiffel Tower.jpg".
+Then run:  python tools/build_manifest.py

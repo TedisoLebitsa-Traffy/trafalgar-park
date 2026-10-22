@@ -1,0 +1,35 @@
+/* IMPOSTER word pairs: [crew word, similar word]. The similar word is only used if the host enables
+   "Imposter gets a similar word". Every pair is two related-but-different things. */
+window.TPData=window.TPData||{};
+TPData.imposter=[
+["Pizza","Lasagna"],["Rugby","American Football"],["Cat","Lion"],["Netflix","YouTube"],["Titanic","Cruise Ship"],["Football","Basketball"],["Beach","Pool"],["Coffee","Tea"],
+["Guitar","Violin"],["Elephant","Rhino"],["Mount Everest","Kilimanjaro"],["TikTok","Instagram"],["Rain","Snow"],["Burger","Hot Dog"],["Doctor","Nurse"],["Parliament","Courthouse"],
+["PlayStation","Xbox"],["Sushi","Seafood Platter"],["Lighthouse","Tower"],["Castle","Palace"],
+["Lion","Tiger"],["Dolphin","Shark"],["Eagle","Vulture"],["Frog","Toad"],["Crocodile","Alligator"],["Horse","Donkey"],["Sheep","Goat"],["Butterfly","Moth"],
+["Bee","Wasp"],["Ant","Termite"],["Giraffe","Zebra"],["Cheetah","Leopard"],["Hippo","Rhino"],["Penguin","Ostrich"],["Owl","Parrot"],["Rabbit","Hare"],
+["Wolf","Dog"],["Whale","Dolphin"],["Octopus","Squid"],["Turtle","Tortoise"],["Camel","Llama"],["Monkey","Gorilla"],["Duck","Goose"],["Chicken","Turkey"],
+["Apple","Pear"],["Orange","Naartjie"],["Banana","Plantain"],["Mango","Papaya"],["Strawberry","Raspberry"],["Watermelon","Melon"],["Lemon","Lime"],["Potato","Sweet Potato"],
+["Tomato","Pepper"],["Carrot","Beetroot"],["Onion","Garlic"],["Rice","Pasta"],["Bread","Roll"],["Butter","Margarine"],["Milk","Cream"],["Cheese","Yoghurt"],
+["Chocolate","Caramel"],["Ice Cream","Frozen Yoghurt"],["Cake","Cupcake"],["Biscuit","Rusk"],["Pancake","Waffle"],["Doughnut","Koeksister"],["Pie","Quiche"],["Soup","Stew"],
+["Curry","Stir Fry"],["Tacos","Burrito"],["Sushi","Sashimi"],["Biltong","Jerky"],["Sausage","Boerewors"],["Steak","Chops"],["Bacon","Ham"],["Fish and Chips","Burger and Chips"],
+["Cola","Lemonade"],["Juice","Smoothie"],["Beer","Cider"],["Wine","Champagne"],["Tea","Rooibos"],["Hot Chocolate","Milkshake"],["Water","Sparkling Water"],["Coffee","Espresso"],
+["Bus","Taxi"],["Train","Tram"],["Car","Van"],["Bicycle","Motorbike"],["Plane","Helicopter"],["Ship","Ferry"],["Submarine","Boat"],["Truck","Tractor"],
+["Airport","Train Station"],["Hotel","Hostel"],["House","Flat"],["Tent","Caravan"],["School","University"],["Hospital","Clinic"],["Library","Bookshop"],["Museum","Art Gallery"],
+["Supermarket","Spaza Shop"],["Mall","Market"],["Bank","ATM"],["Church","Mosque"],["Stadium","Arena"],["Cinema","Theatre"],["Zoo","Safari Park"],["Farm","Garden"],
+["Piano","Keyboard"],["Drums","Bongos"],["Trumpet","Trombone"],["Flute","Clarinet"],["Singer","Rapper"],["Concert","Festival"],["Radio","Podcast"],["Karaoke","Open Mic"],
+["Football","Futsal"],["Tennis","Badminton"],["Cricket","Baseball"],["Golf","Mini Golf"],["Swimming","Diving"],["Running","Jogging"],["Boxing","Wrestling"],["Skiing","Snowboarding"],
+["Chess","Draughts"],["Poker","Blackjack"],["Marathon","Sprint"],["Olympics","World Cup"],["Referee","Umpire"],["Coach","Captain"],["Gym","Yoga Studio"],["Surfing","Bodyboarding"],
+["Facebook","LinkedIn"],["WhatsApp","Telegram"],["Google","Bing"],["iPhone","Samsung"],["Laptop","Tablet"],["Email","SMS"],["Twitter","Threads"],["Spotify","Apple Music"],
+["Zoom","Teams"],["Amazon","Takealot"],["Uber","Bolt"],["Selfie","Portrait"],["Emoji","Sticker"],["Wi-Fi","Bluetooth"],["Robot","Drone"],["Camera","Camcorder"],
+["Batman","Superman"],["Harry Potter","Lord of the Rings"],["Star Wars","Star Trek"],["Frozen","Moana"],["Shrek","Ogre"],["Simpsons","Family Guy"],["Mario","Sonic"],["Minecraft","Roblox"],
+["Fortnite","Call of Duty"],["Cinderella","Snow White"],["Dracula","Frankenstein"],["Pirate","Viking"],["Knight","Samurai"],["Wizard","Witch"],["Dragon","Dinosaur"],["Mermaid","Dolphin"],
+["Mandela","Gandhi"],["Messi","Ronaldo"],["Beyoncé","Rihanna"],["Michael Jackson","Prince"],["Oprah","Ellen"],["Einstein","Newton"],["Shakespeare","Dickens"],["Picasso","Van Gogh"],
+["Nile","Amazon"],["Sahara","Kalahari"],["Alps","Drakensberg"],["Atlantic","Indian Ocean"],["Lake","Dam"],["River","Stream"],["Forest","Jungle"],["Desert","Savanna"],
+["Volcano","Geyser"],["Island","Peninsula"],["Cape Town","Durban"],["Paris","London"],["New York","Los Angeles"],["Tokyo","Seoul"],["Egypt","Morocco"],["Kenya","Tanzania"],
+["Spring","Autumn"],["Summer","Winter"],["Sunrise","Sunset"],["Moon","Sun"],["Thunder","Lightning"],["Fog","Mist"],["Hurricane","Tornado"],["Rainbow","Aurora"],
+["Wedding","Engagement"],["Birthday","Anniversary"],["Christmas","Easter"],["Halloween","Carnival"],["Fireworks","Sparklers"],["Funeral","Memorial"],["Graduation","Prize Giving"],["Picnic","Braai"],
+["Pen","Pencil"],["Ruler","Tape Measure"],["Scissors","Knife"],["Hammer","Axe"],["Spoon","Fork"],["Cup","Mug"],["Plate","Bowl"],["Sofa","Armchair"],
+["Bed","Hammock"],["Shower","Bath"],["Towel","Blanket"],["Jacket","Jersey"],["Jeans","Trousers"],["Shoes","Sandals"],["Watch","Bracelet"],["Umbrella","Raincoat"],
+["Sunglasses","Spectacles"],["Hat","Cap"],["Scarf","Shawl"],["Perfume","Deodorant"],["Soap","Shampoo"],["Toothbrush","Comb"],["Candle","Torch"],["Mirror","Window"],
+["Teacher","Lecturer"],["Chef","Waiter"],["Pilot","Driver"],["Police","Soldier"],["Lawyer","Judge"],["Farmer","Gardener"],["Plumber","Electrician"],["Actor","Presenter"]
+];
