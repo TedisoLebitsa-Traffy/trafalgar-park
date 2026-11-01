@@ -129,6 +129,18 @@ tests/e2e.js             end-to-end tests (run in the admin page console, see he
 * Higher/Lower figures: see the source notes at the top of `data/higherlower.js`. Ages are computed on the day you play from dates of birth.
 * Decks never repeat an item until the whole pool has been used; duplicate items in a data file are removed automatically.
 
+## LAN mode: laptop + iPad (no internet, no phones pairing)
+
+The simplest way to play with one laptop and one iPad (or a phone / second monitor) on the same Wi-Fi:
+
+1. On the laptop **double-click `start-lan.bat`** (or run `python serve.py --lan`). A page opens with a QR code and the addresses. If Windows asks about the firewall, allow Python on **Private networks**.
+2. Laptop: click **Open the HOST** (`http://localhost:8000/admin.html?lan=1`) – keep this window to yourself, it shows the answers.
+3. iPad: scan the QR code with the camera (or type the address, e.g. `http://192.168.1.20:8000/index.html?lan=1`) – this is the **screen**. Tap it once so it can play sound.
+4. Play as normal. The laptop sends the iPad only what the audience may see; button presses on the iPad go back to the laptop.
+
+No Wi-Fi at the venue? On Windows turn on **Settings > Network > Mobile hotspot** and join it from the iPad - nothing needs internet. On the iPad set **Auto-Lock > Never**; **Share > Add to Home Screen** gives a full-screen view.
+The laptop can also capture the iPad-style screen: just keep using `index.html` on the laptop for TikTok LIVE as before.
+
 ## Playing outdoors on phones / iPads (no PC, minimal data)
 
 Two phones (or iPads) are enough: the **host** phone has the answers and the controls, the **screen** phone shows the game to everybody. Both can be iPhones.

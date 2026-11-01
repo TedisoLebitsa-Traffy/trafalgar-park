@@ -47,9 +47,16 @@ TP.bus=(function(){
   const NAME='trafalgar-park-v2', LS='tp_bus_msg';
   const NOBC=/[?&]nobc/.test(location.search);               // testing only: use the phone-to-phone link exclusively
   let bc=null, handlers=[], n=0;
-  const mode=NOBC?'rtc':(('BroadcastChannel' in window)?'bc':'ls');
+  const LAN=/[?&]lan/.test(location.search), ISADMIN=/admin\.html/.test(location.pathname);   // LAN mode: devices talk through serve.py --lan
+  const mode=NOBC?'rtc':((LAN&&!ISADMIN)?'lan':(('BroadcastChannel' in window)?'bc':'ls'));
   const peers=[], peerSubs=[];
   const deliver=m=>handlers.forEach(h=>{try{h(m);}catch(e){console.error(e);}});
+  /* ---- LAN relay (Server-Sent Events down, POST up). A picture id already sent is not sent again until someone says hello. ---- */
+  const lanId=Math.random().toString(36).slice(2,10),lanSent=new Set();let lanQ=Promise.resolve();
+  if(LAN){
+    const es=new EventSource('lan/events?id='+lanId);
+    es.onmessage=e=>{try{const m=JSON.parse(e.data);if(m&&m.t==='hello')lanSent.clear();deliver(m);}catch(_){}};
+  }
   if(mode==='bc'){bc=new BroadcastChannel(NAME);bc.onmessage=e=>deliver(e.data);}
   else if(mode==='ls')window.addEventListener('storage',e=>{
     if(e.key!==LS||!e.newValue)return;
@@ -98,7 +105,7 @@ TP.bus=(function(){
     return p;
   }
   return{
-    mode,
+    mode,lan:LAN,
     on(h){handlers.push(h);},
     addPeer,
     peerCount:()=>peers.filter(p=>p.dc.readyState==='open').length,
@@ -108,6 +115,10 @@ TP.bus=(function(){
       else if(mode==='ls'){
         const copy=structuredClone(msg);
         prepare(copy).then(()=>{try{localStorage.setItem(LS,JSON.stringify({n:++n+Math.random(),m:copy}));}catch(e){console.warn('ls bus failed',e);}});
+      }
+      if(LAN){
+        let copy;try{copy=structuredClone(msg);}catch(e){copy=null;}
+        if(copy)lanQ=lanQ.then(()=>prepare(copy,lanSent)).then(()=>fetch('lan/send?id='+lanId,{method:'POST',body:JSON.stringify(copy)})).catch(()=>{});
       }
       peers.forEach(p=>{
         if(p.dc.readyState!=='open')return;

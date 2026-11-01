@@ -55,7 +55,7 @@ $('#tbFull').onclick=()=>TP.toggleFullscreen();
 $('#tbHelp').onclick=()=>TP.localKey('help');
 $('#tbPair').onclick=()=>TP.pair.openScreen();
 $('#joinBtn').onclick=()=>TP.pair.openScreen();
-if(PREVIEW||SOLO){$('#tbPair').style.display='none';}
+if(PREVIEW||SOLO||TP.bus.lan){$('#tbPair').style.display='none';}
 if(!PREVIEW)TP.keepAwake();
 if(/[?&]join/.test(location.search))setTimeout(()=>TP.pair.openScreen(),300);
 $('#help').innerHTML=TP.helpHTML();
@@ -71,7 +71,7 @@ if(PREVIEW){$('#toolbar').style.display='none';}
 /* status chip: "enable sound" until the browser lets us play audio; "host disconnected" if the admin vanishes */
 function updateJoin(){
   const b=$('#joinBtn');
-  b.style.display=(!PREVIEW&&!SOLO&&(!gotView||(lastHb&&Date.now()-lastHb>7000)))?'block':'none';
+  b.style.display=(!PREVIEW&&!SOLO&&!TP.bus.lan&&(!gotView||(lastHb&&Date.now()-lastHb>7000)))?'block':'none';
   if(!PREVIEW&&!SOLO&&gotView&&lastHb&&Date.now()-lastHb>7000)b.textContent='📲 Reconnect to host';
 }
 setInterval(updateJoin,700);

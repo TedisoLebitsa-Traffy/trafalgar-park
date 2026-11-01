@@ -82,7 +82,7 @@ $('#help').addEventListener('click',e=>{if(e.target.id==='help'||e.target.datase
 setInterval(()=>{
   const now=Date.now(),on=App.seen.display&&now-App.seen.display<5000;
   const c=$('#conn');c.className=on?'ok':'bad';
-  c.textContent=on?(TP.bus.peerCount()?'● Screen connected (phone)':'● Screen connected'):'● No screen connected';
+  c.textContent=on?(TP.bus.peerCount()?'● Screen connected (phone)':(TP.bus.lan?'● Screen connected (LAN)':'● Screen connected')):'● No screen connected';
 },1000);
 
 /* ---------- live preview scaling ---------- */

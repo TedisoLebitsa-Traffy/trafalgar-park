@@ -1,8 +1,9 @@
 {
-"version": "tp-c9dda437fd",
+"version": "tp-b6138c765f",
 "files": [
 "admin.html",
 "index.html",
+"lan.html",
 "manifest.webmanifest",
 "start.html",
 "assets/flags/CREDITS.txt",

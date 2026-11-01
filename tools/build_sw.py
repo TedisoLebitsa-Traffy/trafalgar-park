@@ -1,11 +1,11 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """Write precache.json (every file the game needs offline) and stamp sw.js with a new version.
 Run this after you change any file, before you push to GitHub:   python tools/build_sw.py"""
 import hashlib, json, os, re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SKIP_DIRS = {".git", "tests", "tools", "__pycache__", "node_modules", ".claude"}
-SKIP_FILES = {"precache.json", "README.md", "serve.py", ".gitignore", ".nojekyll"}
+SKIP_FILES = {"precache.json", "start-lan.bat", "README.md", "serve.py", ".gitignore", ".nojekyll"}
 files, h = [], hashlib.sha1()
 for base, dirs, names in os.walk(ROOT):
     dirs[:] = sorted(d for d in dirs if d not in SKIP_DIRS)
