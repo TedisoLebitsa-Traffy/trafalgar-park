@@ -1,0 +1,207 @@
+# HARD batch 4 - abstract words, language and literature, psychology, science, world history, more South Africa
+Serendipity|Luck,Accident,Discovery,Fortunate,Happy,Chance
+Ephemeral|Short,Brief,Fleeting,Lasting,Temporary,Moment
+Ubiquitous|Everywhere,Common,Found,Present,Widespread,Seen
+Resilience|Bounce,Recover,Strong,Tough,Hardship,Back
+Empathy|Feel,Understand,Others,Shoes,Compassion,Care
+Nuance|Subtle,Detail,Difference,Shade,Fine,Meaning
+Ambiguity|Unclear,Meanings,Vague,Doubt,Confusing,Two
+Pragmatic|Practical,Realistic,Sensible,Idealistic,Approach,Results
+Cynical|Distrust,Sceptic,Motives,Bitter,Doubt,Negative
+Altruism|Selfless,Help,Others,Give,Charity,Kind
+Hubris|Pride,Arrogance,Fall,Greek,Excess,Overconfidence
+Nemesis|Enemy,Rival,Downfall,Greek,Arch,Justice
+Catharsis|Release,Emotions,Relief,Cry,Purge,Theatre
+Zeitgeist|Spirit,Age,German,Mood,Era,Culture
+Schadenfreude|German,Pleasure,Misfortune,Others,Joy,Gloat
+Wanderlust|Travel,Desire,Explore,Urge,Adventure,German
+Panacea|Cure,All,Remedy,Solution,Everything,Magic
+Quagmire|Swamp,Mess,Stuck,Difficult,Sinking,Marsh
+Juxtaposition|Side,Contrast,Placing,Together,Compare,Opposite
+Oxymoron|Contradiction,Words,Jumbo shrimp,Opposite,Phrase,Together
+Onomatopoeia|Sound,Words,Bang,Buzz,Imitate,Language
+Alliteration|Letters,Same,Start,Words,Poetry,Repeat
+Hyperbole|Exaggeration,Overstate,Huge,Speech,Extreme,Million
+Understatement|Downplay,Small,British,Minimise,Say,Less
+Foreshadowing|Hint,Story,Future,Clue,Later,Novel
+Plot Armour|Hero,Survive,Story,Safe,Film,Luck
+Unreliable Narrator|Story,Liar,Novel,Perspective,Trust,Tell
+Magical Realism|Fiction,Fantasy,Latin America,Ordinary,Novel,Style
+Dystopia|Society,Bleak,Future,Oppressive,Novel,Utopia
+Utopia|Perfect,Society,Ideal,Dream,Paradise,Place
+Satire|Mock,Humour,Politics,Criticise,Parody,Funny
+Parody|Imitate,Mock,Funny,Copy,Spoof,Comic
+Allegory|Story,Hidden,Meaning,Symbol,Moral,Animal Farm
+Soliloquy|Speech,Alone,Actor,Hamlet,Stage,Thoughts
+Monologue|Speech,Alone,Actor,Long,Talk,Stage
+Epilogue|End,Story,After,Final,Chapter,Book
+Prologue|Start,Opening,Book,Before,Story,Introduction
+Manuscript|Handwritten,Book,Author,Draft,Publisher,Pages
+Ghostwriter|Author,Book,Famous,Writes,Hidden,Name
+Bestseller|Book,Sales,List,Popular,Author,Copies
+Censor|Ban,Cut,Offensive,Media,Block,Remove
+Rite of Passage|Ceremony,Adulthood,Tradition,Milestone,Initiation,Change
+Coming of Age|Teen,Growing,Story,Adulthood,Film,Youth
+Old Wives' Tale|Superstition,Myth,Belief,Folk,Advice,Untrue
+Urban Legend|Story,Myth,False,Friend,Spread,Scary
+Paradigm Shift|Change,Thinking,Revolution,Science,Model,Fundamental
+Cognitive Dissonance|Mind,Conflict,Beliefs,Uncomfortable,Psychology,Contradict
+Confirmation Bias|Beliefs,Evidence,Prefer,Mind,Favour,Search
+Placebo Effect? skip
+Self-Fulfilling Prophecy|Predict,Belief,Come true,Expect,Cause,Outcome
+Groupthink|Conformity,Meeting,Decision,Agree,Pressure,Committee
+Bystander Effect|Help,Crowd,Emergency,Watch,Nobody,Others
+Pavlov's Dog|Bell,Conditioning,Salivate,Reflex,Experiment,Russian
+Freudian Slip|Mistake,Speech,Subconscious,Say,Truth,Psychology
+Subconscious|Mind,Hidden,Dreams,Below,Awareness,Thoughts
+Introvert|Quiet,Shy,Alone,Energy,Reserved,People
+Extrovert|Outgoing,Social,Party,Talkative,Energy,People
+Procrastinator? exists (Procrastination) skip
+Perfectionism|Flawless,Standards,Mistakes,Stress,Perfect,Detail
+Peer Mentor|Guide,Student,Support,Advice,Experience,Older
+Role Model|Admire,Example,Follow,Inspire,Hero,Copy
+Moral Compass|Right,Wrong,Guide,Values,Conscience,Ethics
+Conscience|Voice,Guilt,Right,Wrong,Inner,Feel
+Integrity|Honest,Principles,Truthful,Character,Moral,Values
+Humility? exists skip
+Gratitude|Thankful,Appreciate,Grateful,Thanks,Blessings,Feeling
+Forgiveness|Pardon,Mercy,Past,Sorry,Grudge,Release
+Nostalgia? exists skip
+Melancholy|Sad,Gloomy,Thoughtful,Mood,Blue,Pensive
+Euphoria|Joy,Happiness,Intense,High,Elation,Bliss
+Apathy|Indifference,Care,Interest,Lack,Bored,Feeling
+Skepticism|Doubt,Question,Believe,Proof,Cautious,Evidence
+Optimism|Positive,Hope,Bright,Glass,Future,Believe
+Pessimism|Negative,Gloomy,Expect,Worst,Doubt,Hope
+Irony? exists skip
+Cliche|Overused,Phrase,Boring,Expression,Predictable,Saying
+Euphemism|Polite,Word,Soften,Passed away,Phrase,Gentle
+Idiom? exists skip
+Pun? exists skip
+Palindrome|Reads,Backwards,Word,Same,Racecar,Letters
+Anagram|Letters,Rearrange,Word,Puzzle,Scramble,Same
+Acronym|Letters,Initials,Abbreviation,Word,NASA,Short
+Etymology|Origin,Words,History,Language,Roots,Meaning
+Dialect? exists skip
+Lingua Franca|Common,Language,Trade,Between,Speakers,Shared
+Sign Language? skip
+Braille|Dots,Blind,Read,Touch,Raised,Fingers
+Morse Code|Dots,Dashes,Signal,Telegraph,Beeps,Message
+Semaphore|Flags,Signal,Ships,Arms,Message,Communication
+Hieroglyphics|Egypt,Pictures,Ancient,Writing,Symbols,Pharaohs
+Rosetta Stone|Translation,Egypt,Ancient,Languages,Key,Museum
+Gutenberg Press|Printing,Bible,Movable,Type,Books,Invention
+Renaissance|Rebirth,Europe,Art,Italy,Da Vinci,Period
+Industrial Revolution|Factories,Steam,Machines,Britain,Change,Cities
+Age of Enlightenment|Reason,Philosophy,Europe,Science,Ideas,Century
+French Revolution? exists as Revolution; skip
+Magna Carta|King,Rights,England,Charter,Barons,1215
+Black Death|Plague,Medieval,Rats,Europe,Fleas,Disease
+Silk Road|Trade,China,Caravans,Ancient,Route,Merchants
+Roman Empire|Caesar,Legions,Ancient,Rome,Emperor,Conquest
+Ottoman Empire|Turkey,Sultan,Istanbul,Historic,Empire,Muslim
+Mongol Horde|Genghis Khan,Horses,Invaders,Steppe,Empire,Conquest
+Genghis Khan|Mongol,Empire,Warrior,Horse,Conqueror,Steppe
+Cleopatra|Egypt,Queen,Nile,Caesar,Antony,Asp
+Julius Caesar|Rome,Emperor,Ides,Brutus,Dictator,Salad
+Alexander the Great|Macedonia,Conqueror,Empire,Greek,Horse,Young
+Napoleon Bonaparte|French,Emperor,Waterloo,Short,Exile,Elba
+Queen Victoria|Britain,Empire,Reign,Long,Widow,Era
+Winston Churchill|Prime Minister,Britain,War,Cigar,Speeches,Blitz
+Abraham Lincoln|President,Emancipation,Civil War,Hat,Gettysburg,America
+Martin Luther King|Dream,Speech,Civil rights,Pastor,Activist,Washington
+Rosa Parks|Bus,Seat,Civil rights,Montgomery,Activist,Refused
+Mahatma Gandhi|India,Non-violence,Salt March,Independence,Peace,Spinning
+Nelson Mandela Release|Prison,1990,Freedom,Victor Verster,Walk,Crowd
+Berlin Airlift|Cold War,Planes,Food,Germany,Blockade,Supplies
+Cuban Missile Crisis|Cold War,Kennedy,Nuclear,Soviet,Standoff,Missiles
+Space Race|Moon,Soviets,America,Rockets,Cold War,Satellites
+Sputnik|Satellite,Soviet,First,Space,Orbit,1957
+Apollo Eleven|Moon,Landing,Armstrong,Aldrin,Rocket,1969
+International Space Station|Orbit,Astronauts,Laboratory,Earth,Space,Crew
+Mars Rover|NASA,Red planet,Wheels,Explore,Robot,Dust
+James Webb Telescope|Space,Infrared,Images,Galaxies,NASA,Mirror
+Hubble Telescope|Space,Orbit,Images,Stars,NASA,Lens
+Black Hole Image|Telescope,Event horizon,Space,Photograph,Dark,Ring
+Big Bang Theory|Universe,Beginning,Explosion,Cosmos,Expansion,Science
+Theory of Relativity|Einstein,Time,Space,Physics,Gravity,Light
+Periodic Table|Elements,Chemistry,Mendeleev,Chart,Atoms,Symbols
+Photosynthesis Process? exists skip
+Food Chain|Predator,Prey,Eat,Energy,Nature,Animals
+Natural Selection|Darwin,Survival,Evolution,Fittest,Species,Adapt
+Continental Drift|Plates,Earth,Move,Continents,Pangaea,Geology
+Plate Tectonics|Earthquakes,Volcanoes,Crust,Earth,Move,Geology
+Richter Scale|Earthquake,Magnitude,Measure,Seismic,Shake,Numbers
+Water Cycle|Rain,Evaporation,Clouds,Sea,Condensation,Rivers
+Solar Eclipse|Moon,Sun,Shadow,Dark,Totality,Glasses
+Lunar Eclipse|Moon,Earth,Shadow,Red,Blood,Night
+Equinox|Day,Night,Equal,Season,March,September
+Leap Second|Clock,Time,Adjust,Earth,Rotation,Extra
+Time Zone|Clock,Hours,Travel,Countries,Different,GMT
+International Date Line|Pacific,Day,Cross,Map,Calendar,Change
+Prime Meridian|Greenwich,Longitude,Zero,Line,Map,Time
+Magnetic North|Compass,Needle,Pole,Arctic,Direction,Earth
+Compass Rose|Map,Directions,Circle,North,Points,Chart
+Topographic Map|Contours,Hills,Elevation,Lines,Hiking,Terrain
+GPS Navigation|Satellites,Route,Car,Phone,Directions,Voice
+Sat Nav|Car,Directions,Voice,Route,Screen,Turn
+Cartography|Maps,Making,Geography,Drawing,Charts,Mapmaker
+Archaeology|Dig,Ancient,Ruins,Artefacts,History,Excavate
+Fossil Record|Bones,Rocks,Ancient,Evolution,Layers,Scientists
+Carbon Dating|Age,Fossils,Radiation,Old,Archaeology,Test
+Time Capsule|Buried,Future,Box,Items,Open,Past
+Museum Curator|Exhibits,Collection,Gallery,Display,Expert,Artefacts
+Auction House|Bid,Hammer,Sale,Lots,Art,Highest
+Art Forgery|Fake,Painting,Copy,Fraud,Masterpiece,Dealer
+Abstract Art|Shapes,Colours,Modern,Meaning,Painting,Non-literal
+Impressionism|Monet,Painting,Light,Brush,French,Movement
+Surrealism|Dali,Dreams,Strange,Art,Melting,Movement
+Cubism|Picasso,Shapes,Art,Angles,Faces,Movement
+Street Art|Walls,Banksy,Graffiti,Murals,Spray,Cities
+Banksy|Street,Artist,Anonymous,Stencil,Graffiti,Shredded
+Performance Art|Live,Artist,Body,Audience,Happening,Gallery
+Installation Art|Gallery,Space,Sculpture,Immersive,Exhibition,Room
+Ballet Pointe|Dancers,Toes,Shoes,Tutu,Stage,Classical
+Contemporary Dance|Modern,Movement,Stage,Dancers,Expression,Choreography
+Spoken Word|Poetry,Performance,Stage,Voice,Poet,Words
+Slam Poetry|Competition,Performance,Words,Poets,Stage,Judges
+Haiku Poem? exists skip
+Sonnet|Poem,Fourteen,Lines,Shakespeare,Rhyme,Love
+Epic Poem|Long,Hero,Odyssey,Verse,Story,Ancient
+Oral Tradition|Stories,Spoken,Elders,Pass down,Culture,Memory
+Praise Poet|Imbongi,Chief,Poem,Tribute,Xhosa,Words
+Imbongi|Praise,Poet,Xhosa,Chief,Recite,Tradition
+Folk Tale|Story,Village,Animals,Moral,Traditional,Told
+Trickster Hare|Story,Folk,African,Clever,Fables,Tales
+Anansi|Spider,Stories,Ghana,Trickster,West Africa,Tales
+Mythical Creature|Dragon,Legend,Imaginary,Story,Monster,Unicorn
+Tokoloshe|Folklore,Bed,Bricks,Zulu,Spirit,Scary
+Ancestral Spirits|Ancestors,Dead,Guide,Traditional,Pray,Family
+Ancestor Worship|Spirits,Dead,Traditional,Ritual,Family,Pray
+Traditional Healer|Herbs,Sangoma,Medicine,Ancestors,Village,Remedies
+Muti|Traditional,Medicine,Herbs,Healer,Remedy,Potion
+Herbal Remedy|Plants,Traditional,Cure,Tea,Natural,Healing
+Rain Dance|Ceremony,Drought,Prayer,Tribe,Water,Clouds
+Rain Queen|Modjadji,Limpopo,Ruler,Rain,Lovedu,Cycads
+Cycad|Ancient,Plant,Palm,Prehistoric,Rare,Cone
+Welwitschia|Namibia,Desert,Plant,Ancient,Leaves,Strange
+Quiver Tree|Namibia,Desert,Succulent,Aloe,Tall,Karoo
+Elephant Herd|Matriarch,Calves,Trunk,Group,Savanna,Walk
+Lion Pride|Lioness,Cubs,Males,Group,Savanna,Roar
+Cheetah Cubs|Spots,Baby,Fast,Mother,Savanna,Tear stripes
+Leopard Tree|Spotted,Cat,Branch,Hunt,Night,Hide
+Hippo Pod|River,Group,Yawn,Dangerous,Water,Heavy
+Crocodile Basking|Sun,River,Bank,Jaws,Reptile,Still
+African Wild Dog|Painted,Pack,Hunt,Endangered,Spots,Savanna
+Pangolin|Scales,Armour,Rare,Roll,Ant,Trafficked
+Aardvark|Ants,Nose,Night,Burrow,Digging,Tongue
+Black Mamba|Snake,Venom,Fast,Deadly,Africa,Mouth
+Boomslang|Snake,Tree,Venom,Green,Africa,Fangs
+Puff Adder|Snake,Venom,Thick,Africa,Ambush,Adder? skip
+Secretary Bird|Snakes,Stomp,Legs,Raptor,Savanna,Crest
+Cape Vulture|Bird,Scavenger,Large,Endangered,Cliffs,Carcass
+Sunbird|Nectar,Small,Colourful,Flowers,Fynbos,Beak
+Weaver Bird|Nest,Woven,Yellow,Tree,Colony,Grass
+Hornbill|Beak,Bird,Zazu,Africa,Large,Casque
+Oxpecker|Buffalo,Bird,Ticks,Back,Rhino,Friend
+Honeyguide|Bird,Honey,Guide,Bees,Africa,Whistle

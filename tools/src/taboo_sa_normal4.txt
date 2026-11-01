@@ -1,0 +1,243 @@
+# NORMAL batch 4 - modern life, sport, entertainment, travel
+Smartwatch|Wrist,Fitness,Apple,Steps,Notifications,Time
+Fitness Tracker|Steps,Wrist,Health,Band,Exercise,Count
+Streaming Service|Movies,Series,Subscription,Netflix,Online,Watch
+Binge Watching|Series,Episodes,Marathon,Couch,Season,Streaming
+Group Selfie|Photo,Friends,Phone,Camera,Smile,Arm
+Photo Filter|Instagram,Effects,Edit,Face,Colour,Snapchat
+Profile Picture|Avatar,Social media,Photo,Face,Account,Online
+Viral Video|Millions,Views,Internet,Share,Clip,Trending
+Trending Topic|Twitter,Popular,Hashtag,Online,Talked,Now
+Content Creator|YouTube,Videos,Influencer,Channel,Online,Subscribers
+Live Stream|Broadcast,Online,Video,Chat,TikTok,Real-time
+Shopping Cart|Basket,Checkout,Website,Buy,Items,Order
+Click and Collect|Shop,Order,Pick up,Online,Store,Parcel
+Contactless Payment|Tap,Card,Phone,Pay,Machine,Terminal
+ATM|Cash,Bank,Withdraw,Machine,Pin,Card
+PIN Number|Card,Secret,Four,Digits,Bank,Code
+Credit Card|Plastic,Debt,Pay,Limit,Bank,Spend
+Debit Order|Bank,Monthly,Automatic,Payment,Account,Deducted
+Savings Account|Bank,Interest,Money,Deposit,Save,Balance
+Overdraft|Bank,Negative,Account,Money,Owe,Limit
+Loan Shark|Lender,Interest,Illegal,Money,Debt,Threat
+Budget Planner|Money,Spending,Monthly,Plan,Expenses,Income
+Online Banking|Website,App,Transfer,Account,Bank,Login
+Two-Factor Authentication|Code,Login,Security,Phone,Password,Verify
+Software Update|Phone,Install,Version,Patch,Download,Restart
+Bluetooth Speaker|Music,Wireless,Portable,Sound,Party,Loud
+Smart TV|Screen,Apps,Streaming,Remote,Internet,Television
+Gaming Console|Controller,PlayStation,Xbox,Games,TV,Play
+Video Call|Zoom,Screen,Camera,Meeting,Online,Face
+Online Meeting|Zoom,Teams,Video,Work,Screen,Call
+Work From Home|Office,Laptop,Remote,Pyjamas,Commute,Online
+Coffee Shop|Latte,Barista,Cafe,Laptop,Beans,Chat
+Food Delivery|App,Driver,Order,Meal,Takeaway,Courier
+Meal Prep|Containers,Cook,Week,Healthy,Fridge,Lunch
+Air Fryer|Crispy,Oil,Kitchen,Chips,Hot,Appliance
+Slow Cooker|Stew,Kitchen,Hours,Pot,Lid,Appliance
+Instant Noodles|Packet,Boil,Cheap,Quick,Flavour,Cup
+Energy Drink|Caffeine,Can,Wings,Boost,Sugar,Sports
+Protein Shake|Gym,Powder,Muscle,Drink,Blender,Bottle
+Vegan|Plants,Diet,No meat,Dairy,Animals,Food
+Gluten-Free|Bread,Diet,Wheat,Coeliac,Food,Flour
+Yoga Mat|Stretch,Exercise,Roll,Floor,Pose,Studio
+Spin Class|Bike,Gym,Cycling,Sweat,Instructor,Indoor
+Park Run|Saturday,5km,Run,Free,Timed,Community
+Step Counter|Walk,Phone,Steps,Daily,Fitness,Distance
+Sleep Tracker|Night,Bed,Wrist,Hours,App,Rest
+Meditation App|Calm,Breathing,Phone,Relax,Mind,Guided
+Spa Day|Massage,Facial,Relax,Treatment,Robe,Pamper
+Barber Shop|Haircut,Beard,Clippers,Chair,Trim,Fade
+Nail Salon|Manicure,Polish,Nails,Fingers,Beauty,Colour
+Tattoo Parlour|Ink,Needle,Skin,Design,Artist,Permanent
+Dog Park|Pets,Run,Leash,Bark,Fetch,Walk
+Vet Clinic|Animals,Pets,Vaccines,Doctor,Cat,Dog
+Fish Tank|Aquarium,Water,Goldfish,Glass,Pet,Filter
+Bird Feeder|Garden,Seeds,Hang,Wild,Wings,Tray
+Garden Shed|Tools,Wooden,Outside,Lawnmower,Storage,Spade
+Lawnmower|Grass,Cut,Garden,Engine,Blades,Push
+Sleeping Bag|Camping,Zip,Warm,Night,Tent,Cosy
+Hiking Boots|Trail,Walk,Mountain,Laces,Shoes,Mud
+Backpacker Hostel|Travel,Dorm,Cheap,Beds,Travellers,Young
+Road Trip Playlist|Car,Songs,Music,Drive,Journey,Speakers
+Parking Ticket|Fine,Car,Meter,Warden,Pay,Windscreen
+Car Wash|Soap,Suds,Clean,Vehicle,Brushes,Wax
+Petrol Attendant|Garage,Fuel,Pump,Service,Tip,Car
+Flat Tyre|Car,Puncture,Spare,Wheel,Change,Air
+Jump Start|Car,Battery,Cables,Dead,Engine,Charge
+Tow Truck|Broken,Car,Pull,Road,Hook,Breakdown
+Driving School|Lessons,Instructor,Learner,Car,Test,Licence
+Speed Bump|Road,Slow,Hump,Car,Street,Traffic
+Zebra Crossing|Road,Stripes,Pedestrians,Walk,Black,White
+Traffic Cone|Orange,Road,Works,Plastic,Block,Stripe
+Fire Extinguisher|Red,Flames,Spray,Emergency,Safety,Foam
+Smoke Alarm|Beep,Fire,Ceiling,Battery,Detector,Safety
+First Aid Kit|Plasters,Bandage,Medical,Box,Emergency,Injury
+Lost Property|Office,Found,Station,Items,Claim,Missing
+Boarding Gate|Airport,Flight,Plane,Queue,Passengers,Number
+Duty Free|Airport,Shop,Tax,Perfume,Alcohol,Travellers
+Window Seat|Plane,View,Aeroplane,Clouds,Aisle,Flight
+Cabin Crew|Flight,Plane,Air hostess,Steward,Uniform,Service
+Baggage Reclaim|Airport,Carousel,Suitcase,Luggage,Wait,Belt
+Customs Declaration|Airport,Form,Border,Goods,Travellers,Officers
+Passport Control|Border,Stamp,Airport,Officer,Queue,Immigration
+Travel Insurance|Cover,Holiday,Claim,Policy,Medical,Trip
+Souvenir Shop|Gifts,Tourists,Keyring,Magnet,Holiday,Trinkets
+Tour Guide|Group,Sights,Umbrella,Tourists,Explain,Visit
+Olympic Rings|Five,Circles,Colours,Games,Logo,Interlocked
+Olympic Village|Athletes,Housing,Games,Accommodation,Host,Team
+Medal Ceremony|Podium,Anthem,Gold,Winners,Athletes,Flag
+Penalty Shootout|Kicks,Goalkeeper,Spot,Football,Draw,Final
+Offside Trap|Defenders,Line,Football,Referee,Flag,Strikers
+VAR|Referee,Video,Football,Decision,Review,Goal
+Yellow Card|Referee,Football,Warning,Foul,Booking,Red
+Red Card|Referee,Football,Sent off,Foul,Yellow,Dismissed
+Transfer Window|Football,Clubs,Players,Buy,Sell,Deadline
+Premier League|England,Football,Clubs,Table,Season,Top
+Champions League|Europe,Football,Clubs,Trophy,Anthem,Final
+La Liga|Spain,Football,Madrid,Barcelona,League,Clubs
+El Clasico|Madrid,Barcelona,Match,Rivalry,Spain,Football
+Ballon d'Or|Award,Best,Footballer,Golden,Year,Trophy
+Grand Slam|Tennis,Majors,Four,Wimbledon,Titles,Win
+Tie-Break|Tennis,Points,Set,Seven,Decider,Serve
+Ace|Serve,Tennis,Untouched,Fast,Point,Opponent
+Pole Position|Race,Front,Qualifying,Grid,Fastest,Start
+Chequered Flag|Race,Finish,Black,White,Winner,Motor
+Grand Prix|Race,Formula,Circuit,Weekend,Cars,Monaco
+Halftime Show|Super Bowl,Singer,Concert,Break,Stadium,Performance
+Three-Pointer|Basketball,Arc,Shot,Score,Long,Hoop
+Home Run|Baseball,Bat,Ball,Fence,Bases,Hit
+Touchdown|American football,Score,End zone,Six,Run,Catch
+Rugby Try|Score,Ball,Line,Ground,Five,Points
+Drop Goal|Rugby,Kick,Posts,Three,Ball,Bounce
+Cricket Wicket|Stumps,Bails,Bowler,Batter,Out,Pitch
+Sixer|Cricket,Boundary,Ball,Over,Six,Bat
+Century|Cricket,Hundred,Runs,Batter,Score,Milestone
+Hole-in-One|Golf,Ace,Shot,Tee,Cup,Lucky
+Birdie|Golf,Under,Par,Hole,Shot,Score
+Caddie|Golf,Clubs,Carry,Bag,Player,Helper
+Putt|Golf,Green,Hole,Short,Roll,Club
+Bowling Strike|Pins,Knock,Alley,Ball,Ten,Lane
+Table Football|Foosball,Rods,Spin,Pub,Small,Players
+Pool Table|Cue,Balls,Pocket,Green,Break,Bar
+Darts Board|Bullseye,Triple,Throw,Pub,Points,Double
+Chess Grandmaster|Board,Pieces,Champion,Mate,Expert,Title
+Rubik's Cube|Puzzle,Colours,Twist,Solve,Square,Faces
+Jigsaw Puzzle|Pieces,Box,Picture,Fit,Table,Edges
+Board Game Night|Dice,Family,Friends,Monopoly,Table,Cards
+Playing Cards|Deck,Suit,Ace,King,Shuffle,Hearts
+Poker Face|Bluff,Cards,Blank,Expression,Hide,Game
+Dice Roll|Throw,Six,Cube,Game,Luck,Number
+Talent Show|Judges,Stage,Audition,Buzzer,Contestants,Acts
+Open Mic|Stage,Poetry,Comedian,Sing,Bar,Sign-up
+Film Premiere|Red carpet,Cinema,Stars,Opening,Photographers,Night
+Movie Trailer|Preview,Clips,Cinema,Coming soon,Film,Teaser
+Post-Credits Scene|Film,Marvel,Extra,End,Sit,Teaser
+Plot Hole|Story,Film,Mistake,Logic,Inconsistent,Fans
+Box Office|Tickets,Film,Sales,Hit,Million,Cinema
+Stunt Double|Film,Action,Actor,Dangerous,Replace,Jump
+Special Effects|Film,CGI,Explosions,Computer,Movie,Magic
+Green Screen|Film,Backdrop,Actors,Effects,Colour,Studio
+Animated Film|Cartoon,Pixar,Drawn,Kids,Characters,Cinema
+Superhero Movie|Marvel,Cape,Powers,Villain,Action,Cinema
+Marvel Universe|Avengers,Films,Heroes,Comics,Disney,Stan Lee
+Disney Princess|Castle,Cartoon,Dress,Prince,Song,Animated
+Pixar|Studio,Animation,Lamp,Toy Story,Films,Cartoons
+Netflix Original|Series,Streaming,Made,Show,Subscription,Exclusive
+Reality Show|Contestants,Television,Drama,Cameras,Eviction,Vote
+Game Show|Host,Prize,Questions,Contestants,Buzzer,Television
+Quiz Night|Pub,Questions,Teams,Answers,Winner,Trivia
+Karaoke Machine|Microphone,Lyrics,Screen,Sing,Party,Songs
+Music Festival|Camping,Bands,Stage,Tickets,Crowd,Weekend
+Mosh Pit|Concert,Crowd,Rock,Jump,Push,Front
+Encore Song|Concert,Again,Crowd,Extra,Last,Cheer
+Playlist|Songs,Spotify,Music,Order,Shuffle,Queue
+Vinyl Record|Turntable,Needle,Black,Album,Spin,Old
+Headliner|Festival,Main,Band,Last,Top,Act
+Backing Singer|Choir,Harmony,Behind,Star,Voice,Stage
+Drum Solo|Band,Sticks,Concert,Beats,Alone,Rock
+Guitar Riff|Rock,Strings,Melody,Song,Catchy,Play
+Boy Band|Group,Singers,Teen,Dance,Fans,Harmony
+Talent Scout|Agent,Discover,Stars,Audition,Young,Signing
+Fan Club|? skip
+Fashion Week|Runway,Models,Designers,Show,Clothes,Catwalk
+Catwalk|Runway,Models,Fashion,Stage,Strut,Show
+Red Lipstick|Makeup,Lips,Colour,Cosmetics,Kiss,Tube
+Sneaker Collection|Shoes,Trainers,Limited,Boxes,Brands,Fans
+Designer Handbag|Fashion,Expensive,Brand,Leather,Luxury,Purse
+Thrift Shop|Second-hand,Cheap,Clothes,Charity,Vintage,Bargain
+Flea Market|Stalls,Second-hand,Bargain,Weekend,Antiques,Haggle
+Farmers Market|Fresh,Stalls,Vegetables,Saturday,Local,Organic
+Food Truck|Street,Van,Menu,Festival,Hot,Order
+Pop-Up Restaurant|Temporary,Chef,Menu,Short,Dining,Event
+Brunch|Late,Breakfast,Lunch,Sunday,Eggs,Friends
+High Tea|Scones,Cakes,Sandwiches,Afternoon,Pot,Cups
+Cheese Platter|Crackers,Board,Wine,Grapes,Slices,Party
+Charcuterie|Meats,Board,Cured,Cheese,Platter,Slices
+Sushi Roll|Rice,Seaweed,Fish,Japan,Wasabi,Soy
+Pizza Oven|Wood,Italy,Bake,Crust,Fire,Stone
+Burger Patty|Beef,Bun,Grill,Mince,Cheese,Round
+Milkshake Straw? skip
+Ice Cream Truck|Van,Chimes,Summer,Cones,Street,Kids
+Cotton Candy|Fair,Pink,Sugar,Fluffy,Stick,Sweet
+Candy Cane|Christmas,Stripes,Peppermint,Sweet,Hook,Red
+Gingerbread House|Christmas,Biscuit,Icing,Sweets,Roof,Decorate
+Hot Cross Buns|Easter,Spiced,Cross,Bun,Currants,Friday
+Pancake Day|Tuesday,Flip,Lemon,Sugar,Batter,Lent
+Fruit Salad|Bowl,Mixed,Healthy,Chopped,Dessert,Pieces
+Smoothie Bowl|Blended,Berries,Spoon,Healthy,Toppings,Breakfast
+Avocado Toast|Brunch,Bread,Smashed,Millennial,Eggs,Green
+Peanut Butter|Jar,Sandwich,Spread,Nuts,Jam,Sticky
+Bubble Tea|Tapioca,Pearls,Straw,Taiwan,Milk,Drink
+Iced Coffee|Cold,Summer,Ice,Cup,Caffeine,Straw
+Hot Chocolate Marshmallows|? skip
+Birthday Candles|Cake,Blow,Wish,Flame,Age,Party
+Surprise Party|Hidden,Birthday,Shout,Friends,Secret,Guest
+Gift Wrap|Paper,Present,Ribbon,Tape,Birthday,Bow
+Secret Santa|Christmas,Office,Gift,Draw,Names,Exchange
+Christmas Tree Lights|Decorations,Sparkle,Wire,December,Plug,Colourful
+Advent Calendar|December,Doors,Chocolate,Countdown,Christmas,Days
+New Year's Resolution|January,Promise,Gym,Goal,Diet,Year
+Valentine's Card|February,Heart,Love,Roses,Romantic,Message
+Mother's Day|Mom,Flowers,Sunday,Card,Gift,Breakfast
+Father's Day|Dad,Tie,Card,Gift,June,Braai
+School Reunion|Old friends,Years,Classmates,Gathering,Memories,Party
+Graduation Cap|Tassel,Black,Hat,Gown,Throw,Degree
+Job Interview|Questions,Suit,Panel,CV,Nervous,Hired
+Office Party|Work,Colleagues,Drinks,December,Dance,Boss
+Coffee Break|Office,Rest,Tea,Colleagues,Mug,Chat
+Water Cooler|Office,Gossip,Chat,Bottle,Workers,Bubble
+Photocopier|Office,Paper,Machine,Copy,Jam,Print
+Name Badge|Conference,Lanyard,Pin,Staff,Tag,Introduce
+Lunch Box|School,Sandwich,Packed,Container,Child,Fridge
+School Bell|Ring,Break,Lesson,Class,End,Teacher
+Spelling Bee|Words,Contest,Letters,Children,Champion,Competition
+School Play|Stage,Costumes,Children,Parents,Drama,Audience
+Sports Day|School,Races,Egg and spoon,Houses,Ribbons,Field
+Egg and Spoon Race|Sports day,Balance,Run,Children,Carry,Drop
+Sack Race|Jump,Bag,Sports day,Fun,Hop,Children
+Tug of War|Rope,Teams,Pull,Strength,Mud,Contest
+Treasure Hunt|Clues,Map,Find,Prize,Hidden,Game
+Hide and Seek|Count,Hide,Find,Children,Game,Behind
+Musical Chairs|Music,Sit,Stop,Game,Party,Out
+Pass the Parcel|Music,Wrapping,Layers,Party,Game,Unwrap
+Charades|Act,Guess,Silent,Game,Mime,Teams
+Pictionary|Draw,Guess,Game,Pencil,Teams,Words
+Water Balloon|Throw,Summer,Splash,Rubber,Fight,Fun
+Sandcastle Contest|Beach,Bucket,Build,Spade,Tide,Sand
+Beach Umbrella|Sun,Shade,Sand,Pole,Sea,Towel
+Beach Volleyball|Sand,Net,Sea,Pairs,Spike,Summer
+Sunscreen Lotion|? skip
+Surf Lesson|Instructor,Board,Waves,Beginner,Sea,Wetsuit
+Wetsuit|Surf,Rubber,Cold,Diving,Black,Swim
+Snorkel|Mask,Tube,Fish,Underwater,Breathe,Swim
+Lifejacket|Boat,Float,Safety,Orange,Water,Wear
+Fishing Rod|Reel,Line,Hook,Bait,Catch,Lake
+Picnic Basket|Food,Park,Blanket,Wicker,Sandwiches,Lunch
+Kite Flying|Wind,String,Sky,Beach,Tail,Fly
+Hot Air Balloon Ride|? skip
+Bonfire Night|Fireworks,Guy,November,Flames,Sparklers,Toffee
+Sparklers|Fireworks,Light,Wave,Hand,Night,Sparks
+Campfire Songs|Marshmallows,Guitar,Sing,Night,Scouts,Camp
+Scout Badge|Uniform,Skills,Sew,Merit,Troop,Award
+Girl Guides|Uniform,Cookies,Camp,Badges,Girls,Brownies

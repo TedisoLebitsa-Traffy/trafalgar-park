@@ -1,0 +1,251 @@
+# NORMAL batch 3 - Africa and the world (places, food, culture)
+Lagos|Nigeria,City,Largest,Traffic,Port,Nollywood
+Abuja|Nigeria,Capital,City,Government,Rock,Federal
+Nollywood|Nigeria,Films,Movies,Industry,Lagos,Actors
+Afrobeats|Music,Nigeria,Dance,Burna Boy,Genre,Beats
+Burna Boy|Afrobeats,Nigerian,Singer,Grammy,Music,Artist
+Wizkid|Afrobeats,Nigerian,Singer,Music,Artist,Songs
+Davido|Afrobeats,Nigerian,Singer,Music,Artist,Songs
+Jollof Rice|Nigeria,Ghana,Rice,Tomato,West Africa,Party
+Suya|Nigeria,Skewers,Spicy,Meat,Street,Grilled
+Egusi Soup|Nigeria,Melon,Seeds,Pounded,Yam,Stew
+Fufu|Cassava,Pounded,Soup,West Africa,Dough,Swallow
+Ugali|Kenya,Maize,Porridge,Staple,East Africa,Stiff
+Nyama Choma|Kenya,Grilled,Meat,Roast,Goat,Barbecue
+Nairobi|Kenya,Capital,City,National Park,Safari,East Africa
+Mombasa|Kenya,Coast,Port,City,Beach,Indian Ocean
+Maasai Mara|Kenya,Migration,Wildebeest,Reserve,Safari,Park
+Maasai|Kenya,Tribe,Warriors,Red,Cattle,Beads
+Great Migration|Wildebeest,Serengeti,Mara,Zebra,River,Herds
+Serengeti|Tanzania,Plains,Migration,Safari,Park,Lions
+Zanzibar|Island,Tanzania,Spice,Stone Town,Beach,Indian Ocean
+Stone Town|Zanzibar,Old,Alleys,Doors,Island,Swahili
+Ngorongoro Crater|Tanzania,Volcano,Animals,Caldera,Safari,Lions
+Addis Ababa|Ethiopia,Capital,African Union,City,Highlands,Headquarters
+Injera|Ethiopia,Flatbread,Sour,Teff,Stew,Spongy
+Ethiopian Coffee|Ceremony,Beans,Roasted,Buna,Hot,Brew
+Lalibela|Ethiopia,Rock,Churches,Carved,Holy,Pilgrims
+Kigali|Rwanda,Capital,Clean,City,Hills,Africa
+Mountain Gorillas|Rwanda,Uganda,Forest,Apes,Trek,Silverback
+Silverback|Gorilla,Male,Leader,Back,Troop,Ape
+Kampala|Uganda,Capital,City,Hills,Lake Victoria,East Africa
+Source of the Nile|Uganda,Jinja,River,Lake,Rapids,Start
+Victoria Falls Bridge|Zambia,Zimbabwe,Border,Bungee,Zambezi,Gorge
+Livingstone|Zambia,Town,Explorer,Falls,Victoria,Tourist
+Lusaka|Zambia,Capital,City,Copperbelt,Africa,Government
+Harare|Zimbabwe,Capital,City,Jacaranda,Government,Africa
+Great Zimbabwe Ruins|Stone,Walls,Ancient,Masvingo,City,Birds
+Okavango Delta|Botswana,Mokoro,Water,Wildlife,Wetland,Inland
+Chobe|Botswana,Elephants,River,Park,Safari,Boat
+Gaborone|Botswana,Capital,City,Diamonds,Africa,Government
+Windhoek|Namibia,Capital,City,Beer,German,Africa
+Sossusvlei|Namibia,Dunes,Red,Desert,Sand,Dead Vlei
+Skeleton Coast|Namibia,Shipwrecks,Fog,Desert,Atlantic,Bones
+Etosha|Namibia,Pan,Salt,Park,Animals,Waterhole
+Maputo|Mozambique,Capital,City,Coast,Portuguese,Port
+Peri-Peri Prawns|Mozambique,Spicy,Seafood,Grilled,Garlic,Chilli
+Luanda|Angola,Capital,City,Oil,Port,Atlantic
+Kinshasa|Congo,Capital,City,Music,River,Rumba
+Congo Rumba|Music,Guitar,Dance,Kinshasa,Rhythm,Africa
+Congo River|Deep,Rainforest,Long,Africa,Kinshasa,Rapids
+Cairo|Egypt,Capital,Pyramids,Nile,City,Traffic
+Giza Pyramids|Egypt,Sphinx,Tombs,Cairo,Pharaoh,Ancient
+Sphinx|Egypt,Lion,Statue,Desert,Riddle,Giza
+Luxor|Egypt,Temples,Nile,Valley,Kings,Tombs
+Valley of the Kings|Egypt,Tombs,Luxor,Pharaohs,Burial,Tutankhamun
+Tutankhamun|Pharaoh,Boy,King,Mask,Tomb,Egypt
+Nile Cruise|Boat,Egypt,River,Ship,Temples,Tourists
+Marrakech|Morocco,Souk,Medina,City,Red,Spices
+Casablanca|Morocco,City,Port,Film,Mosque,Coast
+Chefchaouen|Morocco,Blue,City,Mountains,Town,Painted
+Tunis|Tunisia,Capital,City,Carthage,Mediterranean,Medina
+Carthage|Tunisia,Ancient,Hannibal,Ruins,Rome,Empire
+Algiers|Algeria,Capital,City,Casbah,Mediterranean,Port
+Timbuktu|Mali,Desert,Manuscripts,Remote,Mosque,Sahara
+Dakar|Senegal,Capital,City,Rally,Atlantic,West Africa
+Accra|Ghana,Capital,City,Coast,Independence,West Africa
+Kente Cloth|Ghana,Woven,Colourful,Fabric,Akan,Pattern
+Black Stars|Ghana,Football,Team,National,Soccer,Africa
+Cocoa|Ghana,Chocolate,Beans,Farmers,Pods,Ivory Coast
+Abidjan|Ivory Coast,City,Lagoon,Port,West Africa,Largest
+Freetown|Sierra Leone,Capital,City,Coast,Harbour,Africa
+Monrovia|Liberia,Capital,City,Coast,Africa,Port
+Djembe Drum|Hands,West Africa,Rhythm,Goblet,Skin,Percussion
+Kora|Harp,West Africa,Strings,Griot,Gourd,Instrument
+Griot|Storyteller,West Africa,Singer,History,Oral,Praise
+Mbira|Thumb,Piano,Zimbabwe,Instrument,Shona,Metal
+Kalimba|Thumb,Piano,Instrument,Tines,Plucked,Africa
+Ankara Fabric|Print,Wax,Colourful,African,Dress,Cloth
+Dashiki|Shirt,African,Colourful,Loose,Embroidered,Clothing
+Kanga|Cloth,Swahili,Wrap,Kenya,Printed,Saying
+Shweshwe|Fabric,Print,Dress,Blue,Cotton,Traditional
+Safari Jeep|Vehicle,Animals,Tourists,Open,Bush,Guide
+Game Drive|Safari,Jeep,Animals,Morning,Guide,Bush
+Watering Hole|Animals,Drink,Safari,Water,Savanna,Wild
+Acacia Tree|Giraffe,Savanna,Thorns,Flat,Africa,Umbrella
+Wildebeest|Migration,Gnu,Herd,Serengeti,Horns,Plains
+Hyena|Laugh,Scavenger,Spotted,Pack,Lion King,Wild
+Vulture|Bird,Scavenger,Carcass,Bald,Circling,Dead
+Flamingo|Pink,Bird,Lake,Legs,Flock,Stand
+Lake Malawi|Africa,Fish,Cichlids,Water,Beach,Fresh
+Lake Tanganyika|Africa,Deep,Great Lakes,Water,Fish,Long
+Rift Valley|Africa,Great,Crack,Lakes,Valley,Fossils
+Mount Kenya|Peak,Equator,Africa,Snow,Climb,Second
+Sahel|Region,Africa,Desert,Dry,Savanna,Drought
+Savannah|Grassland,Africa,Trees,Lions,Safari,Plains
+Pan-African|Continent,Unity,Flag,Movement,Africa,Together
+African Union Summit|Leaders,Addis Ababa,Continent,Meeting,Heads,Presidents
+Africa Day|May,Celebration,Continent,African Union,Holiday,Culture
+Africa Cup of Nations|AFCON,Football,Tournament,Teams,Continent,Trophy
+Pan African Parliament|Midrand,Continent,Members,Union,Debate,Africa
+Louvre|Paris,Museum,Mona Lisa,Pyramid,Glass,Art
+Mona Lisa|Painting,Louvre,Smile,Da Vinci,Portrait,Famous
+Champs-Elysees|Paris,Avenue,Arc,Shopping,Street,France
+Arc de Triomphe|Paris,Arch,Napoleon,Monument,France,Roundabout
+Notre-Dame|Paris,Cathedral,Bells,Fire,Gothic,France
+Versailles|France,Louis,Gardens,Mirrors,King,Royal
+Tower Bridge|London,Thames,Bascule,Raised,River,Landmark
+London Eye|Wheel,Thames,Ferris,Capsules,Views,Tourists
+Piccadilly Circus|London,Lights,Square,Statue,Tube,Billboards
+Hyde Park|London,Speakers,Corner,Green,Serpentine,Park
+Westminster Abbey|London,Coronation,Royal,Church,Wedding,Gothic
+Stonehenge|England,Stones,Circle,Ancient,Solstice,Wiltshire
+Edinburgh Castle|Scotland,Rock,Fortress,Tattoo,Hill,City
+Loch Ness Monster|Scotland,Nessie,Lake,Legend,Sightings,Water
+Giant's Causeway|Ireland,Basalt,Columns,Coast,Hexagonal,Legend
+Blarney Stone|Ireland,Kiss,Castle,Eloquence,Cork,Gift
+Guinness|Beer,Stout,Dublin,Black,Pint,Irish
+Pompeii|Vesuvius,Ash,Italy,Ruins,Volcano,Roman
+Venice Canals|Gondola,Water,Italy,Bridges,Boats,City
+Gondola|Venice,Boat,Canal,Oar,Singing,Romantic
+Leaning Tower|Pisa,Italy,Tilted,Tower,Tourists,Photo
+Sistine Chapel|Vatican,Ceiling,Michelangelo,Paintings,Pope,Rome
+Trevi Fountain|Rome,Coins,Wish,Italy,Throw,Water
+Spanish Steps|Rome,Stairs,Tourists,Italy,Piazza,Flowers
+Sagrada Familia|Barcelona,Gaudi,Church,Spain,Towers,Unfinished
+La Tomatina|Spain,Tomatoes,Throwing,Festival,Bunol,Red
+Running of the Bulls|Pamplona,Spain,Streets,Festival,Runners,Horns
+Flamenco|Spain,Dance,Guitar,Dress,Stamping,Passion
+Paella|Spain,Rice,Seafood,Saffron,Pan,Valencia
+Tapas|Spain,Small,Plates,Bar,Snacks,Sharing
+Sangria|Spain,Wine,Fruit,Drink,Jug,Punch
+Brandenburg Gate|Berlin,Germany,Monument,Arch,Wall,Landmark
+Berlin Wall|Germany,East,West,Fall,Divided,Concrete
+Oktoberfest|Munich,Beer,Germany,Festival,Lederhosen,Steins
+Black Forest Cake|German,Cherry,Chocolate,Cream,Dessert,Kirsch
+Bratwurst|German,Sausage,Grilled,Bun,Mustard,Pork
+Neuschwanstein|Germany,Castle,Bavaria,Fairytale,Disney,Mountains
+Amsterdam Canals|Netherlands,Boats,Bicycles,Bridges,Houses,Water
+Tulips|Netherlands,Flowers,Fields,Spring,Bulbs,Colourful
+Clogs|Dutch,Wooden,Shoes,Netherlands,Feet,Traditional
+Matterhorn|Switzerland,Peak,Pyramid,Alps,Chocolate,Climb
+Swiss Army Knife|Blades,Tools,Pocket,Red,Switzerland,Folding
+Cuckoo Clock|Bird,Swiss,Time,Wooden,Hour,Pendulum
+Fondue|Cheese,Swiss,Melted,Pot,Dip,Bread
+Prague Castle|Czech,Hill,Fortress,Bridge,Charles,Capital
+Acropolis|Athens,Greece,Parthenon,Hill,Ancient,Temple
+Parthenon|Athens,Greece,Columns,Temple,Ancient,Acropolis
+Greek Salad|Feta,Olives,Cucumber,Tomato,Greece,Oregano
+Souvlaki|Greece,Skewer,Pork,Pita,Grilled,Street
+Grand Bazaar|Istanbul,Turkey,Market,Spices,Carpets,Shops
+Blue Mosque|Istanbul,Turkey,Domes,Minarets,Tiles,Prayer
+Hagia Sophia|Istanbul,Turkey,Dome,Church,Mosque,Museum
+Turkish Delight|Sweet,Lokum,Powdered,Gummy,Rose,Candy
+Kebab|Meat,Skewer,Turkey,Grilled,Spit,Wrap
+Cappadocia|Turkey,Balloons,Caves,Fairy Chimneys,Rocks,Tourists
+Chichen Itza|Mexico,Maya,Pyramid,Ruins,Yucatan,Ancient
+Day of the Dead|Mexico,Skulls,Altars,Festival,Marigolds,Remember
+Mariachi|Mexico,Band,Trumpets,Guitar,Sombrero,Music
+Guacamole|Avocado,Mexico,Dip,Chips,Lime,Green
+Tequila|Mexico,Agave,Shot,Salt,Lime,Drink
+Inca Trail|Peru,Hike,Machu Picchu,Andes,Trek,Ruins
+Amazon River|Brazil,Longest,Jungle,Dolphins,Boat,Piranha
+Piranha|Fish,Teeth,Amazon,River,Bite,Flesh
+Copacabana|Rio,Beach,Brazil,Sand,Waves,Promenade
+Christ the Redeemer|Rio,Statue,Brazil,Arms,Hill,Corcovado
+Rio Carnival|Brazil,Samba,Parade,Costumes,Dancers,Festival
+Samba|Brazil,Dance,Carnival,Rhythm,Rio,Music
+Caipirinha|Brazil,Cocktail,Lime,Cachaca,Sugar,Drink
+Tango|Argentina,Dance,Partner,Buenos Aires,Passionate,Music
+Iguazu|Waterfalls,Argentina,Brazil,Border,Jungle,Falls
+Moai|Statues,Easter Island,Stone,Heads,Chile,Pacific
+Galapagos Tortoise|Giant,Island,Slow,Darwin,Shell,Ecuador
+Times Square Ball|New Year,Drop,New York,Midnight,Crystal,Countdown
+Central Park|New York,Manhattan,Green,Skyline,Joggers,Pond
+Brooklyn Bridge|New York,Cables,Walk,Manhattan,East River,Landmark
+Yellow Cab|New York,Taxi,Hail,Street,Driver,Fare
+Broadway|New York,Musicals,Theatre,Street,Lights,Actors
+Hollywood Sign|Los Angeles,Hills,White,Letters,Film,California
+Alcatraz|San Francisco,Prison,Island,Escape,Bay,Rock
+Route 66|Highway,America,Road,Chicago,Mother Road,Trip
+Yellowstone|Geyser,Park,Bison,America,Old Faithful,Wyoming
+Old Faithful|Geyser,Yellowstone,Eruption,Steam,Predictable,Park
+Maple Syrup|Canada,Sweet,Pancakes,Trees,Sticky,Bottle
+Poutine|Canada,Fries,Gravy,Cheese Curds,Quebec,Dish
+Mounties|Canada,Police,Red,Horse,Uniform,Hat
+Forbidden City|Beijing,Palace,China,Emperors,Imperial,Square
+Terracotta Army|China,Soldiers,Clay,Xi'an,Emperor,Buried
+Peking Duck|China,Crispy,Roast,Pancakes,Skin,Beijing
+Dim Sum|Chinese,Dumplings,Steamed,Tea,Baskets,Brunch
+Chopsticks|Eating,Asian,Sticks,Rice,Hold,Wooden
+Dragon Boat Festival|China,Race,Paddle,Rice,Dumplings,Boats
+Lunar New Year|Chinese,Red,Envelopes,Fireworks,Zodiac,Dragon
+Shibuya Crossing|Tokyo,Pedestrians,Scramble,Japan,Busy,Lights
+Bullet Train|Japan,Fast,Shinkansen,Rail,Speed,Tracks
+Cherry Blossom|Japan,Spring,Pink,Sakura,Trees,Petals
+Kimono|Japan,Robe,Silk,Traditional,Sash,Dress
+Sumo Wrestler|Japan,Ring,Heavy,Belt,Push,Sport
+Origami|Paper,Folding,Japan,Crane,Art,Craft
+Tea Ceremony|Japan,Matcha,Ritual,Whisk,Bowl,Traditional
+Manga|Japan,Comics,Anime,Read,Drawn,Books
+Seoul|Korea,Capital,City,K-pop,River,Han
+K-Pop|Korea,Music,Idols,Dance,Band,Fans
+Kimchi|Korea,Cabbage,Spicy,Fermented,Side,Dish
+Bollywood|India,Films,Mumbai,Dance,Movies,Industry
+Holi|India,Colours,Festival,Powder,Spring,Throw
+Ganges|India,River,Holy,Varanasi,Hindu,Sacred
+Tuk-Tuk|Thailand,Taxi,Three-wheeler,Rickshaw,Street,Noisy
+Pad Thai|Thailand,Noodles,Peanuts,Stir-fry,Shrimp,Street
+Angkor Wat|Cambodia,Temple,Ruins,Khmer,Sunrise,Ancient
+Halong Bay|Vietnam,Limestone,Boats,Islands,Cruise,Water
+Pho|Vietnam,Soup,Noodles,Beef,Broth,Herbs
+Marina Bay Sands|Singapore,Hotel,Pool,Roof,Towers,Casino
+Komodo Dragon|Lizard,Indonesia,Giant,Bite,Island,Reptile
+Sydney Harbour Bridge|Australia,Coathanger,Climb,Steel,Opera House,Landmark
+Uluru|Australia,Red,Rock,Outback,Sacred,Desert
+Boomerang|Australia,Throw,Returns,Curved,Aboriginal,Wood
+Vegemite|Australia,Spread,Toast,Salty,Yeast,Jar
+Kiwi Bird|New Zealand,Flightless,Brown,Nocturnal,Beak,Symbol
+Haka|New Zealand,All Blacks,Dance,Maori,Challenge,War
+Hobbiton|New Zealand,Shire,Movie,Hobbits,Tour,Set
+Rotorua|New Zealand,Geysers,Mud,Maori,Hot,Sulphur
+Hawaiian Luau|Feast,Hula,Pig,Hawaii,Party,Flowers
+Palm Jumeirah|Dubai,Island,Palm-shaped,Man-made,Hotels,Villas
+Camel Racing|Desert,Gulf,Jockeys,Robot,Track,Hump
+Hajj|Pilgrimage,Mecca,Muslims,Kaaba,Saudi Arabia,Islam
+Western Wall|Jerusalem,Prayer,Stone,Notes,Jewish,Ancient
+Base Camp|Everest,Climbers,Tents,Nepal,Trek,Mountain
+Sherpa|Nepal,Guide,Mountain,Everest,Porter,Himalayas
+Himalayas|Mountains,Nepal,Tibet,Everest,Range,Snow
+Trans-Siberian Railway|Russia,Train,Long,Moscow,Vladivostok,Journey
+Red Square|Moscow,Kremlin,Russia,Lenin,Parade,Cathedral
+Matryoshka|Russian,Dolls,Nesting,Wooden,Painted,Hollow
+Borscht|Beetroot,Soup,Russian,Red,Cabbage,Sour Cream
+Vodka|Russian,Clear,Spirit,Drink,Potato,Shot
+Viking Ship|Norse,Longboat,Raiders,Sail,Scandinavia,Dragon
+IKEA|Furniture,Swedish,Flat-pack,Meatballs,Store,Allen key
+Meatballs|Swedish,Gravy,Spaghetti,Round,Mince,Sauce
+Smorgasbord|Swedish,Buffet,Feast,Dishes,Table,Spread
+Lego|Bricks,Danish,Toy,Build,Studs,Plastic
+Little Mermaid Statue|Copenhagen,Denmark,Bronze,Harbour,Andersen,Rock
+Sauna|Finland,Heat,Steam,Wood,Sweat,Bath
+Santa's Village|Lapland,Finland,Arctic,Christmas,Reindeer,Rovaniemi
+Reindeer|Santa,Sleigh,Antlers,Arctic,Christmas,Rudolph
+Polar Bear Plunge|Cold,Swim,Winter,Freezing,Jump,Charity
+Igloo|Ice,Snow,Eskimo,Blocks,Round,Arctic
+Penguin Parade|Waddle,Beach,Australia,Dusk,Birds,Tourists
+Kangaroo Joey|Pouch,Baby,Australia,Mother,Hop,Marsupial
+Koala Bear|Eucalyptus,Australia,Sleep,Cuddly,Tree,Marsupial
+Taj Mahal|India,Tomb,Marble,Agra,Palace,Love
+Burj Al Arab|Dubai,Sail,Hotel,Luxury,Gold,Seven
+Bondi Beach|Sydney,Surf,Sand,Australia,Lifeguards,Waves

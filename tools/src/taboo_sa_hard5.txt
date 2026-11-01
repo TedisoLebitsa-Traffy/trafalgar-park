@@ -1,0 +1,192 @@
+# HARD batch 5 - business, health, history, science, South Africa and Africa
+Balance Sheet|Assets,Liabilities,Accounting,Company,Equity,Statement
+Profit Margin|Percent,Sales,Business,Costs,Earnings,Company
+Cash Flow|Money,Business,In,Out,Company,Liquidity
+Market Share|Percent,Company,Sales,Competitors,Customers,Industry
+Hostile Takeover|Company,Buy,Unwanted,Shares,Bid,Board
+Merger|Companies,Combine,Join,Business,Deal,Together
+Insider Trading|Shares,Illegal,Secret,Information,Stock,Profit
+Stock Split|Shares,Company,Price,Divide,Investors,Market
+Dividend|Shares,Payout,Profit,Investors,Company,Cash
+Bear Market|Stocks,Falling,Prices,Investors,Decline,Pessimism
+Bull Market|Stocks,Rising,Prices,Investors,Boom,Optimism
+Blue Chip|Stocks,Company,Reliable,Large,Investors,Safe
+Exchange-Traded Fund|ETF,Investors,Basket,Shares,Index,Trading
+Index Fund|Investors,Market,Track,Shares,Passive,Cheap
+Compound Interest|Savings,Grow,Interest,Years,Money,Bank
+Net Worth|Assets,Debts,Wealth,Total,Personal,Money
+Credit Score|Loans,Rating,Borrower,History,Bank,Number
+Mortgage Bond|Home,Loan,Bank,Property,Repayment,Interest
+Estate Planning|Will,Death,Assets,Inheritance,Lawyer,Family
+Last Will and Testament|Death,Inheritance,Document,Lawyer,Estate,Signed
+Executor|Estate,Will,Death,Manage,Appointed,Assets
+Power of Attorney|Legal,Act,Behalf,Document,Authority,Lawyer
+Notary Public|Documents,Sign,Legal,Certify,Witness,Official
+Commissioner of Oaths|Affidavit,Stamp,Documents,Sworn,Police,Witness
+Affidavit|Sworn,Statement,Written,Court,Oath,Legal
+Certified Copy|Document,Stamp,Original,Police,Official,Verified
+Proof of Address|Document,Bank,Utility bill,Residence,Verify,Letter
+Know Your Customer|KYC,Bank,Identity,Verify,Documents,Compliance
+Anti-Money Laundering|Banks,Dirty,Crime,Transactions,Regulations,Compliance
+Money Laundering|Dirty,Cash,Crime,Clean,Banks,Illegal
+Tax Evasion|Illegal,Hide,Income,Revenue,Cheat,Prison
+Tax Haven|Offshore,Low,Rich,Island,Accounts,Avoid
+Offshore Account|Overseas,Bank,Tax,Money,Hidden,Island
+Panama Papers|Leak,Offshore,Journalists,Documents,Rich,Shell
+Shell Company|Fake,Business,Hidden,Owner,Paper,Offshore
+Fraud Squad|Police,Investigators,Cheats,Detectives,Money,Scams
+Whistleblower Protection|Law,Safe,Report,Employees,Corruption,Retaliation
+Anti-Corruption Task Team|Investigators,Police,Unit,Graft,Special,Cases
+Investigating Directorate|Prosecutors,Corruption,Unit,Cases,NPA,Special
+Asset Forfeiture|Seize,Crime,Property,Proceeds,Court,Unit
+Preservation Order|Court,Assets,Freeze,Crime,Seized,Property
+Witness Protection|Safe,Court,Hidden,Identity,Danger,Programme
+Cold Case|Unsolved,Police,Old,Detectives,Murder,File
+Forensic Pathologist|Autopsy,Death,Body,Medical,Cause,Mortuary
+Crime Scene|Tape,Police,Evidence,Detectives,Forensic,Murder
+DNA Evidence|Samples,Court,Match,Crime,Forensic,Profile
+Fingerprint|Print,Police,Finger,Match,Identify,Ink
+Ballistics|Bullets,Gun,Forensic,Match,Police,Evidence
+Lie Detector|Polygraph,Truth,Test,Machine,Interrogation,Wires
+Surveillance Footage|CCTV,Cameras,Police,Video,Recorded,Evidence
+Number Plate Recognition|Cameras,Cars,Police,Reading,Tracking,Traffic
+Bodycam|Police,Camera,Officer,Recording,Uniform,Evidence
+Community Service|Sentence,Volunteer,Court,Unpaid,Punishment,Hours
+Parole Board|Prisoners,Release,Early,Hearing,Decision,Sentence
+Correctional Services|Prisons,Inmates,Wardens,Department,Jail,Prisoners
+Overcrowded Prisons|Inmates,Cells,Space,Jail,Packed,Correctional
+Juvenile Justice|Young,Offenders,Court,Children,Detention,Law
+Restorative Justice|Victim,Offender,Meeting,Healing,Community,Repair
+Legal Aid|Lawyers,Free,Poor,Court,Defence,Help
+Pro Bono|Lawyers,Free,Charity,Work,Legal,Voluntary
+Small Claims Court|Disputes,Cheap,Money,Magistrate,Claims,Minor
+Consumer Protection|Law,Shoppers,Refund,Rights,Goods,Complaints
+Warranty|Guarantee,Repair,Product,Months,Receipt,Defect
+Product Recall|Faulty,Company,Return,Safety,Dangerous,Refund
+Price Fixing|Companies,Illegal,Cartel,Competition,Agree,Prices
+Cartel|Companies,Fix,Prices,Illegal,Drugs,Group
+Monopoly Power|Market,One,Company,Control,Competition,Dominate
+Antitrust Law|Competition,Companies,Break up,Monopoly,Market,Regulators
+Business Rescue|Company,Struggling,Practitioner,Creditors,Court,Save
+Liquidation|Company,Close,Assets,Sold,Debts,Bankrupt
+Sequestration|Insolvent,Court,Debt,Estate,Bankrupt,Trustee
+Debt Review|Consumer,Counsellor,Payments,Lower,Credit,Debtors
+Garnishee Order|Salary,Deducted,Court,Debt,Employer,Creditors
+Blacklisted|Credit,Bureau,Bad,Loans,Debt,Record
+Credit Bureau|Records,Scores,Loans,Reports,Companies,History
+Micro-Lender|Small,Loans,Interest,Payday,Salary,Credit
+Payday Loan|Short,Salary,Interest,Borrow,Month,Expensive
+Mashonisa|Loan,Shark,Money,Lender,Interest,Township
+Savings Club|Stokvel,Members,Monthly,Group,Pool,Money
+Funeral Policy|Insurance,Death,Cover,Premium,Burial,Family
+Life Insurance|Death,Policy,Premium,Payout,Family,Cover
+Short-Term Insurance|Car,Home,Policy,Claims,Cover,Premium
+Insurance Claim|Accident,Form,Payout,Policy,Assessor,Damage
+Excess Payment|Insurance,Claim,Pay,First,Amount,Policy
+No-Claim Bonus|Insurance,Discount,Drivers,Years,Premium,Safe
+Retirement Annuity|Savings,Tax,Fund,Old age,Contributions,Pension
+Living Annuity|Retirement,Income,Pension,Investment,Drawdown,Fund
+Provident Fund|Retirement,Employer,Savings,Lump sum,Members,Contributions
+Pension Payout|Retirement,Lump sum,Fund,Monthly,Money,Retired
+Unemployment Insurance Fund|UIF,Workers,Benefits,Fired,Claims,Contributions
+Compensation Fund|Injured,Workers,Claims,Accidents,Payout,Work
+Occupational Health|Workplace,Safety,Workers,Injury,Hazards,Law
+Mine Safety|Underground,Accidents,Miners,Inspectors,Rules,Deaths
+Silicosis|Miners,Lungs,Dust,Disease,Gold,Compensation
+Asbestos|Mining,Lungs,Fibres,Dangerous,Roofing,Disease
+Lead Poisoning|Metal,Children,Brain,Toxic,Paint,Pipes
+Air Quality|Pollution,Smog,Breathe,Index,Mpumalanga,Coal
+Smog|Pollution,Haze,City,Air,Fog,Coal
+Highveld Air Pollution|Coal,Mpumalanga,Power,Smog,Health,Priority
+Environmental Impact Assessment|Study,Development,Nature,Approval,Report,Mining
+Public Participation|Comment,Citizens,Hearing,Consultation,Meeting,Process
+Public Hearing|Citizens,Comment,Committee,Meeting,Parliament,Evidence
+Petition|Signatures,Request,Government,Sign,Demand,Citizens
+Memorandum|Handed over,March,Protesters,Demands,Official,Letter
+March on Parliament|Protesters,Cape Town,Placards,Demands,Police,Streets
+Right to Protest|Law,Gatherings,Peaceful,Police,Notice,Constitution
+Rubber Bullets|Police,Protest,Crowd,Control,Non-lethal,Riot
+Stun Grenade|Police,Noise,Flash,Crowd,Riot,Protest
+Water Cannon|Police,Crowd,Spray,Riot,Truck,Protest
+Riot Police|Shields,Crowd,Protest,Public Order,Helmets,Batons
+Public Order Policing|Riots,Crowd,Police,Unit,Protests,Control
+State of Disaster|Declared,Emergency,Government,Floods,Powers,Law
+National Disaster|Declared,Floods,Government,Relief,Emergency,Affected
+Disaster Relief|Aid,Floods,Government,Affected,Donations,Emergency
+Flood Damage|Houses,Rivers,Rain,Repairs,Destroyed,Water
+Storm Surge|Coast,Waves,Sea,Flooding,Cyclone,Tide
+Drought Relief|Farmers,Water,Aid,Dry,Feed,Government
+Grain Silo|Maize,Farm,Storage,Tall,Wheat,Harvest
+Maize Triangle|Farming,Free State,Crops,Region,Staple,Harvest
+Wool Industry|Sheep,Eastern Cape,Farmers,Exports,Merino,Karoo
+Merino Sheep|Wool,Karoo,Farm,Fleece,Shear,Flock
+Ostrich Feathers|Oudtshoorn,Boom,Fashion,History,Birds,Plumes
+Rooibos Industry|Tea,Cederberg,Farmers,Exports,Western Cape,Red bush
+Wine Estate|Vineyards,Cellar,Tasting,Farm,Grapes,Stellenbosch
+Rand Daily Mail|Newspaper,Apartheid,Johannesburg,Closed,Journalists,Banned
+Banned Books|Censored,Apartheid,Forbidden,Library,Authors,Government
+Soweto Poets|Writers,Township,Words,Apartheid,Arts,Verse
+Drum Magazine|Sophiatown,Photography,Black,Journalism,Fifties,Jazz
+Staffrider|Magazine,Writers,Township,Poetry,Eighties,Arts
+Jazz Epistles|Band,Masekela,Dollar Brand,Fifties,Cape Town,Music
+Marabi|Music,Township,Piano,Early,Jazz,Dance
+Mbaqanga|Music,Township,Groove,Guitars,Zulu,Jive
+Maskandi|Zulu,Music,Guitar,Folk,Storytelling,Traditional
+Isicathamiya Choir|? skip
+Boeremusiek|Accordion,Afrikaans,Folk,Dance,Farm,Music
+Cape Jazz|Music,Cape Town,Ibrahim,Saxophone,Style,Rhythm
+Ghoema|Drum,Cape,Minstrel,Rhythm,Carnival,Barrel
+Kaapse Klopse|Cape Town,Minstrels,Parade,January,Colourful,Carnival
+Tweede Nuwe Jaar|Cape Town,Minstrels,Second,January,Parade,Carnival
+Cape Minstrel Carnival|Parade,Colourful,Banjos,New Year,Cape Town,Troupes
+Bloemfontein Rose Festival|Flowers,Free State,Roses,October,City,Garden
+Cherry Festival|Ficksburg,Fruit,Free State,Orchards,Spring,Stalls
+Ostrich Festival|Oudtshoorn,Karoo,Feathers,Birds,Races,Klein
+Prickly Pear Festival|Fruit,Eastern Cape,Cactus,Village,Stalls,Harvest
+Knysna Oyster Festival|Seafood,Garden Route,Winter,Shellfish,Race,Town
+Hantam Vleisfees|Meat,Festival,Calvinia,Karoo,Lamb,Town
+Splashy Fen|Music,Festival,KwaZulu-Natal,Easter,Camping,Farm
+Macufe|Festival,Bloemfontein,Arts,Culture,Music,October
+Arts Festival Makhanda|? skip
+Women's March|Pretoria,1956,Petition,Pass laws,Union Buildings,Lilian Ngoyi
+Lilian Ngoyi|Women's march,Struggle,1956,Activist,Pass laws,Leader
+Albertina Sisulu|Struggle,Mother,ANC,Activist,Nurse,Walter
+Charlotte Maxeke|Women,Activist,ANC,First,Struggle,Graduate
+Sol Plaatje|Writer,ANC,Founder,Journalist,Land Act,Mhudi
+Native Land Act|1913,Land,Black,Dispossession,Law,Law? skip
+Land Act 1913|Black,Ownership,Dispossession,Law,Farms,Native
+Union of South Africa|1910,Britain,Colonies,Formed,Provinces,Dominion
+Republic Day|1961,Referendum,Verwoerd,Commonwealth,Leave,Constitution
+Sharpeville Memorial|? skip
+Tricameral Parliament|1984,Coloured,Indian,White,Houses,Boycott
+United Democratic Front|UDF,1983,Anti-apartheid,Coalition,Movement,Eighties
+Rubicon Speech|Botha,1985,Reforms,Speech,Disappointed,Apartheid
+FW de Klerk|Last,State President,1990,Mandela,Nobel,Apartheid
+Nobel Peace Prize 1993|Mandela,De Klerk,Shared,South Africa,Awards,Oslo
+First Democratic Election|1994,Queues,Vote,April,Mandela,Rainbow
+Rainbow Flag? skip
+Springbok Rugby 1995|Mandela,Jersey,Final,Ellis Park,Pienaar,Cup
+Invictus|Mandela,Film,Poem,Rugby,Pienaar,Freeman
+Long Walk to Freedom|Mandela,Autobiography,Book,Prison,Life,Memoir
+Cry the Beloved Country|Paton,Novel,Priest,Zulu,Book,Classic
+Disgrace|Coetzee,Novel,Booker,Book,Lurie,Fiction
+Nadine Gordimer|Writer,Nobel,Novelist,Literature,Johannesburg,Books
+JM Coetzee|Writer,Nobel,Novelist,Disgrace,Booker,Literature
+Athol Fugard|Playwright,Theatre,Port Elizabeth,Plays,Apartheid,Writer
+Zakes Mda|Writer,Novelist,Lesotho,Books,Heart of Redness,Playwright
+Zanele Muholi|Photographer,Artist,Activist,Portraits,Queer,Exhibition
+William Kentridge|Artist,Drawings,Animation,Charcoal,Johannesburg,Films
+Esther Mahlangu|Artist,Ndebele,Patterns,Paintings,BMW,Murals
+Ndebele Art|Patterns,Houses,Painted,Geometric,Colour,Murals
+Basotho Blanket|Lesotho,Wool,Cape,Patterned,Cold,Traditional
+Zulu Beadwork|Colours,Messages,Necklaces,Love letters,Craft,Tradition
+Xhosa Blanket|Red,Eastern Cape,Traditional,Wrap,Initiates,Clothing
+Venda Pottery|Clay,Limpopo,Pots,Women,Craft,Traditional
+Tsonga Skirts|Xibelani,Dance,Colourful,Women,Limpopo,Shake
+Xibelani|Skirts,Dance,Tsonga,Shaking,Women,Colour
+Domba Dance|Venda,Python,Girls,Ceremony,Dance,Tradition
+Indlamu|Zulu,Dance,Warriors,Stamping,Kick,Shields
+Gumboot Dancing? exists skip
+Pantsula|Dance,Township,Fast,Footwork,Streets,Style
+Pantsula Dance Crew|Township,Footwork,Streets,Moves,Fast,Group
+Isicathamiya Competition|Choirs,Zulu,Hostel,Singing,Saturday,Night

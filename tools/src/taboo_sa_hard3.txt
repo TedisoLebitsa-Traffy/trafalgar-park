@@ -1,0 +1,230 @@
+# HARD batch 3 - Africa, world affairs, economics, technology, climate, law and politics
+Pan-Africanism|Unity,Continent,Nkrumah,Movement,Africa,Solidarity
+Scramble for Africa|Colonial,Europe,Berlin,Partition,Powers,Continent
+Berlin Conference|Africa,Colonies,Partition,Europe,1884,Powers
+African Renaissance|Mbeki,Revival,Continent,Growth,Culture,Vision
+Non-Aligned Movement|Cold War,Countries,Neutral,Summit,Bloc,Third
+Cold War Proxy|Superpowers,Africa,Angola,Conflict,Russia,America
+Liberation Movement|Struggle,Party,Independence,Colonial,Fight,Freedom
+One-Party State|Politics,Single,Elections,Opposition,Government,Rule
+Military Coup|Army,Seize,President,Overthrow,Soldiers,Power
+Term Limits|President,Constitution,Years,Leaders,Extend,Election
+Peaceful Transfer of Power|Election,Handover,Losing,President,Democracy,Smooth
+Election Rigging|Votes,Fraud,Ballot,Opposition,Cheat,Count
+Press Freedom|Journalists,Media,Censorship,Free,Newspapers,Rights
+Internet Shutdown|Government,Election,Block,Social media,Cut,Access
+Peacekeeping Mission|UN,Troops,Blue helmets,Conflict,Soldiers,Region
+Refugee Camp|Tents,Displaced,Aid,War,Border,Families
+Humanitarian Aid|Food,Relief,Charity,Crisis,Donations,Agencies
+Famine|Hunger,Food,Drought,Starvation,Crisis,Aid
+Cash Crop|Farm,Export,Coffee,Cocoa,Sell,Trade
+Subsistence Farming|Family,Food,Small,Eat,Plot,Rural
+Smallholder Farmer|Land,Crops,Family,Small,Rural,Plot
+Remittances|Money,Abroad,Family,Send,Migrants,Transfer
+Mobile Money|M-Pesa,Phone,Payments,Africa,Transfer,Kenya
+M-Pesa|Kenya,Phone,Money,Transfer,Mobile,Safaricom
+Silicon Savannah|Kenya,Tech,Nairobi,Startups,Innovation,Hub
+Fintech|Finance,Technology,Apps,Payments,Startups,Banking
+Unicorn Startup|Billion,Valuation,Company,Investors,Tech,Rare
+Venture Capital|Investors,Startups,Funding,Equity,Risk,Money
+Foreign Direct Investment|Overseas,Companies,Money,Factories,Country,Invest
+Debt Crisis|Loans,Country,Default,Repay,IMF,Economy
+IMF|Loans,Fund,Washington,Economy,Bailout,Countries
+World Bank|Loans,Development,Washington,Poor,Projects,Funding
+Currency Devaluation|Money,Weaker,Exchange,Prices,Central bank,Value
+Hyperinflation|Prices,Money,Worthless,Zimbabwe,Economy,Spiral
+Black Market|Illegal,Trade,Cash,Goods,Currency,Underground
+Subsidy|Government,Support,Price,Farmers,Money,Cheaper
+Austerity|Cuts,Spending,Government,Belt,Economy,Savings
+Customs Union|Trade,Countries,Tariffs,SACU,Borders,Bloc
+Regional Bloc|Countries,Trade,Union,Region,Alliance,Economic
+Resource Curse|Oil,Minerals,Wealth,Poverty,Corruption,Countries
+Conflict Minerals|Congo,Mining,War,Phones,Cobalt,Armed
+Cobalt|Congo,Batteries,Metal,Mining,Phones,Blue
+Lithium|Battery,Metal,Mining,Electric,Charge,Light
+Oil Pipeline|Crude,Energy,Pumps,Tanks,Gas,Route
+Offshore Drilling|Oil,Platform,Sea,Rig,Energy,Ocean
+Climate Finance|Money,Countries,Rich,Poor,Warming,Fund
+Loss and Damage|Climate,Fund,Poor,Countries,Disasters,Compensation
+COP Summit|Climate,Countries,Leaders,Talks,United Nations,Agreement
+Paris Agreement|Climate,Warming,Countries,Degrees,Treaty,Emissions
+Greenhouse Gases|Carbon,Warming,Methane,Atmosphere,Planet,Emissions
+Ozone Layer|Sky,Hole,Sun,Atmosphere,Protect,Rays
+Melting Ice Caps|Warming,Polar,Sea,Rise,Glaciers,Arctic
+Sea Level Rise|Coast,Warming,Flooding,Ocean,Cities,Ice
+Circular Economy|Recycle,Reuse,Waste,Loop,Resources,Sustainable
+Fast Fashion|Clothes,Cheap,Waste,Trends,Brands,Disposable
+Sustainable Development|Future,Goals,Environment,Growth,Poverty,Planet
+Millennium Development Goals|Poverty,Targets,United Nations,Eight,Goals,Global
+Universal Declaration of Human Rights|United Nations,1948,Document,Rights,Charter,Freedoms
+Geneva Convention|War,Rules,Prisoners,Treaty,Civilians,Red Cross
+Red Cross|Charity,Emergency,Humanitarian,Aid,Symbol,Blood
+International Criminal Court|Hague,War crimes,Justice,Prosecute,Judges,Leaders
+Sanctions Regime|Trade,Ban,Countries,Punish,Economy,Restrictions
+Arms Embargo|Weapons,Ban,Countries,Sanctions,Sales,United Nations
+Nuclear Deterrent|Weapons,Bomb,Peace,Threat,Missiles,Power
+Non-Proliferation Treaty|Nuclear,Weapons,Spread,Countries,Agreement,Atoms
+Diplomatic Immunity|Embassy,Ambassador,Law,Protected,Abroad,Prosecution
+Summit Communique|Leaders,Statement,Meeting,Agreement,Joint,Document
+Soft Power|Culture,Influence,Country,Attraction,Persuade,Image
+Disinformation|False,Lies,Spread,Online,Deliberate,Misleading
+Echo Chamber|Social media,Opinions,Same,Views,Bubble,Online
+Filter Bubble|Algorithm,Feed,Online,Opinions,Search,Personalised
+Algorithmic Bias|Computers,Unfair,Data,Discrimination,AI,Decisions
+Deepfake|Video,Fake,AI,Face,Realistic,Manipulated
+Large Language Model|AI,Chatbot,Text,Trained,Words,Predict
+Machine Learning|Computers,Data,Algorithms,Patterns,Train,AI
+Neural Network|Brain,AI,Layers,Computers,Learning,Nodes
+Self-Driving Taxi|Robotaxi,Car,No driver,Autonomous,Ride,Sensors
+Quantum Computer|Qubits,Fast,Physics,Machine,Superposition,Processing
+Cloud Computing|Servers,Online,Storage,Internet,Data,Remote
+Data Centre|Servers,Cooling,Building,Cloud,Computers,Racks
+Cybersecurity Breach|Hackers,Data,Stolen,Company,Leak,Attack
+Ransomware|Hackers,Files,Pay,Locked,Attack,Money
+Phishing|Email,Scam,Fake,Link,Password,Fraud
+Open Source|Code,Free,Software,Community,Public,Programmers
+App Store|Download,Phone,Apple,Applications,Install,Buy
+Digital Footprint|Online,Traces,Internet,History,Data,Trail
+Right to Privacy|Personal,Data,Law,Protect,Information,Freedom
+POPIA|Privacy,Law,Data,Personal,Protection,Information
+GDPR|Europe,Data,Privacy,Law,Consent,Fines
+Terms and Conditions|Agree,Click,Legal,Long,Website,Accept
+Cookie Banner|Website,Accept,Tracking,Pop-up,Consent,Privacy
+Net Neutrality|Internet,Providers,Equal,Speeds,Rules,Access
+Digital Currency|Online,Money,Crypto,Bitcoin,Wallet,Coins
+Stablecoin|Crypto,Pegged,Dollar,Value,Digital,Coin
+Crypto Wallet|Keys,Coins,Digital,Store,Bitcoin,Address
+NFT|Digital,Art,Token,Blockchain,Own,Unique
+Gig Economy|Freelance,Apps,Uber,Short,Jobs,Workers
+Side Hustle|Extra,Money,Job,Weekend,Business,Income
+Universal Basic Income|Money,Everyone,Government,Monthly,Payment,Poverty
+Work-Life Balance|Office,Family,Time,Stress,Hours,Job
+Burnout|Exhausted,Work,Stress,Tired,Mental,Job
+Imposter Syndrome|Doubt,Fraud,Success,Feeling,Confidence,Achievement
+Peer Pressure|Friends,Influence,Teens,Group,Fit in,Push
+Growth Mindset|Learn,Effort,Believe,Improve,Attitude,Skills
+Emotional Intelligence|Feelings,Empathy,Understand,Others,Skills,Awareness
+Active Listening|Hear,Attention,Respond,Conversation,Understand,Focus
+Body Language|Gestures,Posture,Non-verbal,Signals,Face,Communicate
+Small Talk|Chat,Weather,Polite,Conversation,Casual,Strangers
+Cultural Appropriation|Borrow,Culture,Respect,Fashion,Offend,Others
+Generation Gap|Old,Young,Parents,Differences,Ages,Views
+Gen Z|Young,Born,Generation,TikTok,Teen,Digital
+Millennial|Generation,Born,Avocado,Social media,Young,Adults
+Baby Boomer|Generation,Old,Born,Retired,After war,Elders
+Midlife Crisis|Age,Forties,Sports car,Change,Regret,Panic
+Empty Nest|Children,Left,Parents,Home,Quiet,Grown
+Sandwich Generation|Parents,Children,Care,Middle,Adults,Squeezed
+Extended Family|Relatives,Cousins,Aunts,Gathering,Household,Uncles
+Family Reunion|Relatives,Gathering,Picnic,Cousins,Photo,Annual
+Wedding Planner|Event,Bride,Organise,Venue,Budget,Day
+Bridal Shower|Bride,Gifts,Party,Women,Games,Wedding
+Bachelor Party|Groom,Friends,Night,Stag,Wedding,Party
+Baby Shower|Gifts,Pregnant,Party,Mom,Games,Nappies
+Gender Reveal|Baby,Party,Pink,Blue,Balloons,Announcement
+Gap Year|Travel,School,Break,Students,Year,Work
+Study Abroad|University,Overseas,Exchange,Students,Semester,Foreign
+Student Loan|Debt,University,Repay,Fees,Borrow,Graduate
+Thesis|University,Research,Long,Degree,Supervisor,Submit
+Peer Review|Journal,Experts,Research,Scientists,Check,Paper
+Scientific Method|Experiment,Hypothesis,Test,Evidence,Observe,Results
+Control Group|Experiment,Test,Compare,Placebo,Study,Normal
+Randomised Trial|Study,Medicine,Groups,Test,Drug,Research
+Clinical Trial|Drug,Patients,Test,Study,Medicine,Volunteers
+Herd Immunity|Vaccinated,Population,Protect,Virus,Percent,Spread
+Antibiotic Resistance|Bacteria,Medicine,Drugs,Superbug,Infection,Overuse
+Gene Editing|DNA,CRISPR,Cut,Genes,Science,Modify
+CRISPR|DNA,Gene,Editing,Cut,Science,Scissors
+Stem Cells|Medicine,Cells,Research,Regenerate,Body,Embryonic
+Organ Donor|Transplant,Kidney,Heart,Give,Register,Death
+Blood Donation|Clinic,Needle,Bag,Give,Red Cross,Pint
+Mental Health Day|Rest,Work,Stress,Break,Wellbeing,Off
+Vaccine Hesitancy|Doubt,Jab,Refuse,Health,Fear,Parents
+Black Swan Event|Rare,Unpredictable,Impact,Surprise,Crisis,Unexpected
+Perfect Storm|Combination,Bad,Events,Crisis,Together,Disaster
+Domino Effect|Chain,Fall,Reaction,Next,One,Collapse
+Butterfly Effect|Chaos,Wings,Small,Change,Large,Weather
+Tipping Point|Critical,Change,Threshold,Sudden,Moment,Balance
+Glass Ceiling|Women,Promotion,Barrier,Career,Invisible,Top
+Slippery Slope|Argument,Worse,Steps,Fall,Gradual,Logic
+Catch-22|Impossible,Paradox,Rule,Trapped,Novel,Dilemma
+Vicious Circle|Cycle,Worse,Repeat,Trap,Problem,Round
+Double Standard|Unfair,Rules,Different,Hypocrite,Treat,Apply
+Moral Dilemma|Choice,Right,Wrong,Ethics,Decision,Difficult
+Social Contract|Government,Citizens,Rules,Agreement,Rousseau,Society
+Rule of Law|Equal,Courts,Everyone,Justice,Government,Legal
+Burden of Proof|Court,Evidence,Prove,Guilt,Prosecution,Trial
+Presumption of Innocence|Court,Guilty,Accused,Prove,Law,Trial
+Habeas Corpus|Detention,Court,Legal,Prisoner,Latin,Unlawful
+Precedent|Court,Earlier,Case,Judges,Law,Decision
+Class Action|Lawsuit,Group,Court,Many,Claim,Company
+Out-of-Court Settlement|Lawsuit,Agreement,Money,Avoid,Trial,Parties
+Intellectual Property|Patent,Copyright,Ideas,Own,Law,Inventions
+Copyright|Creator,Law,Music,Own,Copy,Rights
+Trademark|Brand,Logo,Registered,Company,Name,Legal
+Patent|Invention,Protect,Idea,Inventor,Register,Law
+Whistle-Stop Tour|Campaign,Quick,Stops,Politician,Towns,Visit
+Photo Opportunity|Politicians,Cameras,Staged,Media,Event,Picture
+Spin Doctor|Politics,Image,Media,Adviser,Twist,Publicity
+Opinion Poll|Survey,Voters,Percent,Politics,Sample,Parties
+Exit Poll|Voters,Leaving,Survey,Election,Predict,Station
+Swing Voter|Undecided,Election,Switch,Parties,Ballot,Persuade
+Landslide Victory|Election,Huge,Win,Majority,Votes,Party
+Marginal Seat|Election,Close,Narrow,Constituency,Votes,Swing
+Filibuster|Speech,Delay,Senate,Talk,Bill,Block
+Gerrymandering|Boundaries,Districts,Votes,Draw,Unfair,Election
+Lobbying|Politicians,Influence,Companies,Laws,Pressure,Interest
+Think Tank|Research,Policy,Experts,Ideas,Institute,Advice
+Press Secretary|White House,Briefing,Spokesperson,President,Journalists,Questions
+Prime Minister's Questions|Parliament,Britain,Wednesday,Debate,Commons,Leader
+Hung Jury|Court,Verdict,Deadlock,Twelve,Agree,Trial
+Electoral College|America,President,States,Votes,Delegates,Election
+Supreme Court Justice|America,Judge,Lifetime,Appointed,Constitution,Bench
+Impeachment Trial|Senate,President,Charges,Vote,Congress,Removal
+Veto|President,Block,Law,Reject,Bill,Power
+Executive Order|President,Decree,Signed,Policy,Power,White House
+Cabinet Minister|Government,Department,Portfolio,Appointed,Head,Minister? skip
+Shadow Cabinet|Opposition,Britain,Spokespeople,Alternative,Government,Ministers
+Constitutional Monarchy|King,Parliament,Powers,Britain,Limited,Crown
+Royal Prerogative|King,Powers,Government,Crown,Ancient,Decisions
+Commonwealth|Nations,Britain,Former colonies,Games,Queen,Group
+Brexit Deal|Britain,Europe,Leave,Trade,Agreement,Border
+Schengen Area|Europe,Borders,Passport-free,Travel,Countries,Zone
+Eurozone|Euro,Countries,Currency,Europe,Central bank,Union
+NATO Summit|Alliance,Leaders,Defence,Military,Meeting,Allies
+Security Council|United Nations,Veto,Permanent,Five,Resolutions,Members
+General Assembly|United Nations,Countries,New York,Vote,Annual,Speeches
+Secretary-General|United Nations,Head,Guterres,Chief,Diplomat,Post
+Trade War|Tariffs,Countries,Retaliate,Imports,Economy,Taxes
+Supply Chain|Factories,Shipping,Goods,Delays,Shortage,Network
+Container Ship|Cargo,Ocean,Boxes,Port,Huge,Freight
+Suez Blockage|Canal,Ship,Stuck,Trade,Egypt,Container
+Panama Canal Locks|Ships,Water,Gates,Pacific,Atlantic,Passage
+Shipping Lane|Sea,Route,Vessels,Trade,Ocean,Traffic
+Piracy|Ships,Somalia,Sea,Hijack,Ransom,Navy
+Maritime Law|Sea,Ships,Ocean,Rules,Courts,Territory
+Exclusive Economic Zone|Sea,Coast,Nautical miles,Fishing,Rights,Country
+Overfishing|Stocks,Sea,Fish,Nets,Depleted,Quota
+Deforestation|Trees,Cut,Forest,Logging,Land,Loss
+Biodiversity Loss|Species,Extinction,Nature,Habitat,Decline,Wildlife
+Endangered Species|Rare,Extinct,Protected,Animals,List,Numbers
+Conservation Status|Species,Red List,Endangered,Threatened,Rating,Animals
+Poaching Syndicate|Animals,Illegal,Trade,Ivory,Criminals,Smuggling
+Ivory Ban|Elephants,Tusks,Trade,Illegal,Poaching,Law
+CITES|Wildlife,Trade,Treaty,Species,Permits,Convention
+Eco-Tourism|Nature,Travel,Sustainable,Conservation,Visitors,Green
+Carbon Offset|Emissions,Trees,Pay,Flights,Balance,Climate
+Plastic Ban|Bags,Straws,Law,Pollution,Single-use,Ocean
+Microplastics|Tiny,Ocean,Pollution,Plastic,Food,Particles
+Water Footprint|Usage,Litres,Production,Food,Hidden,Consumption
+Desalination|Seawater,Salt,Fresh,Plant,Drinking,Drought
+Groundwater|Aquifer,Borehole,Underground,Water,Supply,Well
+Borehole|Water,Drill,Ground,Pump,Private,Supply
+Irrigation|Farms,Water,Crops,Pipes,Fields,Sprinklers
+Crop Rotation|Farming,Fields,Soil,Seasons,Plant,Alternate
+Genetically Modified|GMO,Crops,Food,Seeds,Science,Engineered
+Organic Farming|Pesticides,Natural,Food,Chemical-free,Soil,Certified
+Food Miles|Transport,Distance,Grocery,Carbon,Local,Travel
+Food Waste|Throw,Rubbish,Supermarket,Bin,Hunger,Leftovers
+Land Degradation|Soil,Erosion,Farming,Overgrazing,Desert,Loss
+Desertification|Desert,Spread,Land,Dry,Climate,Farming
