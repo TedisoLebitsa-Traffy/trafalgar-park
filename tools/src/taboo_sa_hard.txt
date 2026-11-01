@@ -1,0 +1,312 @@
+# Taboo HARD - trickier / more abstract South African (and civic) cards. Format:  Target|candidate1,candidate2,... (best first; the builder keeps the first 4 that do not clash)
+# LAW, GOVERNANCE, PARLIAMENT
+Expropriation Without Compensation|Land,Law,Property,Government,Constitution,Farmers
+Section 25|Property,Constitution,Land,Clause,Rights,Expropriation
+Bill of Rights|Constitution,Chapter,Freedoms,Citizens,Court,Protected
+Separation of Powers|Executive,Judiciary,Parliament,Branches,Government,Balance
+Judicial Independence|Judges,Courts,Free,Law,Bench,Pressure
+Public Interest|Community,Benefit,Law,Court,Citizens,Matter
+Oversight Committee|Parliament,Watchdog,Monitor,MPs,Government,Hearings
+Portfolio Committee|Parliament,MPs,Minister,Oversight,Department,Hearing
+Cabinet Reshuffle|Ministers,President,Changes,Government,Positions,Appointments
+Motion of No Confidence|Parliament,Vote,Remove,Opposition,President,Government
+Proportional Representation|Seats,Votes,Lists,Parties,Election,Share
+Hung Council|Coalition,No majority,Municipality,Parties,Mayor,Election
+Floor Crossing|Councillor,Party,Switch,Defect,Politics,Change
+Mayoral Committee|Council,Municipality,Mayor,Members,Executive,City
+Council Speaker|Municipality,Meeting,Order,Debate,Councillors,Chair
+Chief Justice|Head,Courts,Judge,Senior,Constitutional Court,Judiciary
+Judicial Service Commission|JSC,Judges,Interviews,Appoint,Bench,Candidates
+Acting Minister|Temporary,Cabinet,Replace,Department,Appointed,Stand-in
+Interim Report|Commission,Findings,Preliminary,Inquiry,President,Recommendations
+Commission of Inquiry|Judge,Hearings,Testimony,Evidence,President,Report
+Subpoena|Court,Summons,Witness,Appear,Legal,Order
+Contempt of Court|Judge,Disobey,Jail,Order,Penalty,Insult
+Plea Bargain|Court,Guilty,Deal,Sentence,Prosecutors,Charges
+Bail Application|Court,Release,Accused,Hearing,Magistrate,Custody
+Magistrate's Court|Cases,Lower,Magistrate,Trial,Court,Local
+High Court|Judges,Provincial,Cases,Law,Trial,Division
+Supreme Court of Appeal|Bloemfontein,Judges,Appeals,Law,Court,Ruling
+Organised Crime|Syndicates,Police,Mafia,Gangs,Crime,Drugs
+Extortion|Threats,Money,Business,Protection,Gangs,Construction
+Construction Mafia|Extortion,Sites,Projects,Tenders,Business Forums,Threats
+Business Forum|Construction,Projects,Demand,Percent,Local,Disruption
+Kidnapping for Ransom|Money,Abduct,Gangs,Police,Victim,Demand
+Cybercrime|Hackers,Online,Fraud,Internet,Police,Scam
+SIM Swap|Phone,Fraud,Bank,Scam,Number,Criminals
+Pyramid Scheme|Fraud,Recruit,Money,Investors,Illegal,Collapse
+Forensic Audit|Investigation,Books,Fraud,Accounts,Auditors,Evidence
+Wasteful Expenditure|Irregular,Auditor,Public,Money,Spending,Report
+Irregular Expenditure|Wasteful,Auditor,Rules,Money,Spending,Report
+Procurement|Buying,Government,Tender,Contracts,Supply,Rules
+Conflict of Interest|Official,Business,Declare,Ethics,Position,Private
+Ethics Committee|Parliament,Members,Code,Conduct,Complaint,Sanction
+Code of Conduct|Rules,Behaviour,Members,Ethics,Standards,Breach
+Lifestyle Audit|Officials,Wealth,Check,Corruption,Assets,Income
+Public Service Commission|Civil,Servants,Oversight,Government,Conduct,Staff
+Skills Audit|Staff,Government,Qualifications,Check,Public,Employees
+National Dialogue|Talks,Citizens,Ramaphosa,Consultation,Conversation,Country
+Social Compact|Agreement,Business,Labour,Government,Unity,Pact
+Social Cohesion|Unity,Community,Together,Nation,Diversity,Harmony
+Nation Building|Unity,Country,Reconciliation,Identity,Together,Development
+Redress|Past,Fix,Apartheid,Compensation,Justice,Wrongs
+Restitution|Land,Claim,Return,Compensation,Dispossession,Court
+Land Claim|Restitution,Farm,Community,Court,Dispossessed,Return
+Title Deed|Property,Ownership,Document,Land,House,Registry
+Eviction|Landlord,Tenant,Remove,Court,Notice,Homeless
+Land Invasion|Illegal,Occupation,Plots,Settlers,Police,Squatters
+Backyard Dwellers|Rooms,Informal,Rent,Yard,Housing,Tenants
+Spatial Apartheid|Townships,Cities,Distance,Planning,Segregation,Commute
+Urban Sprawl|Cities,Expansion,Suburbs,Growth,Outskirts,Land
+Gentrification|Rich,Neighbourhood,Prices,Renovate,Poor,Change
+# POLITICAL PARTIES & ACRONYMS
+Patriotic Alliance|PA,Party,Coalition,Cape Town,Politics,Leader
+ActionSA|Party,Mashaba,Johannesburg,Opposition,Politics,Mayor
+IFP|Inkatha,Freedom,Party,Zulu,Politics,KwaZulu-Natal
+Freedom Front Plus|Party,Afrikaners,Politics,Opposition,Pretoria,Minority
+Rise Mzansi|Party,Politics,Youth,Opposition,Election,New
+SACP|Communist,Party,Alliance,Red,Workers,Politics
+Tripartite Alliance|ANC,SACP,COSATU,Partners,Politics,Three
+Luthuli House|ANC,Headquarters,Johannesburg,Office,Party,Building
+Shell House|ANC,Headquarters,Johannesburg,Old,Massacre,Building
+Ancestral Politics? skip
+# ECONOMY & FINANCE
+Budget Deficit|Spending,Government,Revenue,Debt,Borrowing,Shortfall
+Sovereign Debt|Government,Borrowing,Loans,Country,Bonds,Repay
+Debt Service Costs|Interest,Government,Budget,Repay,Loans,Spending
+Wage Bill|Public,Servants,Salaries,Government,Spending,Budget
+Revenue Collection|SARS,Taxes,Government,Money,Income,Receipts
+SARS|Tax,Revenue,Returns,eFiling,Collector,Government
+eFiling|Tax,Returns,Online,SARS,Submit,Season
+Tax Season|Returns,SARS,Deadline,Refund,Filing,Income
+VAT Increase|Tax,Prices,Shops,Percent,Budget,Consumers
+Basic Food Basket|Prices,Households,Poverty,Groceries,Cost,Staples
+Poverty Line|Income,Poor,Statistics,Monthly,Below,Food
+Inequality|Gap,Rich,Poor,Gini,Wealth,Income
+Gini Coefficient|Inequality,Measure,Wealth,Income,Gap,Score
+Informal Economy|Street,Traders,Unregistered,Hawkers,Cash,Business
+Street Vendors|Hawkers,Pavement,Sell,Informal,Stalls,Trade
+Brain Drain|Emigration,Skills,Leaving,Professionals,Country,Overseas
+Semigration|Move,Cape Town,Province,Families,Leave,Relocate
+Digital Migration|TV,Analogue,Signal,Broadcast,Switch,Set-top
+ICASA|Regulator,Communications,Broadcasters,Licences,Spectrum,Authority
+Competition Commission|Regulator,Prices,Monopolies,Companies,Fines,Investigates
+Mining Charter|Black,Ownership,Companies,Policy,Mines,Rules
+Beneficiation|Minerals,Processing,Value,Mining,Local,Products
+Logistics Crisis|Ports,Trucks,Rail,Freight,Delays,Cargo
+Freight Rail|Trains,Goods,Transnet,Tracks,Cargo,Network
+Private Sector Participation|Business,State,Companies,Ports,Rail,Partnership
+State-Owned Enterprise|SOE,Government,Company,Public,Entity,Utility
+Bailout|Rescue,Money,Government,Company,Treasury,Funds
+Municipal Debt|Eskom,Owed,Councils,Bills,Unpaid,Arrears
+Operation Vulindlela|Reforms,Government,Economy,Energy,Presidency,Reform
+Inflation Target|Prices,Reserve Bank,Percent,Rates,Economy,Goal
+Grey List|Financial,Action,Task,Force,Country,Money
+GDP Growth|Economy,Percent,Quarter,Statistics,Output,Recession
+Special Economic Zone|Tax,Factories,Investors,Industry,Zone,Incentives
+Investment Conference|Investors,Billions,Business,Ramaphosa,Projects,Pledges
+Ease of Doing Business|Red tape,Regulations,Investors,Companies,Rank,Rules
+Red Tape|Bureaucracy,Rules,Forms,Delay,Government,Paperwork
+AGOA|Trade,United States,Exports,Tariffs,Agreement,Africa
+Tariffs|Trade,Import,Tax,Duties,Exports,Prices
+Trade Deal|Agreement,Countries,Tariffs,Exports,Negotiate,Imports
+G20 Presidency|Johannesburg,Leaders,Summit,Nations,Hosting,Group
+SADC|Southern Africa,Community,Region,Summit,Neighbours,Development
+African Continental Free Trade Area|AfCFTA,Trade,Continent,Markets,Tariffs,Countries
+Foot-and-Mouth Disease|Cattle,Farmers,Exports,Livestock,Outbreak,Vaccines
+Bird Flu|Chickens,Poultry,Outbreak,Eggs,Farms,Virus
+Citrus Exports|Oranges,Farmers,Ports,Europe,Trade,Fruit
+Wine Exports|Cape,Bottles,Trade,Overseas,Vineyards,Farmers
+Rand Volatility|Currency,Dollar,Weak,Strong,Market,Exchange
+Credit Downgrade|Rating,Agency,Bonds,Investors,Country,Lower
+Pension Fund|Retirement,Savings,Members,Investments,Monthly,Workers
+Two-Pot System|Retirement,Savings,Withdrawal,Pension,Fund,Access
+Government Employees Pension Fund|GEPF,Public,Servants,Retirement,Investments,Pension
+Unclaimed Benefits|Pension,Money,Owed,Fund,Retirement,Beneficiaries
+Fuel Levy|Petrol,Tax,Litre,Government,Price,Accident
+Toll Gate|E-tag,Road,Pay,Highway,Plaza,Fee
+E-Toll|Gauteng,Highway,Gantry,Pay,Sanral,Scrapped
+SANRAL|Roads,National,Highways,Agency,Toll,Construction
+Rail Network|Trains,Tracks,Commuters,Freight,Stations,Lines
+Private Rail Operators|Trains,Tracks,Transnet,Competition,Slots,Freight
+# ENERGY, WATER, ENVIRONMENT
+Load Reduction|Electricity,Power,Cuts,Eskom,Areas,Overload
+Energy Availability Factor|Eskom,Power,Stations,Percent,Performance,Measure
+Grid Collapse|Blackout,National,Power,Eskom,Failure,Darkness
+Unbundling|Eskom,Split,Company,Transmission,Generation,Reform
+Transmission Lines|Pylons,Power,Grid,Cables,Electricity,Towers
+Wheeling|Electricity,Power,Grid,Companies,Trade,Private
+Net Zero|Carbon,Emissions,Climate,Target,Greenhouse,Balance
+Just Energy Transition|JETP,Coal,Climate,Funding,Workers,Green
+Carbon Tax|Emissions,Pollution,Companies,Climate,Price,Government
+Acid Mine Drainage|Water,Pollution,Gold,Mines,Rivers,Johannesburg
+Wastewater Treatment|Sewage,Plants,Rivers,Municipalities,Pollution,Cleaning
+Blue Drop|Water,Quality,Report,Municipalities,Clean,Rating
+Green Drop|Sewage,Report,Treatment,Municipalities,Rating,Rivers
+Water Restrictions|Levels,Dams,Municipality,Usage,Rules,Drought
+Vaal River|Water,Pollution,Gauteng,Sewage,Dam,Free State
+Lesotho Highlands Water Project|Dam,Katse,Supply,Gauteng,Pipeline,Neighbour
+Rand Water|Utility,Johannesburg,Supply,Reservoirs,Bulk,Pipes
+Infrastructure Backlog|Roads,Pipes,Repairs,Neglect,Municipality,Maintenance
+Independent Power Producers|IPPs,Energy,Private,Electricity,Solar,Grid
+Renewable Energy|Solar,Wind,Green,Power,Clean,Independent
+NERSA|Regulator,Electricity,Tariffs,Energy,Approval,Price
+Rooftop Solar|Panels,Home,Energy,Roof,Power,Grid
+Battery Storage|Energy,Power,Grid,Charge,Lithium,Backup
+Gas to Power|Energy,Plant,Electricity,Gas,Turbine,Fuel
+Nuclear Procurement|Power,Reactor,Government,Tender,Energy,Atoms
+Climate Adaptation|Weather,Drought,Floods,Resilience,Planning,Change
+Biodiversity Offsets|Nature,Mining,Species,Compensation,Land,Habitat
+Plastic Pollution|Beaches,Bags,Ocean,Litter,Waste,Recycle
+Illegal Dumping|Waste,Rubbish,Streets,Fines,Municipality,Litter
+Landfill Site|Rubbish,Waste,Dump,Trucks,Methane,Municipal
+Sewage Spill|Rivers,Pipes,Pollution,Beach,Municipality,Waste
+Beach Closure|Swimming,E. coli,Water,Warning,Council,Pollution
+Algal Bloom|Water,Green,Dams,Pollution,Toxic,Sea
+Red Tide|Sea,Algae,Cape,Fish,Colour,Ocean
+Wildfire|Cape,Mountains,Smoke,Flames,Firefighters,Dry
+Marine Protected Area|Ocean,Fishing,Reserve,Sea,Conservation,Coast
+Small-Scale Fisheries|Fishers,Quota,Coast,Communities,Rights,Catch
+Abalone Poaching|Perlemoen,Sea,Illegal,Syndicates,Cape,Divers
+Perlemoen|Abalone,Shellfish,Sea,Cape,Poachers,Delicacy
+Rhino Dehorning|Poaching,Horn,Reserve,Vets,Protect,Sedated
+Transfrontier Park|Border,Animals,Countries,Reserve,Cross,Peace
+# SOCIETY, EDUCATION, HEALTH
+Matric Pass Rate|Percent,Results,Pupils,Province,Education,Exams
+Quintile System|Schools,Poor,Fees,Funding,Ranking,Education
+No-Fee School|Poor,Education,Funding,Government,Pupils,Public
+Teacher Shortage|Schools,Classrooms,Pupils,Education,Posts,Vacancies
+Overcrowded Classrooms|Pupils,Teachers,School,Desks,Education,Space
+Early Childhood Development|Pre-school,Creche,Children,Learning,Toddlers,Education
+Mother Tongue Education|Language,School,Home,Teaching,Learning,Foundation
+Language Policy|Official,Schools,Languages,Constitution,Government,Tongues
+South African Sign Language|Deaf,Hands,Official,Gestures,Language,Communication
+Decolonisation|Curriculum,Universities,Colonial,Africa,Change,Education
+Supplementary Exams|Matric,Rewrite,Second,Papers,Fail,Education
+TVET College|Skills,Vocational,Training,Artisan,Education,Students
+Artisan|Trade,Skilled,Electrician,Plumber,Training,Craft
+Skills Shortage|Jobs,Qualified,Workers,Economy,Training,Gap
+Graduate Unemployment|Degrees,Jobs,Youth,Work,Qualified,Rate
+Presidential Youth Employment Initiative|Jobs,Young,Schools,Assistants,Programme,Stipend
+Expanded Public Works Programme|EPWP,Jobs,Temporary,Government,Work,Poor
+Basic Income Grant|Universal,Money,Unemployed,Proposal,Monthly,Poor
+Universal Health Coverage|NHI,Everyone,Free,State,Medical,Insurance
+Medical Scheme|Aid,Benefits,Members,Cover,Doctors,Monthly
+Health Ombud|Complaints,Patients,Hospitals,Report,Standards,Office
+Medicine Shortage|Pharmacy,Clinics,Stock,Patients,Hospitals,Supply
+Surgical Backlog|Hospitals,Operations,Waiting,Patients,Theatre,Delays
+Nurse Shortage|Hospitals,Wards,Staff,Patients,Care,Posts
+Pandemic Preparedness|Virus,Health,Plan,Outbreak,Response,Emergency
+Xenophobia|Foreigners,Attacks,Prejudice,Immigrants,Fear,Hatred
+Border Management|Beitbridge,Immigration,Fence,Patrol,Crossing,Police
+Beitbridge|Border,Zimbabwe,Crossing,Limpopo,Trucks,Post
+Visa Backlog|Immigration,Home Affairs,Applications,Permits,Delay,Foreigners
+Critical Skills Visa|Immigration,Work,Foreigners,Experts,Permit,Shortage
+Born Free|Generation,Democracy,Young,Apartheid,Voters,Freedom
+Struggle Songs|Liberation,Apartheid,Singing,Marches,Political,Freedom
+Toyi-Toyi|Protest,Dance,Marching,Stomping,Chant,Struggle
+Struggle Veteran|Apartheid,Liberation,Activist,Old,Fighter,Freedom
+Gender Equality|Women,Men,Rights,Equal,Pay,Law
+Child Marriage|Girls,Ukuthwala,Law,Underage,Wedding,Rights
+Teenage Pregnancy|Schools,Girls,Education,Clinic,Dropout,Youth
+Substance Abuse|Drugs,Addiction,Rehab,Alcohol,Nyaope,Youth
+Nyaope|Drug,Street,Addiction,Township,Youth,Cheap
+Foetal Alcohol Syndrome|Pregnancy,Drinking,Baby,Brain,Western Cape,Disability
+Alcohol Ban|Liquor,Shops,Sales,Taverns,Law,Prohibited
+Liquor Licence|Tavern,Permit,Sell,Alcohol,Shebeen,Law
+Digital Divide|Internet,Rural,Access,Data,Poor,Gap
+Load-Shedding Schedule|Stages,Areas,Times,Eskom,App,Timetable
+Cell Tower|Network,Signal,Mast,Phone,Coverage,Vandalised
+Cable Theft|Copper,Metal,Power,Trains,Thieves,Telkom
+Copper Theft|Cables,Metal,Thieves,Power,Trains,Scrap
+Scrap Metal|Recycler,Thieves,Sell,Copper,Yard,Cash
+Vandalism|Damage,Property,Destroy,Public,Police,Graffiti
+# HISTORY & PEOPLE
+Black Consciousness|Biko,Movement,Identity,Apartheid,Pride,Steve
+Steve Biko|Black Consciousness,Detention,1977,Activist,Death,Movement
+Albert Luthuli|Nobel,Chief,ANC,Peace,Zulu,President
+Walter Sisulu|Rivonia,ANC,Robben Island,Struggle,Leader,Mandela
+Chris Hani|SACP,Assassinated,Communist,Struggle,Leader,Umkhonto
+Winnie Madikizela-Mandela|Struggle,Mother,Activist,Mandela,Soweto,Wife
+Albie Sachs|Judge,Constitutional Court,Struggle,Lawyer,Activist,Arm
+Helen Suzman|Parliament,Progressive,Opposition,Lone,Apartheid,Politician
+Pass Laws|Dompas,Apartheid,Movement,Black,Papers,Control
+Group Areas Act|Apartheid,Race,Residential,Segregation,Law,Removals
+Bantustans|Homelands,Apartheid,Separate,Transkei,Black,Territories
+Homelands|Bantustans,Apartheid,Transkei,Ciskei,Independent,Black
+District Six|Cape Town,Removals,Museum,Apartheid,Community,Demolished
+Sophiatown|Johannesburg,Removals,Music,Apartheid,Suburb,Jazz
+Detention Without Trial|Apartheid,Prison,Police,Arrest,Security,Laws
+Sunset Clause|Negotiations,Power-sharing,Transition,Apartheid,Deal,Compromise
+Interim Constitution|Transition,Democracy,Document,Negotiations,Law,Agreement
+Amnesty|Pardon,Truth,Crimes,Forgiveness,Apartheid,Applications
+Reparations|Victims,Compensation,Money,Apartheid,Payment,Harm
+Transitional Justice|Truth,Reconciliation,Courts,Past,Victims,Commission
+Freedom Charter|Kliptown,1955,Document,ANC,Demands,People
+Kliptown|Soweto,Freedom Charter,Square,Congress,1955,Johannesburg
+Defiance Campaign|1952,Protest,Apartheid,Laws,ANC,Disobedience
+Treason Trial|Court,1956,Accused,Apartheid,Leaders,Long
+Cuito Cuanavale|Angola,Battle,Cuba,Army,Border War,1988
+Border War|Angola,Namibia,Army,Soldiers,Conscription,Apartheid
+Conscription|Army,Military,Young,Compulsory,Service,Call-up
+Operation Mayibuye|Plan,Struggle,Rivonia,Underground,Guerrilla,ANC
+Umkhonto we Sizwe|MK,Armed,Wing,ANC,Spear,Nation
+Great Trek|Voortrekkers,Wagons,Boers,Inland,History,Journey
+Anglo-Boer War|British,Boers,Concentration Camps,War,1899,Transvaal
+Battle of Blood River|Zulu,Voortrekkers,1838,Dingane,River,Covenant
+Shaka Zulu|King,Warrior,Zulu,Assegai,Empire,History
+Mapungubwe|Kingdom,Gold,Rhino,Limpopo,Ancient,Heritage
+Sarah Baartman|Khoikhoi,Remains,Exhibition,Venus,Return,Cape
+Khoisan|Indigenous,Cape,First,People,Click,Language
+Mfecane|Upheaval,Shaka,Migration,Wars,Nineteenth,Zulu
+Cecil John Rhodes|Colonial,Statue,Diamonds,Cape,Fall,Scholarship
+Rhodes Must Fall|Statue,Students,UCT,Protest,Colonial,Campus
+Fees Must Fall|Students,Tuition,Protest,Campus,2015,Universities
+Marikana Massacre|Miners,Police,2012,Lonmin,Strike,Platinum
+Life Esidimeni|Patients,Deaths,Gauteng,Mental,Arbitration,NGOs
+Sassa Debacle|Grants,Payment,Cash Paymaster,Contract,Pensioners,Social
+Arms Deal|Corruption,Zuma,Defence,Contracts,Weapons,Investigation
+Guptaleaks|Emails,Corruption,Journalists,Leak,Capture,Documents
+Bosasa|Contract,Prisons,Corruption,Company,Agrizzi,Bribes
+Digital Vibes|Contract,Health,Covid,Scandal,Spokesperson,Tender
+Covid Relief Fraud|Tenders,PPE,Corruption,Scandal,Money,Pandemic
+PPE Scandal|Masks,Tenders,Corruption,Covid,Money,Government
+Eskom Kickbacks|Contracts,Corruption,Kusile,Bribes,Investigation,Eskom
+July Unrest|2021,Looting,Riots,KwaZulu-Natal,Zuma,Shops
+Looting|Shops,Riots,Theft,Unrest,Police,Stolen
+Government Shutdown? skip
+# SPORT & CULTURE TRICKY
+Springbok Transformation|Quotas,Rugby,Race,Selection,Players,Targets
+Quota System|Race,Selection,Teams,Sport,Targets,Players
+SASCOC|Olympic,Committee,Sport,Athletes,Federation,Confederation
+Commonwealth Games Bid|Durban,Hosting,Withdrawn,Sport,Games,Cities
+Olympic Qualification|Athletes,Standard,Games,Team,Selection,Time
+Doping|Athletes,Banned,Tests,Drugs,Sport,Cheating
+Sports Federation|Governing,Body,Rules,Athletes,Administration,Sport
+Player Transfer|Club,Soccer,Contract,Fee,Sign,Window
+Match Fixing|Cheating,Betting,Sport,Referee,Corruption,Result
+Free State Stars|Soccer,Club,Bloemfontein,League,Team,Players? skip
+Betting Tax|Gambling,Bookmakers,Sports,Punters,Revenue,Odds
+Sports Betting|Bookmaker,Odds,Gambling,Bets,Match,Punters
+National Lottery|Tickets,Draw,Jackpot,Winners,Gambling,Powerball
+Powerball|Lottery,Jackpot,Draw,Numbers,Tickets,Prize
+Lotto|Lottery,Draw,Numbers,Tickets,Jackpot,Prize
+Fahfee|Illegal,Gambling,Numbers,Chinese,Township,Bets
+Casino Licence|Gambling,Board,Permit,Operators,Province,Slots
+Arts and Culture Funding|Grants,Artists,Government,Department,Festivals,Money
+National Arts Festival|Makhanda,Grahamstown,Theatre,July,Fringe,Performers
+Joy of Jazz|Festival,Music,Johannesburg,Concert,Performers,Series
+Cape Town International Jazz Festival|Music,Concert,Convention Centre,Artists,Weekend,Fans
+Oppikoppi|Festival,Music,Limpopo,Rock,Camping,Farm
+Rocking the Daisies|Festival,Music,Cape,Camping,Farm,Weekend
+AfrikaBurn|Festival,Desert,Tankwa,Art,Burning,Community
+Design Indaba|Conference,Creative,Cape Town,Designers,Annual,Talks
+South African Music Awards|SAMAs,Singers,Trophies,Ceremony,Musicians,Night
+Safta|Film,Awards,Actors,Television,Ceremony,Trophy
+Soapie|Series,Daily,Television,Drama,Episodes,Cast
+Mzansi Fo Sho|Slang,South Africa,Expression,Sure,Local,Pride? skip
+Township Slang|Language,Streets,Youth,Words,Mix,Isicamtho
+Isicamtho|Slang,Township,Youth,Language,Streets,Words
+Tsotsitaal|Slang,Township,Mixed,Language,Streets,Gangsters
+Kasi|Township,Home,Slang,Streets,Neighbourhood,Local
+Spaza Shop Regulation|Tiny,Store,Permit,Food,Safety,Municipality

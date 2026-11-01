@@ -1,0 +1,111 @@
+# more HARD cards (civic life, governance, business, society)
+Electoral Threshold|Votes,Percent,Seats,Parties,Minimum,Council
+Voter Apathy|Turnout,Elections,Young,Ballot,Low,Interest
+Voter Turnout|Percentage,Election,Ballot,Count,IEC,People
+Independent Candidates|Ballot,Party,Elections,Run,Parliament,Individuals
+Party List|Candidates,Order,Elections,Proportional,Seats,Names
+Candidate Lists|Party,Names,Election,Ballot,IEC,Deadline
+Election Observers|Monitors,Vote,International,Count,Polling,Fair
+Results Operation Centre|IEC,Midrand,Counting,Elections,Announce,Screens
+Special Votes|Elderly,Sick,Early,Elections,IEC,Home
+Coalition Agreement|Parties,Signed,Government,Terms,Posts,Council
+Coalition Collapse|Government,Parties,Mayor,Council,Vote,Instability
+Municipal Manager|Council,Administrator,City,Official,Senior,Town
+Section 139|Intervention,Province,Takeover,Constitution,Government,Council
+Administrator|Council,Appointed,Takeover,Intervention,Province,Town
+Budget Vote|Parliament,Department,Minister,Debate,Speech,Money
+Appropriation Bill|Parliament,Budget,Spending,Law,Money,Departments
+Medium-Term Budget|MTBPS,October,Finance,Treasury,Minister,Statement
+National Treasury|Finance,Budget,Pretoria,Minister,Money,Department
+Auditor Opinion|Clean,Qualified,Municipality,Report,Accounts,Audit
+Disclaimer Opinion|Audit,Accounts,Municipality,Report,Failure,Records
+Unfunded Mandate|Municipality,Government,Pay,Duties,Budget,Responsibility
+Equitable Share|Municipalities,Money,Treasury,Grant,Allocation,Local
+Conditional Grant|Treasury,Province,Money,Purpose,Spending,Allocation
+Provincial Legislature|Province,MPLs,Laws,Debate,Premier,Parliament
+Premier|Province,Head,Government,Executive,Leader,Provincial
+Metro Police|Municipal,City,Officers,Traffic,Law,Force
+Community Policing Forum|CPF,Neighbourhood,Police,Volunteers,Meetings,Safety
+Neighbourhood Watch|Residents,Patrol,Crime,Street,Security,Volunteers
+Private Security|Guards,Armed,Response,Company,Alarm,Homes
+Armed Response|Security,Alarm,Company,Guards,Homes,Panic
+Panic Button|Alarm,Security,Emergency,Press,Response,Help
+Electric Fence|Wall,Security,Shock,Home,Wires,Perimeter
+Boom Gate|Security,Estate,Entry,Access,Guard,Barrier
+Gated Community|Estate,Security,Walls,Residents,Complex,Access
+Body Corporate|Sectional,Title,Levies,Complex,Owners,Trustees
+Rates and Taxes|Council,Property,Bill,Monthly,Municipal,Owner
+Property Transfer|Conveyancer,Deed,Sale,Buyer,Seller,Registry
+Bond Originator|Home loan,Bank,Mortgage,Approval,Buyer,Application
+Home Loan|Bond,Bank,Mortgage,Property,Interest,Repayments
+First-Time Buyer|Home,Bond,Deposit,Property,Subsidy,Young
+Rent Control|Landlord,Prices,Tenants,Law,Limit,Housing
+Student Accommodation|Residence,University,Rooms,Rent,Campus,Housing
+Registration Fee|University,Deposit,Student,Pay,Enrolment,Academic
+Academic Exclusion|Failed,Students,University,Appeal,Marks,Dropped
+Matric Rewrite|Pupils,Exam,Second,Improve,Results,Papers
+Corporal Punishment|School,Beating,Banned,Discipline,Teacher,Law
+School Governing Body|SGB,Parents,Fees,Council,Principal,Policy
+School Feeding Scheme|Meals,Pupils,Hunger,Programme,Nutrition,Poor
+Scholar Patrol|Children,Road,Crossing,Stop,Pupils,Traffic
+Rural Schools|Farms,Teachers,Villages,Classrooms,Remote,Education
+Multigrade Teaching|Classroom,Rural,Combined,Teacher,Grades,Pupils
+Community Health Worker|Home,Visits,Clinic,Volunteer,Patients,Neighbourhood
+Mobile Clinic|Van,Nurse,Rural,Health,Village,Visits
+Mental Health Care|Counselling,Patients,Illness,Stigma,Hospital,Support
+Suicide Prevention|Helpline,Counselling,Mental,Health,Awareness,Crisis
+Gender-Based Violence Command Centre|Helpline,Abuse,Calls,Victims,Hotline,Support
+Protection Order|Court,Abuse,Victim,Restrain,Domestic,Law
+Child Protection|Welfare,Abuse,Social Workers,Law,Children,Care
+Foster Care|Children,Family,Social Workers,Orphans,Placement,Grant
+Child-Headed Household|Orphans,Siblings,Home,Poor,Grant,Support
+Poverty Alleviation|Charity,Grants,Programme,Hunger,Government,Help
+Soup Kitchen|Meals,Volunteers,Hungry,Free,Charity,Church
+Food Bank|Donations,Hunger,Parcels,Charity,Poor,Volunteers
+Food Parcel|Donation,Hunger,Charity,Relief,Groceries,Poor
+Food Insecurity|Hunger,Households,Poor,Meals,Nutrition,Prices
+Small Business Support|Entrepreneurs,Funding,Grants,Loans,Government,Startups
+Township Economy|Business,Spaza,Informal,Local,Shops,Growth
+SMME|Small,Business,Enterprise,Entrepreneur,Funding,Medium
+Black Industrialists|Business,Manufacturing,Empowerment,Government,Factories,Support
+Ownership Targets|Black,Companies,Percent,Shares,Empowerment,Policy
+Employment Equity|Jobs,Race,Gender,Workplace,Law,Targets
+Starlink|Internet,Satellite,Musk,Licence,Ownership,Coverage
+Broadband Rollout|Internet,Fibre,Government,Network,Coverage,Cables
+Rural Connectivity|Internet,Villages,Network,Signal,Access,Towers
+Spectrum Auction|Network,Frequencies,Bidders,ICASA,Operators,Licences
+Mobile Number Portability|Network,Switch,Number,Keep,Provider,Cellphone
+Data Must Fall|Internet,Prices,Campaign,Cheaper,Networks,Mobile
+Hung Parliament|Majority,Seats,Parties,Coalition,Election,Deadlock
+Tripartite Partners|ANC,SACP,COSATU,Alliance,Politics,Three
+Defiance Protest|1952,Apartheid,Laws,ANC,Disobedience,Campaign
+Treason Charge|Court,Accused,Betrayal,Leaders,Trial,Country
+Trade Union Federation|Workers,COSATU,Labour,Members,Congress,Unions
+Collective Bargaining|Unions,Employers,Wages,Talks,Agreement,Workers
+Bargaining Council|Unions,Employers,Industry,Disputes,Wages,Agreement
+CCMA|Labour,Disputes,Dismissal,Workers,Mediation,Commission
+Unfair Dismissal|Fired,Worker,Labour,Court,Employer,Claim
+Retrenchment|Jobs,Workers,Company,Losses,Fired,Cuts
+Section 189|Retrenchments,Labour,Workers,Notice,Consultation,Jobs
+Public Sector Wage Agreement|Unions,Government,Salaries,Increase,Servants,Deal
+Wage Negotiations|Unions,Employers,Talks,Increase,Strike,Salaries
+Protected Strike|Workers,Legal,Union,Notice,Labour,Picket
+Picket Line|Strikers,Workers,Protest,Company,Gate,Union
+Scab|Strike,Workers,Replacement,Union,Cross,Employer
+Fixed-Term Contract|Temporary,Employment,Months,Job,Renew,Workers
+Labour Broker|Temporary,Agency,Workers,Contract,Staff,Placement
+Domestic Worker|Home,Maid,Cleaner,Wages,Employer,Household
+Farm Worker|Agriculture,Wages,Farm,Labour,Harvest,Fields
+Seasonal Worker|Harvest,Temporary,Farm,Picking,Fruit,Contract
+Mine Worker|Underground,Shaft,Miner,Union,Gold,Shifts
+Mine Dump|Gold,Yellow,Johannesburg,Dust,Waste,Hill
+Mine Rehabilitation|Closed,Mines,Environment,Clean,Land,Restore
+Ghost Town|Mine,Empty,Abandoned,People,Left,Deserted
+Corridor Project|Transport,Trade,Roads,Railway,Development,Regions
+Industrial Development Corporation|IDC,Funding,Industry,Loans,State,Investment
+Public Investment Corporation|PIC,Pension,Investments,State,Funds,Manager
+Development Bank|DBSA,Loans,Infrastructure,Funding,Southern Africa,State
+Land Bank|Farmers,Loans,Agriculture,Default,Funding,State
+Post Bank|Savings,Post Office,Accounts,Government,Customers,Branches
+Post Office|Mail,Parcels,Stamps,Counter,Queue,Letters
+Courier Delay|Parcel,Delivery,Late,Customs,Shipping,Package

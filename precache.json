@@ -1,5 +1,5 @@
 {
-"version": "tp-b6138c765f",
+"version": "tp-03dbaba031",
 "files": [
 "admin.html",
 "index.html",
@@ -217,6 +217,7 @@
 "data/imposter.js",
 "data/proverbs.js",
 "data/taboo.js",
+"data/taboo_sa.js",
 "data/trivia.js",
 "data/words30.js",
 "js/admin.js",

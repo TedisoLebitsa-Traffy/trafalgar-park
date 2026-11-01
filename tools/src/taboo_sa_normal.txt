@@ -1,0 +1,376 @@
+# Taboo Normal - South African cards. Format:  Target|candidate1,candidate2,... (best first; the builder keeps the first 3 that do not clash)
+# POLITICS, GOVERNMENT, ELECTIONS
+Cyril Ramaphosa|President,ANC,Leader,Country,Head of State,Union Buildings
+Union Buildings|Pretoria,President,Government,Mandela statue,Amphitheatre,Offices
+State of the Nation Address|SONA,President,Speech,Parliament,February,Opening
+Budget Speech|Finance Minister,Treasury,Taxes,Parliament,Rand,Announcement
+Government of National Unity|GNU,Coalition,Parties,Cabinet,Together,Unity
+Coalition|Parties,Together,Government,Alliance,Deal,Majority
+African National Congress|ANC,Mandela,Governing,Party,Luthuli House,Liberation
+Democratic Alliance|DA,Blue,Opposition,Party,Western Cape,Official
+MK Party|Zuma,Spear,Umkhonto,Party,Zulu,Politics
+EFF|Malema,Red,Berets,Party,Economic,Fighters
+Julius Malema|EFF,Red Beret,Politician,Commander,Leader,Party
+Jacob Zuma|Former President,Nkandla,MK Party,Msholozi,Zulu,Politician
+Local Government Elections|Vote,Municipal,Ward,Councillor,IEC,Wednesday
+Voting Station|Ballot,Queue,IEC,Ink,Election,Cross
+Electoral Commission|IEC,Elections,Vote,Independent,Ballot,Officials
+Ward Councillor|Municipality,Ward,Community,Elected,Local,Complaints
+Executive Mayor|City,Council,Municipality,Metro,Leader,Elected
+Municipality|Council,Services,Water,Local,Rates,Town
+Voters Roll|Registered,List,Register,Names,IEC,Vote
+Spoilt Ballot|Vote,Cross,Invalid,Paper,Count,Mistake
+Service Delivery Protest|Roads,Water,Burning,Tyres,Community,Municipality
+Potholes|Roads,Cars,Holes,Tyres,Repair,Municipality
+Water Shortage|Taps,Dry,Dams,Tanker,Municipality,Joburg
+Day Zero|Cape Town,Dams,Drought,Taps,Water,Crisis
+Water Tanker|Truck,Supply,Shortage,Community,Fill,Buckets
+Rolling Blackouts|Power,Lights,Stages,Eskom,Schedule,Off
+Stage Six|Load Shedding,Power,Hours,Eskom,Stages,Dark
+Generator|Power,Petrol,Diesel,Backup,Noise,Electricity
+Inverter|Battery,Power,Backup,Solar,Lights,Electricity
+Prepaid Electricity|Meter,Units,Voucher,Buy,Token,Power
+Municipal Rates|Bill,Council,Property,Pay,Water,Monthly
+Rand|Currency,Money,South African,Dollar,Notes,ZAR
+Reserve Bank|SARB,Interest,Rates,Repo,Pretoria,Governor
+Repo Rate|Interest,Reserve Bank,Home loan,Prime,Cut,Percent
+Petrol Price|Fuel,Litre,Increase,Pump,Wednesday,Cost
+Road Accident Fund|RAF,Claims,Compensation,Crash,Fuel,Levy
+Johannesburg Stock Exchange|JSE,Shares,Sandton,Trading,Companies,Market
+Sandton|Johannesburg,Rich,Business,Mall,Gautrain,Offices
+Gautrain|Train,Fast,Johannesburg,Pretoria,Airport,Rail
+Minibus Taxi|Quantum,Hand Signals,Rank,Fare,Commuter,Toyota
+Taxi Violence|Rank,Route,Shootings,Minibus,Conflict,Association
+Metrorail|Train,Commuter,Cape Town,Delays,Stations,Rail
+PRASA|Trains,Metrorail,Rail,Commuters,Agency,Stations
+Transnet|Ports,Rail,Freight,Durban,Trucks,Company
+Port of Durban|Ship,Containers,Cargo,Harbour,Transnet,KwaZulu-Natal
+SASSA|Grant,Social,Pay,Pension,Queue,Agency
+Social Grant|SASSA,Money,Child,Pension,Monthly,Poor
+SRD Grant|Relief,Unemployed,Distress,SASSA,Monthly,Social
+Child Support Grant|SASSA,Money,Child,Monthly,Parent,Social
+Old Age Pension|Elderly,SASSA,Money,Retired,Monthly,Grant
+NSFAS|Students,Funding,University,Bursary,Loans,Fees
+Matric Results|Grade 12,Exams,Pass,Rate,January,Education
+Matric Dance|Grade 12,Dress,Prom,Formal,School,Suit
+Department of Basic Education|Schools,Minister,Pretoria,Teachers,Matric,Curriculum
+School Uniform|Blazer,Pupils,Tie,Wear,Shop,Dress
+Pit Latrine|Toilet,School,Outside,Sanitation,Hole,Dangerous
+National Health Insurance|NHI,Healthcare,Government,Hospitals,Medical,Fund
+Public Hospital|State,Clinic,Doctors,Queue,Patients,Free
+Clinic|Nurse,Sick,Health,Community,Queue,Medicine
+Medical Aid|Doctor,Monthly,Private,Cover,Hospital,Scheme
+Vaccination Drive|Jab,Clinic,Needle,Health,Children,Campaign
+Antiretrovirals|ARVs,HIV,Pills,Treatment,Clinic,Medicine
+Tuberculosis|TB,Lungs,Cough,Infectious,Clinic,Disease
+Home Affairs|ID,Passport,Queue,Documents,Department,Smart
+Smart ID Card|Home Affairs,Identity,Green book,Document,Chip,Citizen
+Driver's Licence|Card,Test,Car,Licensing,Learner,Renew
+K53|Driving,Test,Licence,Yard,Parallel,Examiner
+Traffic Officer|Fine,Road,Speed,Ticket,Roadblock,Uniform
+Speed Camera|Fine,Road,Photo,Limit,Ticket,Traffic
+Roadblock|Police,Traffic,Stop,Checking,Cars,Alcohol
+Arrive Alive|Road,Safety,Campaign,December,Holidays,Accidents
+Easter Weekend|Holiday,Eggs,Road,Church,Travel,Chocolate
+December Holidays|Beach,Travel,Summer,Family,Break,Christmas
+Public Holiday|Day off,Government,Calendar,Long weekend,Celebration,Work
+Long Weekend|Public Holiday,Friday,Monday,Rest,Break,Trip
+Human Rights Day|March,Sharpeville,Public Holiday,Constitution,Twenty-first,Rights
+Sharpeville Massacre|1960,Police,Pass Laws,Protest,Gauteng,Shot
+Soweto Uprising|1976,Students,Afrikaans,Protest,Hector,June 16
+Hector Pieterson|Soweto,Photo,Boy,1976,Uprising,Student
+Rivonia Trial|Mandela,Court,Sisulu,Treason,Prison,1964
+CODESA|Negotiations,Apartheid,Talks,1991,Parties,Democracy
+Truth and Reconciliation Commission|TRC,Tutu,Apartheid,Hearings,Victims,Forgiveness
+Constitutional Court|Johannesburg,Judges,Highest,Law,Rights,Hill
+Public Protector|Report,Corruption,Office,Investigation,Complaints,Ombud
+Hawks|Police,Investigators,Corruption,Unit,Crime,DPCI
+National Prosecuting Authority|NPA,Prosecutor,Court,Charges,Case,Trial
+Special Investigating Unit|SIU,Corruption,Tender,Probe,Report,Money
+Auditor-General|Audit,Municipalities,Report,Money,Clean,Finances
+Zondo Commission|State Capture,Judge,Gupta,Inquiry,Report,Corruption
+State Capture|Guptas,Corruption,Zuma,Zondo,Eskom,Contracts
+Gupta Family|State Capture,Saxonwold,India,Business,Zuma,Brothers
+Nkandla|Zuma,Home,Homestead,Upgrade,KwaZulu-Natal,Pool
+Phala Phala|Ramaphosa,Farm,Buffalo,Dollars,Theft,Investigation
+Impeachment|President,Parliament,Remove,Committee,Charges,Vote
+Madlanga Commission|Inquiry,Police,Judge,Corruption,Hearings,Mkhwanazi
+Nhlanhla Mkhwanazi|Police,General,KwaZulu-Natal,Commissioner,Allegations,Commission
+Police Commissioner|National,SAPS,Head,General,Police,Uniform
+Police Station|Cops,Report,Case,Cells,Officers,Complaint
+Blue Light Brigade|VIP,Ministers,Sirens,Convoy,Escorts,Bodyguards
+Crime Statistics|Police,Murder,Quarterly,Figures,Report,Minister
+Femicide|Women,Murder,Killing,Gender,Abuse,Victims
+National Shutdown|Strike,Protest,Closed,Streets,Day,Economic
+Cash-in-Transit Heist|Robbery,Armoured,Van,Bombs,Highway,Money
+Hijacking|Car,Robbery,Gun,Stolen,Driver,Traffic Light
+Smash and Grab|Window,Car,Thief,Robbery,Traffic,Bag
+Armed Robbery|Gun,Thieves,Police,Bank,Shop,Stolen
+Gang Violence|Cape Flats,Shootings,Gangsters,Neighbourhood,Police,Drugs
+Cape Flats|Cape Town,Gangs,Townships,Mitchells Plain,Area,Neighbourhoods
+Illegal Mining|Zama Zamas,Gold,Underground,Shaft,Gauteng,Police
+Zama Zama|Illegal,Miner,Gold,Underground,Mine,Digging
+Stilfontein|Mine,Rescue,Illegal,Shaft,Miners,North West
+Marikana|Mine,Strike,Platinum,2012,Police,Workers
+Platinum|Metal,Mining,Rustenburg,Expensive,Jewellery,Bushveld
+Diamonds|Kimberley,Gems,Mine,Ring,Sparkle,Expensive
+Kimberley|Diamonds,Big Hole,Northern Cape,City,Mine,Town
+Big Hole|Kimberley,Mine,Diamonds,Northern Cape,Crater,Dug
+# SPORT
+Rugby World Cup|Webb Ellis,Springboks,Trophy,France,Final,Tournament
+Siya Kolisi|Springbok,Captain,Rugby,Player,Skipper,Tackle
+Rassie Erasmus|Coach,Springboks,Director,Rugby,Boks,Team
+Handre Pollard|Flyhalf,Kicker,Rugby,Springbok,Boots,Points
+Cheslin Kolbe|Winger,Fast,Springbok,Rugby,Small,Try
+Currie Cup|Rugby,Provincial,Competition,Trophy,Final,Unions
+Stormers|Cape Town,Rugby,Franchise,Team,Province,Western Province
+Bulls|Pretoria,Rugby,Loftus,Blue,Team,Franchise
+Sharks|Durban,Rugby,Kings Park,Team,Black,Franchise
+Ellis Park|Johannesburg,Stadium,Rugby,Lions,1995,Ground
+FNB Stadium|Soweto,Soccer City,Calabash,Johannesburg,Stadium,Final
+Moses Mabhida Stadium|Durban,Arch,Stadium,Skywalk,KwaZulu-Natal,Cable
+Loftus Versfeld|Pretoria,Stadium,Rugby,Bulls,Pitch,Sports
+Wanderers Stadium|Johannesburg,Cricket,Bullring,Ground,Test,Gauteng
+Kaizer Chiefs|Soweto,Amakhosi,Gold,Soccer,Club,Black
+Orlando Pirates|Soweto,Bucs,Soccer,Club,Skull,Black
+Mamelodi Sundowns|Brazilians,Yellow,Soccer,Club,Masandawana,Tshwane
+Soweto Derby|Chiefs,Pirates,Soccer,Match,Rivalry,Stadium
+Banyana Banyana|Women,Soccer,National,Team,Africa,Champions
+Hugo Broos|Coach,Bafana,Belgian,Soccer,Manager,Team
+World Cup Knockout Round|Soccer,Bafana,Round of 32,History,Canada,Tournament
+AFCON|Africa,Soccer,Cup,Nations,Tournament,Winners
+Proteas|Cricket,South African,Team,Bat,Bowl,Green
+Cricket South Africa|CSA,Proteas,Board,Cricket,Administration,Sport
+SA20|Cricket,League,T20,Franchises,Cape Town,Tournament
+Temba Bavuma|Captain,Cricket,Proteas,Batter,Skipper,Test
+Kagiso Rabada|Fast,Bowler,Cricket,Proteas,Wickets,Pace
+Comrades Marathon|Durban,Pietermaritzburg,Race,Run,Ultra,Kilometres
+Two Oceans Marathon|Cape Town,Run,Race,Half,Ultra,Table Mountain
+Cape Town Cycle Tour|Cycling,Race,Bicycles,Peninsula,Bikes,Argus
+Tatjana Schoenmaker|Swimmer,Olympic,Gold,Breaststroke,Pool,Medal
+Wayde van Niekerk|Sprinter,400m,Olympic,Runner,Record,Track
+Caster Semenya|800m,Runner,Olympic,Athlete,Gold,Track
+Benni McCarthy|Striker,Football,Coach,Porto,Soccer,Goals
+Percy Tau|Soccer,Forward,Bafana,Player,Goal,Footballer
+Ronwen Williams|Goalkeeper,Bafana,Sundowns,Saves,Soccer,Gloves
+Varsity Cup|Rugby,Students,University,Competition,Matches,Trophy
+Springbok Emblem|Green,Gold,Jersey,Antelope,Badge,Rugby
+# MUSIC, TV, CELEBRITIES
+Tyla|Singer,Water,Grammy,Pop,Johannesburg,Song
+Black Coffee|DJ,House,Music,Johannesburg,Producer,Grammy
+Nasty C|Rapper,Hip Hop,Durban,Music,Artist,Songs
+Cassper Nyovest|Rapper,Hip Hop,Fill Up,Music,Artist,Concert
+Kabza De Small|Amapiano,Piano King,Producer,Music,DJ,Artist
+DJ Maphorisa|Amapiano,Producer,Music,Artist,DJ,Songs
+Makhadzi|Singer,Venda,Dance,Artist,Music,Songs
+Jerusalema Challenge|Dance,Video,Song,Master KG,Moves,Pandemic
+Gqom|Music,Durban,Beats,Dance,Genre,Electronic
+Kwaito|Music,Genre,Township,Beats,Dance,1990s
+Ladysmith Black Mambazo|Choir,Zulu,Singing,Grammy,Isicathamiya,Group
+Hugh Masekela|Trumpet,Jazz,Musician,Flugelhorn,Legend,Music
+Miriam Makeba|Mama Africa,Singer,Pata Pata,Music,Legend,Exile
+Brenda Fassie|Singer,Pop,Weekend Special,Queen,Music,Icon
+Johnny Clegg|Singer,Zulu,Music,Juluka,Savuka,White
+Trevor Noah|Comedian,Daily Show,Soweto,Born A Crime,Host,Comedy
+Loyiso Gola|Comedian,Comedy,Stand-up,Cape Town,Funny,Show
+Skeem Saam|Soap,Series,Polokwane,SABC,Drama,Television
+Generations|Soap,Series,SABC,Drama,Television,Legacy
+Uzalo|Soap,Series,Durban,SABC,Drama,Church
+Isidingo|Soap,Series,Mining,Drama,SABC,Television
+Muvhango|Soap,Series,Venda,SABC,Drama,Television
+Gomora|Soap,Series,Mzansi Magic,Drama,Television,Township
+Idols South Africa|Singing,Show,Judges,Contest,Television,Winner
+MasterChef South Africa|Cooking,Show,Contest,Chef,Television,Kitchen
+Big Brother Mzansi|Reality,Housemates,Show,Eviction,House,Television
+Mzansi Magic|DStv,Channel,Television,Shows,Soap,Reality
+SABC|Broadcaster,Public,Television,Radio,News,Auckland Park
+DStv|Satellite,Multichoice,Channels,Television,Decoder,Dish
+Showmax|Streaming,Series,Multichoice,Movies,Online,Subscription
+eNCA|News,Channel,Television,Reporters,Headlines,Broadcast
+News24|Website,News,Online,Headlines,Naspers,Media
+Daily Maverick|News,Online,Newspaper,Journalists,Website,Opinion
+Sunday Times|Newspaper,Weekly,Johannesburg,Headlines,Paper,Journalists
+Metro FM|Radio,Station,Music,Urban,SABC,Presenters
+Podcast and Chill|Mac G,Podcast,Show,South African,Hosts,Talk
+Bonang Matheba|Presenter,Queen B,Television,Model,Celebrity,Fashion
+Thuso Mbedu|Actress,Underground Railroad,Film,Television,Star,Hollywood
+# LANGUAGE, FOOD, SHOPPING
+Mzansi|South Africa,Home,Slang,Country,Local,People
+Sharp Sharp|Greeting,Slang,Okay,Goodbye,South African,Friendly
+Howzit|Greeting,Hello,Slang,South African,Hi,Friend
+Eish|Exclamation,Slang,Oh no,Surprise,South African,Expression
+Lekker|Nice,Good,Afrikaans,Slang,South African,Great
+Ayoba|Great,Slang,Excellent,Cool,South African,Happy
+Just Now|Later,Soon,Time,South African,Eventually,Slang
+Robot|Traffic Light,Red,Green,Road,Driver,Intersection
+Bakkie|Truck,Pickup,Load,Vehicle,Back,Farmers
+Pap|Maize,Porridge,Braai,Meal,Staple,Mielie
+Chakalaka|Spicy,Relish,Vegetables,Braai,Side,Beans
+Gatsby|Sandwich,Cape Town,Chips,Huge,Roll,Street
+Kota|Sandwich,Township,Bread,Chips,Polony,Soweto
+Vetkoek|Fried,Dough,Mince,Bread,Afrikaans,Snack
+Melktert|Milk,Tart,Cinnamon,Dessert,Afrikaans,Sweet
+Droewors|Dried,Sausage,Meat,Biltong,Snack,Afrikaans
+Amarula|Cream,Liqueur,Elephant,Marula,Drink,Alcohol
+Castle Lager|Beer,Drink,Brand,Bottle,Alcohol,South African
+Savanna Cider|Drink,Lemon,Dry,Alcohol,Bottle,Brand
+Mageu|Drink,Maize,Traditional,Sour,Porridge,Fermented
+Umqombothi|Beer,Traditional,Sorghum,Maize,Brewed,Xhosa
+Shebeen|Bar,Township,Tavern,Drink,Beer,Local
+Woolworths|Shop,Food,Retail,Clothes,Brand,Stores
+Pick n Pay|Supermarket,Groceries,Shop,Retail,Trolley,Brand
+Checkers|Supermarket,Groceries,Shop,Sixty60,Retail,Brand
+Shoprite|Supermarket,Groceries,Shop,Cheap,Retail,Brand
+Takealot|Online,Shopping,Website,Delivery,Store,Retail
+Capitec|Bank,Money,Savings,Cards,App,Branch
+Discovery Vitality|Health,Rewards,Points,Insurance,Gym,Steps
+Vodacom|Network,Cellphone,Data,Red,Airtime,Company
+MTN|Network,Cellphone,Data,Yellow,Airtime,Company
+Telkom|Network,Landline,Company,Cellphone,Data,Telephone
+Airtime|Cellphone,Voucher,Buy,Prepaid,Data,Credit
+Data Bundle|Cellphone,Gigabytes,Buy,Internet,Network,Prepaid
+Fibre|Internet,Cable,Home,Speed,Network,Broadband
+Mr D|Food,Delivery,App,Orange,Courier,Order
+Nando's|Chicken,Peri-Peri,Restaurant,Hot,Chain,Sauce
+Spur|Restaurant,Steak,Family,Chain,Red Indian,Kids
+Wimpy|Burger,Breakfast,Chain,Restaurant,Fast food,Family
+Debonairs|Pizza,Chain,Delivery,Restaurant,Triple Decker,Cheese
+Ster-Kinekor|Cinema,Movies,Chain,Popcorn,Screens,Tickets
+Eskom Se Push|App,Load Shedding,Schedule,Phone,Stages,Alerts
+# PLACES
+Gauteng|Johannesburg,Pretoria,Province,Economic,Hub,Smallest
+Western Cape|Cape Town,Province,Wine,DA,Table Mountain,Garden Route
+KwaZulu-Natal|Durban,Zulu,Province,Coast,Pietermaritzburg,Drakensberg
+Eastern Cape|Xhosa,Province,Gqeberha,East London,Wild Coast,Mandela
+Limpopo|Province,Polokwane,North,Kruger,Venda,Baobab
+Mpumalanga|Province,Nelspruit,Kruger,Panorama,Sunrise,Mbombela
+North West|Province,Mahikeng,Sun City,Rustenburg,Platinum,Mining
+Free State|Province,Bloemfontein,Maize,Farming,Central,Gold
+Northern Cape|Province,Kimberley,Biggest,Desert,Karoo,Diamonds
+Pretoria|Capital,Jacaranda,Union Buildings,Tshwane,Administrative,City
+Tshwane|Pretoria,Metro,Municipality,Capital,City,Gauteng
+Ekurhuleni|Metro,East Rand,Municipality,Germiston,Gauteng,OR Tambo
+Camps Bay|Beach,Cape Town,Sunset,Restaurants,Twelve Apostles,Tourists
+V&A Waterfront|Cape Town,Harbour,Shops,Mall,Ferris,Tourists
+Bo-Kaap|Cape Town,Colourful,Houses,Malay,Cape,Neighbourhood
+Boulders Beach|Penguins,Simon's Town,Cape,Beach,Birds,Tourists
+Cape Point|Lighthouse,Peninsula,Winds,Atlantic,Indian,Hike
+Chapman's Peak|Drive,Road,Cape Town,Hout Bay,Cliffs,Scenic
+Franschhoek|Wine,Valley,Cape,French,Village,Restaurants
+Knysna|Garden Route,Lagoon,Heads,Oysters,Forest,Town
+Plettenberg Bay|Garden Route,Beach,Tourist,Coast,Holiday,Whales
+Tsitsikamma|Forest,Bungee,Bridge,Coast,Garden Route,Storms River
+Addo Elephant Park|Elephants,Eastern Cape,Reserve,Game,Safari,Herd
+Gqeberha|Port Elizabeth,Eastern Cape,Friendly City,Coast,Nelson Mandela Bay,City
+Wild Coast|Transkei,Coast,Beaches,Hole in the Wall,Eastern Cape,Rural
+Hole in the Wall|Coffee Bay,Rock,Wild Coast,Arch,Sea,Transkei
+Durban Beachfront|Golden Mile,Sand,Sea,Promenade,Surfers,Tourists
+uShaka Marine World|Durban,Dolphins,Aquarium,Water,Park,Sharks
+Sani Pass|Lesotho,Road,4x4,Drakensberg,Mountain,Steep
+Pilanesberg|Game,Reserve,North West,Safari,Sun City,Volcano
+Sun City|Resort,Casino,Entertainment,North West,Lost City,Golf
+Magaliesberg|Mountains,Hiking,Hartbeespoort,Range,North West,Gauteng
+Cradle of Humankind|Fossils,Sterkfontein,Caves,Mrs Ples,Human,Origins
+Voortrekker Monument|Pretoria,Afrikaner,Granite,Hill,Landmark,Trek
+Apartheid Museum|Johannesburg,History,Racism,Exhibits,Museum,Gold Reef
+Constitution Hill|Johannesburg,Court,Prison,Hill,Rights,Old Fort
+Maboneng|Johannesburg,Precinct,Arts,CBD,Creative,Hub
+Vilakazi Street|Soweto,Mandela,Tutu,Street,Tourists,Houses
+Orlando Towers|Soweto,Bungee,Cooling,Painted,Power,Landmark
+Mandela Bridge|Johannesburg,Cable,Bridge,Newtown,Landmark,Lit
+Nelson Mandela Bay|Gqeberha,Municipality,Metro,Eastern Cape,Coast,City
+Mossel Bay|Garden Route,Coast,Cave,Western Cape,Town,Dias
+Langebaan|Lagoon,West Coast,Kitesurf,Sea,Town,Flowers
+Namaqualand|Flowers,Daisies,Spring,Northern Cape,Desert,Bloom
+Karoo|Desert,Semi-desert,Sheep,Dry,Dorp,Landscape
+Kgalagadi|Park,Desert,Kalahari,Lions,Transfrontier,Dunes
+Augrabies Falls|Orange River,Northern Cape,Waterfall,Gorge,Park,Water
+Panorama Route|Mpumalanga,God's Window,Drive,Canyon,Views,Waterfalls
+Skukuza|Kruger,Camp,Rest,Park,Rangers,Lowveld
+Big Five|Lion,Elephant,Buffalo,Leopard,Rhino,Safari
+Rhino Poaching|Horn,Kruger,Illegal,Rangers,Animals,Smuggling
+Table Mountain Cableway|Cable car,Cape Town,Top,Mountain,Tourists,Views
+Lion's Head|Cape Town,Hike,Mountain,Full Moon,Peak,Table Mountain
+Signal Hill|Cape Town,Noon Gun,Lookout,Hill,Sunset,Views
+Jacaranda|Pretoria,Purple,Trees,Spring,Flowers,Blossom
+King Protea|Flower,National,Pink,Fynbos,Cape,Petals
+Fynbos|Cape,Plants,Shrubs,Floral,Kingdom,Mountain
+Baobab|Tree,Limpopo,Huge,Africa,Fruit,Trunk
+Marula Tree|Fruit,Elephants,Amarula,Lowveld,Tree,Drunk
+Sardine Run|Fish,Dolphins,Eastern Cape,Winter,Birds,Sharks
+Shark Cage Diving|Boat,Gansbaai,Teeth,Tourists,Ocean,Great White
+Whale Watching|Boat,Hermanus,Ocean,Tourists,Season,Southern Right
+Penguin Colony|Boulders,Birds,Beach,Cape,Waddle,Simon's Town
+# CULTURE, TRADITION, SOCIETY
+Women's Day|August,Public,Holiday,Women,Pretoria,March
+Workers' Day|May,Holiday,Labour,Unions,Public,Rights
+Day of Reconciliation|December,Holiday,Public,Unity,Sixteenth,Past
+Reed Dance|Zulu,Maidens,Ceremony,Eswatini,Culture,Dance
+Lobola|Dowry,Marriage,Bride,Family,Negotiation,Cattle
+Sangoma|Healer,Traditional,Ancestors,Bones,Spiritual,Throw
+Initiation School|Mountain,Boys,Xhosa,Tradition,Ceremony,Manhood
+Imbizo|Gathering,Meeting,Community,Zulu,Chief,Talk
+Indaba|Meeting,Gathering,Discussion,Zulu,Business,Conference
+Stokvel|Savings,Group,Monthly,Friends,Money,Burial
+Burial Society|Funeral,Money,Savings,Monthly,Members,Fund
+Tombstone Unveiling|Grave,Family,Ceremony,Funeral,Ancestor,Stone
+Funeral Parlour|Coffin,Burial,Undertaker,Body,Service,Family
+Night Vigil|Funeral,Family,Singing,Eve,Overnight,Death
+Church Choir|Singing,Songs,Sunday,Hymns,Group,Robes
+Zion Christian Church|ZCC,Star,Moria,Easter,Limpopo,Church
+Gospel Music|Church,Praise,Singing,Christian,Songs,Choir
+Mega Church|Big,Congregation,Pastor,Thousands,Building,Service
+Unemployment|Jobs,Rate,Youth,Work,Poverty,Unemployed
+Job Seeker|Unemployed,CV,Work,Interview,Looking,Application
+Learnership|Training,Work,Youth,Apprentice,Skills,Certificate
+Internship|Work,Graduate,Experience,Training,Placement,Temporary
+Minimum Wage|Pay,Workers,Hourly,Law,Salary,Rate
+Strike Action|Workers,Union,Protest,March,Wages,Down tools
+COSATU|Unions,Federation,Workers,Labour,Trade,Congress
+Tenderpreneur|Business,Government,Contracts,Connected,Tender,Rich
+Cadre Deployment|ANC,Jobs,Appointments,Party,Government,Positions
+Land Reform|Farms,Redistribution,Government,Black,Land,Expropriation
+Informal Settlement|Shacks,Township,Housing,Community,Squatter,Tin
+RDP House|Government,Free,Small,Housing,Brick,Programme
+Shack|Tin,Informal,Home,Corrugated,Settlement,Wood
+Hostel|Dormitory,Workers,Migrant,Sharing,Rooms,Johannesburg
+Veld Fire|Grass,Smoke,Dry,Flames,Winter,Fighters
+Cold Front|Weather,Cape Town,Rain,Winter,Storm,Snow
+Snowfall|Cold,White,Mountains,Winter,Ice,Rare
+Shark Nets|Beach,Durban,Swimming,Ocean,Safety,KZN
+Campus Protest|Students,University,Fees,March,Police,Banners
+Wits|Johannesburg,University,Braamfontein,Students,Campus,Engineering
+Stellenbosch University|Maties,Wine,Students,Campus,Town,Afrikaans
+Rag Day|Students,Costumes,Fundraising,University,Charity,Floats
+Cost of Living|Prices,Expensive,Salary,Bread,Rent,Inflation
+Electricity Tariff|Eskom,Price,Increase,Units,Nersa,Cost
+Power Station|Eskom,Coal,Electricity,Chimney,Grid,Generates
+Koeberg|Nuclear,Power Station,Cape Town,Reactor,Eskom,West Coast
+Coal|Mpumalanga,Power Stations,Fuel,Black,Mining,Burning
+Solar Farm|Panels,Sun,Energy,Fields,Power,Northern Cape
+Census|Count,Population,Household,Statistics,Form,Official
+Stats SA|Statistics,Census,Numbers,Report,Pretoria,Data
+Credit Rating|Agency,Moody's,Junk,Investors,Downgrade,Score
+Junk Status|Credit,Rating,Agency,Downgrade,Investors,Bonds
+Smart Meter|Electricity,Prepaid,Usage,Digital,Units,Municipality
+Wildlife Reserve|Safari,Animals,Game,Park,Rangers,Lodge
+Game Lodge|Safari,Luxury,Animals,Bush,Guests,Rooms
+Sundowner|Drink,Evening,Safari,Sunset,Bush,Alcohol
+Kruger Camp|Rest,Safari,Chalet,Park,Animals,Skukuza
+Township Tour|Tourists,Soweto,Guide,Visit,Community,Culture
+Rooftop Bar|Drinks,City,View,Cocktail,Night,Roof
+Craft Beer|Brewery,Local,Hops,Taproom,Drink,Pint
+Rooibos Latte|Tea,Red,Milk,Cafe,Drink,Hot
+Cape Malay Curry|Spicy,Cape Town,Bo-Kaap,Food,Sweet,Rice
+Samoosa|Triangle,Pastry,Fried,Savoury,Snack,Mince
+Boerie Roll|Sausage,Bread,Braai,Street,Stadium,Meat
+Sosatie|Skewer,Braai,Meat,Apricot,Cape Malay,Grilled
+Potjiekos|Pot,Stew,Fire,Three-legged,Slow,Meat
+Bobotie|Mince,Egg,Cape Malay,Curry,Baked,Dish
+Koeksisters|Syrup,Plait,Sweet,Fried,Afrikaans,Dough
+Rusks|Coffee,Dunk,Dry,Biscuit,Breakfast,Buttermilk
+Ouma Rusks|Coffee,Dunk,Dry,Biscuit,Buttermilk,Grandma
+Mrs Balls|Chutney,Sauce,Spread,Peach,Bottle,Sandwich
+Rooibos Tea Bag|Red,Bush,Hot,Cup,Caffeine,Brew
+Mealie Meal|Maize,Pap,Staple,Flour,Porridge,Bag
+Boerewors Roll|Sausage,Bread,Braai,Street,Stadium,Meat

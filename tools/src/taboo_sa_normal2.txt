@@ -1,0 +1,77 @@
+# more NORMAL cards (days, places, venues)
+Mandela Day|July,Minutes,Service,Birthday,Volunteer,Charity
+Heritage Month|September,Culture,Traditional,Dress,Celebrate,Braai
+Youth Month|June,Students,Soweto,Young,Events,Uprising
+Women's Month|August,Women,Events,Equality,Celebrate,Pretoria
+Springbok Tour|Rugby,Overseas,Matches,Autumn,Team,Northern Hemisphere
+United Rugby Championship|URC,Stormers,Bulls,Sharks,Leagues,Europe
+Super Rugby|Competition,Franchises,Southern Hemisphere,Rugby,Teams,Cup
+Soweto Marathon|Run,Race,Streets,Township,Athletes,Kilometres
+Soweto Theatre|Stage,Plays,Jabulani,Venue,Audience,Performing
+Market Theatre|Johannesburg,Newtown,Stage,Plays,Apartheid,Venue
+Artscape|Cape Town,Theatre,Opera,Stage,Foreshore,Shows
+Zeitz MOCAA|Museum,Art,Cape Town,Waterfront,Contemporary,Gallery
+Iziko Museum|Cape Town,Exhibits,Heritage,History,Natural,Gardens
+Gold Reef City|Theme Park,Johannesburg,Rides,Apartheid Museum,Casino,Mine
+Montecasino|Casino,Fourways,Tuscan,Shows,Entertainment,Johannesburg
+Ponte City|Johannesburg,Tower,Hillbrow,Apartment,Building,Round
+Hillbrow|Johannesburg,Tower,Suburb,Dense,Inner city,Flats
+Carlton Centre|Johannesburg,Building,Skyscraper,Top,Offices,Mall
+Mall of Africa|Midrand,Shopping,Stores,Centre,Waterfall,Shops
+Nelson Mandela Square|Sandton,Statue,Restaurants,Shopping,Mall,Square
+Menlyn|Pretoria,Mall,Shopping,Eastern,Stores,Parks
+Canal Walk|Cape Town,Mall,Century City,Shopping,Stores,Shops
+Kirstenbosch|Gardens,Cape Town,Botanical,Concerts,Mountain,Plants
+Groot Constantia|Wine,Estate,Cape Town,Oldest,Vineyard,Tasting
+Robertson Valley|Wine,Western Cape,Vineyards,Karoo,Farms,Estates
+Cango Caves|Oudtshoorn,Underground,Stalactites,Tours,Karoo,Tunnels
+Oudtshoorn|Ostriches,Karoo,Town,Feathers,Cango,Western Cape
+Ostrich Farm|Feathers,Oudtshoorn,Eggs,Birds,Riding,Tourists
+Bloemfontein|Free State,Judicial,Capital,Rose City,Naval Hill,City
+Polokwane|Limpopo,Capital,City,Peter Mokaba,North,Town
+Mbombela|Mpumalanga,Nelspruit,City,Capital,Stadium,Lowveld
+Mahikeng|North West,Capital,City,Mafeking,Siege,Town
+Pietermaritzburg|KwaZulu-Natal,Capital,City,Msunduzi,Midlands,Gandhi
+Gandhi Statue|Pietermaritzburg,Train,Station,Satyagraha,Memorial,Bronze
+Cape Town Stadium|Green Point,Football,World Cup,Atlantic,Bowl,Venue
+Green Point|Cape Town,Stadium,Park,Lighthouse,Suburb,Promenade
+Sea Point Promenade|Cape Town,Walk,Runners,Atlantic,Sunset,Beachfront
+Muizenberg|Surfers,Beach,Coloured Huts,Cape Town,Waves,Train
+Hout Bay|Harbour,Cape Town,Fish,Seals,Mountain,Beach
+Kalk Bay|Harbour,Fishing,Cape Town,Boats,Cafes,Train
+Simon's Town|Naval,Penguins,Cape,Base,Harbour,Boulders
+Strand|Beach,Cape,Seaside,False Bay,Town,Sand
+Paarl|Wine,Taal,Monument,Cape,Town,Winelands
+Worcester|Western Cape,Town,Winelands,Breede,Valley,Karoo
+Port Alfred|Eastern Cape,Coast,Kowie,Holiday,Town,Marina
+Jeffreys Bay|Surfing,Waves,Supertubes,Eastern Cape,Surf,Coast
+Coffee Bay|Wild Coast,Transkei,Backpackers,Beach,Village,Rondavels
+Rondavel|Round,Hut,Thatched,Rural,House,Traditional
+Kraal|Cattle,Enclosure,Village,Homestead,Rural,Livestock
+Homestead|Rural,Village,Family,Rondavels,Land,Traditional
+Spaza Owner|Shopkeeper,Township,Small,Business,Corner,Store
+Hairdresser|Salon,Braids,Cut,Hair,Township,Barber
+Tuck Shop|School,Snacks,Sweets,Pupils,Small,Break
+Fish and Chips Shop|Takeaway,Vinegar,Hake,Fried,Wrapped,Paper
+Biltong Hunter|Dried,Meat,Snack,Springbok,Hunting,Kudu
+Kudu|Antelope,Horns,Spiral,Bush,Biltong,Game
+Springbok Antelope|Animal,Leaping,Pronking,National,Plains,Deer
+Pronking|Springbok,Jump,Bounce,Antelope,Leaping,Stiff-legged
+Meerkat Manor|Burrow,Kalahari,Standing,Colony,Desert,Show
+Honey Badger|Fierce,Fearless,Mammal,Honey,Snake,Meme
+Dung Beetle|Ball,Roll,Insect,Dung,Africa,Scarab
+Mopane Worm|Insect,Eaten,Snack,Limpopo,Caterpillar,Protein
+Mopane Tree|Limpopo,Butterfly,Leaves,Bush,Worms,Savanna
+Lowveld|Kruger,Warm,Low,Mpumalanga,Bushveld,Savanna
+Bushveld|Savanna,Trees,Limpopo,Grassland,Thornveld,Safari
+Highveld|Plateau,Johannesburg,High,Grassland,Thunderstorm,Altitude
+Highveld Thunderstorm|Lightning,Afternoon,Summer,Hail,Rain,Gauteng
+Hailstorm|Ice,Stones,Cars,Damage,Storm,Dents
+Dust Devil|Whirl,Wind,Dry,Dust,Spinning,Desert
+Berg Wind|Hot,Dry,Cape,Winter,Fire,Mountain
+Cape Doctor|Wind,South-easter,Cape Town,Summer,Strong,Table Mountain
+Tablecloth|Cloud,Table Mountain,White,Wind,Mountain,Cover
+Southern Right Whale|Hermanus,Calves,Season,Ocean,Winter,Breach
+Seal Island|Boat,Cape Town,Seals,False Bay,Sharks,Hout Bay
+African Penguin Rescue|Birds,Oil,Cape,Beach,Volunteers,Protected
+Oil Spill|Beach,Penguins,Ocean,Ship,Pollution,Clean-up
