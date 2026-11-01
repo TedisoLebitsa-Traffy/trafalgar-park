@@ -31,46 +31,107 @@ TP.settings={
 window.addEventListener('storage',e=>{
   if(e.key&&e.key.startsWith('tp_')&&DEF.hasOwnProperty(e.key.slice(3))){const k=e.key.slice(3);subs.forEach(f=>f(k,TP.settings.get(k)));}
 });
+TP.isSmall=()=>Math.min(window.innerWidth,window.innerHeight)<720;
 TP.applySettings=function(){
-  document.documentElement.classList.toggle('adapt',TP.settings.get('adapt'));
+  document.documentElement.classList.toggle('adapt',TP.settings.get('adapt')||TP.isSmall());
   document.documentElement.classList.toggle('hidebtns',TP.settings.get('hideBtns'));
   const a=document.getElementById('app');if(a)a.classList.toggle('hidebtns',TP.settings.get('hideBtns'));
 };
 TP.settings.on(()=>TP.applySettings());
+window.addEventListener('resize',()=>TP.applySettings());
 
-/* ---------- Message bus: BroadcastChannel (+ localStorage fallback) ---------- */
+/* ---------- Message bus ----------
+   Same browser: BroadcastChannel (+ localStorage fallback).  Other devices: WebRTC data channels added with TP.bus.addPeer()
+   (see js/pair.js). Messages are plain objects; Blobs (pictures) travel as data: URLs over a peer link, once per picture id. */
 TP.bus=(function(){
   const NAME='trafalgar-park-v2', LS='tp_bus_msg';
+  const NOBC=/[?&]nobc/.test(location.search);               // testing only: use the phone-to-phone link exclusively
   let bc=null, handlers=[], n=0;
-  const mode=('BroadcastChannel' in window)?'bc':'ls';
-  if(mode==='bc'){bc=new BroadcastChannel(NAME);bc.onmessage=e=>handlers.forEach(h=>h(e.data));}
-  else window.addEventListener('storage',e=>{
+  const mode=NOBC?'rtc':(('BroadcastChannel' in window)?'bc':'ls');
+  const peers=[], peerSubs=[];
+  const deliver=m=>handlers.forEach(h=>{try{h(m);}catch(e){console.error(e);}});
+  if(mode==='bc'){bc=new BroadcastChannel(NAME);bc.onmessage=e=>deliver(e.data);}
+  else if(mode==='ls')window.addEventListener('storage',e=>{
     if(e.key!==LS||!e.newValue)return;
-    try{const m=JSON.parse(e.newValue).m;handlers.forEach(h=>h(m));}catch(_){}
+    try{deliver(JSON.parse(e.newValue).m);}catch(_){}
   });
-  // Blobs cannot go through JSON, so the fallback converts them to data: URLs
-  function blobsToData(o){
+  // Blobs cannot go through JSON: convert them to data: URLs. A picture with an `id` already sent to this peer is not sent again.
+  function prepare(o,sent){
     const jobs=[];
     (function walk(x){
       if(!x||typeof x!=='object')return;
       for(const k of Object.keys(x)){
         const v=x[k];
-        if(v instanceof Blob){jobs.push(new Promise(r=>{const fr=new FileReader();fr.onload=()=>{x[k]=null;x.dataUrl=fr.result;r();};fr.readAsDataURL(v);}));}
-        else walk(v);
+        if(v instanceof Blob){
+          if(sent&&typeof x.id==='string'){ if(sent.has(x.id)){x[k]=null;continue;} sent.add(x.id); }
+          jobs.push(new Promise(r=>{const fr=new FileReader();fr.onload=()=>{x[k]=null;x.dataUrl=fr.result;r();};fr.readAsDataURL(v);}));
+        }else walk(v);
       }
     })(o);
     return Promise.all(jobs);
   }
+  const CH=14000;
+  function frames(str,id){
+    if(str.length<=CH)return['0'+str];
+    const out=[],tot=Math.ceil(str.length/CH);
+    for(let i=0;i<tot;i++)out.push('1'+id+'|'+i+'|'+tot+'|'+str.slice(i*CH,(i+1)*CH));
+    return out;
+  }
+  function addPeer(dc){
+    const p={dc,sent:new Set(),rx:new Map(),q:Promise.resolve(),id:0};
+    dc.onmessage=e=>{
+      const d=e.data;if(typeof d!=='string')return;
+      try{
+        if(d[0]==='0')deliver(JSON.parse(d.slice(1)));
+        else{
+          const [id,i,tot,...rest]=d.slice(1).split('|'),chunk=rest.join('|');
+          let r=p.rx.get(id);if(!r){r={parts:[],got:0};p.rx.set(id,r);}
+          r.parts[+i]=chunk;r.got++;
+          if(r.got===+tot){p.rx.delete(id);deliver(JSON.parse(r.parts.join('')));}
+        }
+      }catch(err){console.warn('bad peer message',err);}
+    };
+    const gone=()=>{const i=peers.indexOf(p);if(i>=0){peers.splice(i,1);peerSubs.forEach(f=>f(peers.length));}};
+    dc.onclose=gone;dc.onerror=gone;
+    dc.addEventListener('open',()=>peerSubs.forEach(f=>f(peers.filter(q=>q.dc.readyState==='open').length)));
+    peers.push(p);peerSubs.forEach(f=>f(peers.length));
+    return p;
+  }
   return{
     mode,
     on(h){handlers.push(h);},
+    addPeer,
+    peerCount:()=>peers.filter(p=>p.dc.readyState==='open').length,
+    onPeers(f){peerSubs.push(f);},
     send(msg){
-      if(mode==='bc'){try{bc.postMessage(msg);}catch(e){console.warn('bus send failed',e);}return;}
-      const copy=structuredClone?structuredClone(msg):JSON.parse(JSON.stringify(msg));
-      blobsToData(copy).then(()=>{try{localStorage.setItem(LS,JSON.stringify({n:++n+Math.random(),m:copy}));}catch(e){console.warn('ls bus failed',e);}});
+      if(mode==='bc'){try{bc.postMessage(msg);}catch(e){console.warn('bus send failed',e);}}
+      else if(mode==='ls'){
+        const copy=structuredClone(msg);
+        prepare(copy).then(()=>{try{localStorage.setItem(LS,JSON.stringify({n:++n+Math.random(),m:copy}));}catch(e){console.warn('ls bus failed',e);}});
+      }
+      peers.forEach(p=>{
+        if(p.dc.readyState!=='open')return;
+        let copy;try{copy=structuredClone(msg);}catch(e){return;}
+        p.q=p.q.then(()=>prepare(copy,p.sent)).then(()=>{
+          const str=JSON.stringify(copy);
+          frames(str,String(++p.id)).forEach(f=>{
+            if(p.dc.bufferedAmount>1000000)return;           // never let a stalled link pile up memory
+            try{p.dc.send(f);}catch(e){}
+          });
+        }).catch(()=>{});
+      });
     }
   };
 })();
+
+/* keep the screen awake while a game is running (phones lock otherwise and the link would drop) */
+TP.keepAwake=function(){
+  let lock=null;
+  const get=async()=>{try{if('wakeLock' in navigator&&document.visibilityState==='visible')lock=await navigator.wakeLock.request('screen');}catch(e){}};
+  document.addEventListener('visibilitychange',get);
+  document.addEventListener('click',()=>{if(!lock||lock.released)get();});
+  get();
+};
 
 /* ---------- Sound effects (Web Audio synth, same sounds as the original app) ---------- */
 TP.sfx=(function(){
@@ -167,4 +228,7 @@ TP.localKey=function(cmd){
   return false;
 };
 TP.applySettings();
+/* offline: a service worker keeps every file so the game runs with no internet (needs https or localhost) */
+if('serviceWorker' in navigator&&/^https?:$/.test(location.protocol)&&!/[?&](preview|nosw)/.test(location.search))
+  navigator.serviceWorker.register('sw.js').catch(()=>{});
 })();

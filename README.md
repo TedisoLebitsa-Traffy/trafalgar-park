@@ -128,6 +128,32 @@ tests/e2e.js             end-to-end tests (run in the admin page console, see he
 * Higher/Lower figures: see the source notes at the top of `data/higherlower.js`. Ages are computed on the day you play from dates of birth.
 * Decks never repeat an item until the whole pool has been used; duplicate items in a data file are removed automatically.
 
+## Playing outdoors on phones / iPads (no PC, minimal data)
+
+Two phones (or iPads) are enough: the **host** phone has the answers and the controls, the **screen** phone shows the game to everybody. Both can be iPhones.
+
+**One-time setup, at home on Wi-Fi (about 4-6 MB, then it works with no internet at all):**
+1. Put the game online as a static site – the easiest is **GitHub Pages**: push this folder to a GitHub repository, then *Settings ▸ Pages ▸ Deploy from a branch ▸ main / (root)*. The address is `https://YOUR-USERNAME.github.io/trafalgar-park/start.html`.
+   *Note: free GitHub Pages needs a **public** repository, so the questions/answers in `data/` (and any pictures you add) are readable by anyone who finds the link. Netlify / Cloudflare Pages / Vercel can publish a private repository for free if you prefer.*
+2. On **each** phone open that address in **Safari**, wait for **"✅ Ready for offline use"** on the start page, then **Share ▸ Add to Home Screen** and open the game from the new icon.
+
+**At the event:**
+1. Host phone: turn on **Personal Hotspot**. Screen phone: join that Wi-Fi. (Traffic between the two phones stays on that little network – it uses no mobile data. Bluetooth is not possible from a web page on iPhone.)
+2. Set **Settings ▸ Display & Brightness ▸ Auto-Lock ▸ Never** on both (the game also asks the phone to stay awake) and turn the brightness up.
+3. Host phone: open the game, tap **🎛 The HOST**, then **📲 Connect a screen** – a QR code appears (allow the camera when asked).
+4. Screen phone: open the game, tap **📺 The SCREEN** and scan that code (or paste it). It then shows its own reply code.
+5. Host phone: tap **Step 2 ▶ Scan the screen's reply** and scan the reply. Done – "✅ Connected".
+
+If the link ever drops, the screen shows **📲 Reconnect to host**; repeat steps 3-5.
+Two buttons at the bottom of the host phone switch between **🎛 Host** (controls + answers) and **📺 Screen** (a live copy of what the audience sees).
+The screen phone never receives an answer – only what the audience may see.
+
+**Just one phone?** Tap **🙋 ONE phone only** (Taboo, 30 Seconds, or anything): the *Host* tab holds the setup and controls, the *Screen* tab is the game board. For Taboo with two phones you can simply use this on one phone and pass it around.
+
+**After you change any file** run `python tools/build_sw.py` before pushing, so the phones refresh their offline copy. (The phones pick up new versions automatically when they have internet.)
+
+Technical notes: the two phones talk over a WebRTC data channel set up from the QR codes (no server, no STUN, local network only; `js/pair.js`). QR codes use `vendor/qrcode.js` (MIT) and `vendor/jsQR.js` (Apache-2.0). Offline support is a service worker (`sw.js` + `precache.json`).
+
 ## Setting up on another PC
 
 You need three things on the new PC: **Python 3**, a browser (Chrome or Edge), and this folder. Nothing else – no internet is needed while playing (the flags are included).

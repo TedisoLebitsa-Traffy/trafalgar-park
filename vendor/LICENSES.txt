@@ -1,0 +1,6 @@
+﻿Vendored libraries (copied so the app works with no internet):
+
+qrcode.js  - qrcode-generator 1.4.4 by Kazuhiko Arase, MIT License (see header of qrcode.js)
+             https://github.com/kazuhikoarase/qrcode-generator
+jsQR.js    - jsQR 1.4.0 by Cosmo Wolfe, Apache License 2.0 (see jsQR-LICENSE.txt)
+             https://github.com/cozmo/jsQR

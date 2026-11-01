@@ -2,7 +2,8 @@
    forwards button presses / key presses back to the admin as commands. */
 (function(){
 const TP=window.TP,$=TP.$;
-const PREVIEW=/[?&]preview/.test(location.search);   // admin embeds this page as a live preview
+const PREVIEW=/[?&]preview/.test(location.search);
+const SOLO=/[?&]solo/.test(location.search);        // one-phone mode: this page lives inside the host page   // admin embeds this page as a live preview
 const ROLE=PREVIEW?'preview':'display';
 let cur=null, gotView=false, lastHb=0, lastView=0;
 
@@ -52,6 +53,11 @@ $('#tbMute').onclick=()=>TP.settings.toggle('mute');
 $('#tbAdapt').onclick=()=>TP.settings.toggle('adapt');
 $('#tbFull').onclick=()=>TP.toggleFullscreen();
 $('#tbHelp').onclick=()=>TP.localKey('help');
+$('#tbPair').onclick=()=>TP.pair.openScreen();
+$('#joinBtn').onclick=()=>TP.pair.openScreen();
+if(PREVIEW||SOLO){$('#tbPair').style.display='none';}
+if(!PREVIEW)TP.keepAwake();
+if(/[?&]join/.test(location.search))setTimeout(()=>TP.pair.openScreen(),300);
 $('#help').innerHTML=TP.helpHTML();
 function syncToolbar(){
   $('#tbMute').textContent=TP.settings.get('mute')?'🔇':'🔊';
@@ -63,6 +69,12 @@ TP.settings.on(syncToolbar);syncToolbar();
 if(PREVIEW){$('#toolbar').style.display='none';}
 
 /* status chip: "enable sound" until the browser lets us play audio; "host disconnected" if the admin vanishes */
+function updateJoin(){
+  const b=$('#joinBtn');
+  b.style.display=(!PREVIEW&&!SOLO&&(!gotView||(lastHb&&Date.now()-lastHb>7000)))?'block':'none';
+  if(!PREVIEW&&!SOLO&&gotView&&lastHb&&Date.now()-lastHb>7000)b.textContent='📲 Reconnect to host';
+}
+setInterval(updateJoin,700);
 function updateChip(){
   const chip=$('#chip');
   if(PREVIEW){chip.className='hide';return;}

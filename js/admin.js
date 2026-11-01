@@ -46,6 +46,20 @@ $('#host').addEventListener('click',e=>{
   b.blur();
 });
 
+/* ---------- phones: tabs, solo mode, pairing, keep-awake ---------- */
+const SOLO=/[?&]solo/.test(location.search);
+$('#prev').src=SOLO?'index.html?solo=1':'index.html?preview=1';
+TP.keepAwake();
+$('#aPair').onclick=()=>TP.pair.openHost();
+$('#aGear').onclick=()=>{document.body.classList.toggle('gear');setTimeout(fitPreview,50);};
+function setTab(t){
+  document.body.classList.toggle('tab-screen',t==='screen');
+  $('#tabHost').classList.toggle('on',t!=='screen');$('#tabScreen').classList.toggle('on',t==='screen');
+  setTimeout(fitPreview,50);
+}
+$('#tabHost').onclick=()=>setTab('host');$('#tabScreen').onclick=()=>setTab('screen');
+if(TP.isSmall())setTab(SOLO?'screen':'host');
+
 /* ---------- top bar ---------- */
 TP.$$('#top [data-nav]').forEach(b=>b.onclick=()=>{const w=b.dataset.nav;App.exit(w==='hub'?'mode':w);});
 $('#aMute').onclick=()=>TP.settings.toggle('mute');
@@ -68,12 +82,18 @@ $('#help').addEventListener('click',e=>{if(e.target.id==='help'||e.target.datase
 setInterval(()=>{
   const now=Date.now(),on=App.seen.display&&now-App.seen.display<5000;
   const c=$('#conn');c.className=on?'ok':'bad';
-  c.textContent=on?'● Display connected':'● No display window open (open index.html)';
+  c.textContent=on?(TP.bus.peerCount()?'● Screen connected (phone)':'● Screen connected'):'● No screen connected';
 },1000);
 
 /* ---------- live preview scaling ---------- */
 function fitPreview(){
-  const w=$('#prevwrap'),f=$('#prev'),sc=w.clientWidth/1280;
+  const w=$('#prevwrap'),f=$('#prev');
+  document.documentElement.style.setProperty('--hdr',$('#top').offsetHeight+'px');
+  if(TP.isSmall()){                       // phone: the screen tab shows the display at its real size (no scaling)
+    w.style.height='';f.style.transform='none';f.style.width=w.clientWidth+'px';f.style.height=w.clientHeight+'px';return;
+  }
+  const sc=w.clientWidth/1280;
+  f.style.width='1280px';f.style.height='720px';
   f.style.transform='scale('+sc+')';w.style.height=(720*sc)+'px';
 }
 window.addEventListener('resize',fitPreview);fitPreview();

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0B1F4B">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Trafalgar Park">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="assets/icons/icon-180.png">
+<title>Trafalgar Park</title>
+<link rel="stylesheet" href="css/theme.css">
+<style>
+html,body{overflow:auto;height:auto;min-height:100%;display:block}
+.wrap{max-width:520px;margin:0 auto;padding:calc(20px + env(safe-area-inset-top,0px)) 16px 40px;text-align:center}
+h1{font-size:34px;margin:6px 0 2px;color:#800020}
+.sub{font-size:16px;color:#1B3A78;margin-bottom:18px}
+.role{display:block;width:100%;text-align:left;text-decoration:none;background:#fff;border:3px solid #0B1F4B;border-radius:16px;padding:14px 16px;margin:12px 0;color:#0B1F4B;box-shadow:0 4px 14px rgba(11,31,75,.15)}
+.role b{display:block;font-size:22px;color:#800020}
+.role span{font-size:15px;color:#1B3A78}
+.status{margin-top:18px;padding:10px;border-radius:12px;font-weight:700;font-size:15px;background:#E8F1FA;color:#1B3A78}
+.status.ok{background:#DDF5E5;color:#15803D}
+.how{text-align:left;font-size:15px;line-height:1.5;color:#1B3A78;margin-top:18px;background:#fff;border:2px solid #C5D3E8;border-radius:12px;padding:10px 14px}
+.how li{margin:4px 0 4px 18px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🎮 Trafalgar Park</h1>
+  <div class="sub">Who is this phone?</div>
+  <a class="role" href="admin.html"><b>🎛 The HOST</b><span>Has all the answers and the controls. Start here, then tap <i>Connect a screen</i>.</span></a>
+  <a class="role" href="index.html?join=1"><b>📺 The SCREEN</b><span>Shows the game to everyone. Never shows an answer. Scan the host's code to join.</span></a>
+  <a class="role" href="admin.html?solo=1"><b>🙋 ONE phone only</b><span>Everything on this one phone – perfect for Taboo and 30 Seconds.</span></a>
+  <div id="st" class="status">Checking offline storage…</div>
+  <ul class="how" style="list-style:disc">
+    <li>At home on Wi-Fi: open this page once, then <b>Share ▸ Add to Home Screen</b> (iPhone) so it works with no internet.</li>
+    <li>At the event: host phone → <b>Personal Hotspot</b> on; screen phone joins that Wi-Fi. Tap <b>Connect a screen</b> and scan.</li>
+    <li>Use <b>Settings ▸ Display ▸ Auto-Lock ▸ Never</b> during the event.</li>
+  </ul>
+</div>
+<script src="js/core.js"></script>
+<script>
+(async()=>{
+  const st=document.getElementById('st');
+  try{
+    if(!('serviceWorker' in navigator))throw 0;
+    await navigator.serviceWorker.ready;
+    const keys=await caches.keys(),k=keys.find(x=>x.startsWith('tp-'));
+    const n=k?(await (await caches.open(k)).keys()).length:0;
+    if(n>20){st.className='status ok';st.textContent='✅ Ready for offline use ('+n+' files saved)';}
+    else st.textContent='⏳ Saving the game for offline use… reload this page in a moment.';
+  }catch(e){st.textContent='ℹ Offline saving needs https (the GitHub link) – it is not active on this address.';}
+})();
+</script>
+</body>
+</html>

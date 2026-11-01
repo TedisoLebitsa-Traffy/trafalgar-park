@@ -71,3 +71,32 @@ table.t{width:100%;font-size:.95em}
 .swapbar .sw:disabled{opacity:.3;cursor:not-allowed}
 .miniorder{display:flex;gap:.3em;align-items:flex-end}
 .miniorder svg{height:3.4em;width:auto}
+
+/* ---- phones / small screens: Host tab + Screen tab ---- */
+#tabbar{display:none}
+#aGear{display:none}
+@media (max-width:900px){
+  #top{padding:.4em .6em;padding-top:calc(.4em + env(safe-area-inset-top,0px));gap:.4em .6em}
+  #top .brand small{display:none}
+  #top .tools{display:none;margin-left:0;width:100%}
+  body.gear #top .tools{display:flex}
+  #aGear{display:inline-block}
+  main{grid-template-columns:1fr;padding:.6em;padding-bottom:5.5em}
+  #left{display:none;position:fixed;left:0;right:0;top:var(--hdr,92px);bottom:calc(58px + env(safe-area-inset-bottom,0px));z-index:40;background:#E4ECF6;padding:0}
+  body.tab-screen #left{display:block}
+  body.tab-screen #host{display:none}
+  #prevwrap{height:100%!important;border-radius:0;border:0;box-shadow:none}
+  .phint{display:none}
+  #tabbar{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:60;background:var(--navy);padding:6px 8px calc(6px + env(safe-area-inset-bottom,0px));gap:8px}
+  #tabbar button{flex:1;font-size:17px;font-weight:800;padding:12px;border-radius:10px;border:2px solid #fff;background:transparent;color:#fff;font-family:inherit}
+  #tabbar button.on{background:var(--gold);color:#2a1d00;border-color:var(--gold)}
+  .hsec .btn{font-size:1.05em;padding:.65em .95em}
+  .hgrid2{grid-template-columns:1fr}
+  .hans .hv{font-size:1.8em}
+}
+@media (max-width:900px){
+  #top .brand{font-size:1.05em}
+  #top button{font-size:.82em;padding:.3em .55em}
+  #conn{font-size:.78em;padding:.15em .6em}
+  #top nav{gap:.3em}
+}
