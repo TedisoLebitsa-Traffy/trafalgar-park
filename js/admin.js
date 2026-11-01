@@ -3,7 +3,7 @@
 const TP=window.TP,App=window.App,$=TP.$,esc=TP.esc;
 
 /* hub order = 4 x 2 grid; trivia stays registered but hidden */
-const HUB_ORDER=['g30','taboo','imposter','picture','bottle','higherlower','proverb','speedmaths','numberhunt','trivia'];
+const HUB_ORDER=['g30','taboo','imposter','picture','bottle','higherlower','proverb','speedmaths','numberhunt','tabooko','trivia'];
 App.order=HUB_ORDER.filter(id=>App.games[id]).concat(App.order.filter(id=>!HUB_ORDER.includes(id)));
 
 /* ---------- host panel ---------- */

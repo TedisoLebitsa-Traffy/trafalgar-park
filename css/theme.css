@@ -244,3 +244,11 @@ th{color:var(--burg)}
 .pairrow .btn{font-size:16px}
 .pairstat{font-size:14px;color:#C62828;font-weight:700;min-height:1.2em}
 .floatbtn{position:fixed;left:50%;bottom:calc(16px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);z-index:150;background:#800020;color:#fff;border:3px solid #5C0017;border-radius:14px;padding:14px 22px;font-size:18px;font-weight:800;font-family:'Segoe UI',Roboto,Arial,sans-serif;box-shadow:0 6px 20px rgba(0,0,0,.35)}
+
+/* taboo knockout */
+.tko{display:grid;grid-template-columns:repeat(auto-fit,minmax(13em,1fr));gap:.5em;width:100%}
+.tkot{background:var(--bg);border:.14em solid var(--line);border-radius:.7em;padding:.25em .5em;text-align:center}
+.tkot.now{border-color:var(--burg);background:#fff;box-shadow:0 0 0 .15em rgba(128,0,32,.2)}
+.tkot.out{opacity:.4;text-decoration:line-through}
+.tkn{font-weight:800;font-size:1.05em;color:var(--navy);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tkb{font-size:1.5em;color:var(--gold2);letter-spacing:.1em;font-weight:900;min-height:1.2em}

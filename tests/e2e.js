@@ -18,9 +18,9 @@ async function hub(){
   t('intro shows title',has('Trafalgar Park'));
   await go('play');t('play opens the mode choice',App.screen==='mode');await go('mode','normal');
   const cards=pdoc().querySelectorAll('.card').length;
-  t('hub has 9 cards (3x3)',cards===9,cards+'');
+  t('hub has 10 cards',cards===10,cards+'');
   t('no Trivia / Flag Duel card',!has('Flag Duel')&&!has('Trivia'));
-  t('hub order',['30 Seconds','Taboo','Imposter','Picture Game','Bottle Blind','Higher or Lower','Finish the Proverb','Speed Maths','Number Hunt'].every((n,i)=>pdoc().querySelectorAll('.card .nm')[i].textContent===n));
+  t('hub order',['30 Seconds','Taboo','Imposter','Picture Game','Bottle Blind','Higher or Lower','Finish the Proverb','Speed Maths','Number Hunt','Taboo Knockout'].every((n,i)=>pdoc().querySelectorAll('.card .nm')[i].textContent===n));
 }
 async function g30(){
   await go('open','g30');field('f1','Reds');field('f2','Blues');await go('start');
@@ -244,7 +244,7 @@ async function tournament(){
   }
   await go('hub');await go('mode');
   t('tour: mode screen shows Normal and Team Tournament',App.screen==='mode'&&has('Team Tournament')&&has('Normal'));
-  await go('mode','normal');t('tour: normal mode opens the 9-game hub',App.screen==='hub'&&pdoc().querySelectorAll('.card').length===9);
+  await go('mode','normal');t('tour: normal mode opens the hub',App.screen==='hub'&&pdoc().querySelectorAll('.card').length===10);
   await go('mode');await go('mode','team');
   t('tour: setup screen',App.screen==='game'&&App.game.id==='tournament'&&T().phase==='setup');
   field('t0','Lions');field('t1','Tigers');['Ann','Bo','Cy','Di','Eve','Fay','Gus','Hal'].forEach((n,i)=>field('p'+i,n));
@@ -322,6 +322,37 @@ async function quicktour(){
   t('quick: only 5 matches were played in total',T().res.reduce((n,r)=>n+r.length,0)===5);
   await go('hub');await go('hub');
 }
+async function tabooko(){
+  const S_=()=>App.game.save().S;
+  await go('open','tabooko');
+  field('names','Ann\nBo, Cy;Di\nEve\nFay\nGus\nHal\nIan\nJo\nbo');
+  await go('start');
+  const s=S_();
+  const n=11;   // 'bo' duplicated -> "bo (2)"; so 11 names
+  t('tko: 11 names -> 5 teams (one team of 3)',s.teams.length===5&&s.teams.filter(x=>x.players.length===3).length===1&&s.teams.flatMap(x=>x.players).length===n,s.teams.map(x=>x.players.length).join());
+  t('tko: duplicate name kept distinct',s.teams.flatMap(x=>x.players).includes('bo (2)'));
+  t('tko: each team starts with one box',s.boxes.join()==='0,1,2,3,4');
+  t('tko: draw screen shows teams and a matchup',pdoc().querySelectorAll('.tkot').length===5&&has(' vs ')&&has('Start match'));
+  let matches=0,sdSeen=false,maxBoxes=1,guard=0,tieDone=false;
+  while(S_().phase!=='final'&&guard++<40){
+    const m=S_().m;await go('go');
+    // team A scores, team B scores according to scenario
+    const play=async(pts)=>{await go('toggle');for(let i=0;i<pts;i++)await go('correct');if(pts===0)await go('skip');await go('end');await go('continue');};
+    if(!tieDone){await play(0);await play(0);tieDone=true;sdSeen=S_().m&&S_().m.sd===1;}   // tie 0-0 -> sudden death
+    await play(2);await play(1);                                                                   // team A wins
+    matches++;
+    const owned=S_().boxes.reduce((a,o)=>(a[o]=(a[o]||0)+1,a),{});maxBoxes=Math.max(maxBoxes,...Object.values(owned));
+    t.last=S_().boxes.join();
+    if(matches===1)t('tko: winner took the loser\'s box (2 boxes, loser has 0)',Object.values(owned).includes(2)&&S_().boxes.length===5&&Object.keys(owned).length===4,JSON.stringify(owned));
+  }
+  t('tko: tie triggers sudden death',sdSeen);
+  t('tko: at least N-1 = 4 matches were needed and it terminated',matches>=4&&matches<60,matches+'');
+  t('tko: champion owns every box',S_().phase==='final'&&new Set(S_().boxes).size===1&&has('Champions'));
+  t('tko: boxes grow as teams win',maxBoxes>=2);
+  await go('again');t('tko: play again returns to setup with names kept',S_().phase==='setup'&&S_().names.includes('Ann'));
+  field('names','A\nB\nC');await go('start');t('tko: needs at least 4 names',S_().phase==='setup');
+  await go('hub');
+}
 async function numberhunt(){
   const decG=s=>{const K=[0x5b,0xa7,0x13,0xe9,0x2d,0x71,0xc4,0x8f];return Array.from(atob(s)).map((c,i)=>((c.charCodeAt(0)^K[i%8])&255)-37);};
   const nums=()=>[...pdoc().querySelectorAll('.nhnum')].map(e=>e.textContent);
@@ -382,10 +413,10 @@ async function misc(){
 }
 async function all(){
   R=[];
-  for(const [n,f] of [['hub',hub],['g30',g30],['taboo-normal',()=>taboo('normal')],['taboo-hard',()=>taboo('hard')],['imposter',imposter],['picture',picture],['hol',hol],['proverb',proverb],['speed',speed],['speedgen',speedgen],['bottle',bottle],['numberhunt',numberhunt],['tournament',tournament],['quicktour',quicktour],['misc',misc]]){
+  for(const [n,f] of [['hub',hub],['g30',g30],['taboo-normal',()=>taboo('normal')],['taboo-hard',()=>taboo('hard')],['imposter',imposter],['picture',picture],['hol',hol],['proverb',proverb],['speed',speed],['speedgen',speedgen],['bottle',bottle],['numberhunt',numberhunt],['tournament',tournament],['quicktour',quicktour],['tabooko',tabooko],['misc',misc]]){
     try{await f();}catch(e){t(n+' threw',false,e.message+' '+(e.stack||'').split('\n')[1]);}
   }
   return R;
 }
-return{all,quicktour,tournament,speedgen,numberhunt,hub,g30,taboo,imposter,picture,hol,proverb,speed,bottle,misc,duel,results:()=>R,reset:()=>{R=[];}};
+return{all,tabooko,quicktour,tournament,speedgen,numberhunt,hub,g30,taboo,imposter,picture,hol,proverb,speed,bottle,misc,duel,results:()=>R,reset:()=>{R=[];}};
 })();

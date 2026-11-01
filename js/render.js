@@ -100,6 +100,7 @@ function block(b){
     }
     case'tour':return '<div class="tour'+(b.games.length>4?' n5':'')+'">'+b.games.map(g=>'<div class="tg '+g.state+'"><div class="tgh"><span>'+g.n+' · '+g.icon+' '+esc(g.name)+'</span><b>'+(g.score?g.score[0]+' – '+g.score[1]:'')+'</b></div>'+
       g.matches.map(m=>'<div class="tm '+(m.now?'now':'')+'"><span class="'+(m.w===0?'win':'')+'">'+(m.w===0?'✔ ':'')+esc(m.a)+'</span><i>vs</i><span class="'+(m.w===1?'win':'')+'">'+esc(m.b)+(m.w===1?' ✔':'')+'</span></div>').join('')+'</div>').join('')+'</div>';
+    case'tko':return '<div class="tko">'+b.teams.map(t=>'<div class="tkot '+(t.out?'out ':'')+(t.now?'now':'')+'"><div class="tkn">'+esc(t.name)+'</div><div class="tkb">'+(t.out?'OUT':'■'.repeat(t.boxes))+'</div></div>').join('')+'</div>';
     case'big':return '<div class="bb-big '+(b.cls||'')+'">'+esc(b.x)+'</div>';
     case'gap':return '<div style="height:'+(b.h||.5)+'em"></div>';
   }

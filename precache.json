@@ -1,5 +1,5 @@
 {
-"version": "tp-1262b091ba",
+"version": "tp-c9dda437fd",
 "files": [
 "admin.html",
 "index.html",
@@ -234,6 +234,7 @@
 "js/games/proverb.js",
 "js/games/speedmaths.js",
 "js/games/taboo.js",
+"js/games/tabooko.js",
 "js/games/tournament.js",
 "js/games/trivia.js",
 "js/gen/bottle.js",

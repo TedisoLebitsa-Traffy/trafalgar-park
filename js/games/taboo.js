@@ -2,6 +2,7 @@
 (function(){
 const TP=window.TP,App=window.App,H=TP.H,esc=TP.esc;
 const decks={normal:new TP.Deck(TPData.taboo.normal,'dTbN'),hard:new TP.Deck(TPData.taboo.hard,'dTbH')};
+TP.tabooDecks=decks;
 const clock=new TP.Clock(90000);
 let S=null,expiredHandled=false;
 

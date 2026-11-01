@@ -1,6 +1,6 @@
 /* Trafalgar Park service worker - keeps every file so the game works with no internet.
    VERSION and precache.json are rewritten by tools/build_sw.py (run it after changing files). */
-const VERSION=/*V*/'tp-1262b091ba'/*V*/;
+const VERSION=/*V*/'tp-c9dda437fd'/*V*/;
 self.addEventListener('install',e=>{
   e.waitUntil((async()=>{
     const c=await caches.open(VERSION);
