@@ -1,1 +1,0 @@
-This folder only exists to test the picture pipeline. DELETE IT (and run tools/build_manifest.py again).

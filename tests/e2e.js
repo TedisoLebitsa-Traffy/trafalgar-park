@@ -96,10 +96,12 @@ async function picture(){
   }
   await go('open','picture');
   const chips=[...document.querySelectorAll('#host .chip')];
-  t('picture: greyed-out empty categories',chips.filter(c=>c.disabled).length>=4,chips.filter(c=>c.disabled).map(c=>c.textContent.trim()).join(', '));
+  const emptyNames=cats.filter(c=>c.count()===0).map(c=>c.name);
+  t('picture: greyed-out empty categories',chips.filter(c=>c.disabled).length===emptyNames.length,emptyNames.join(', '));
   field('n1','A');field('n2','B');await go('start');
   const seenC=new Set();for(let i=0;i<60;i++){seenC.add(S().cur.c);await go('skip',undefined,30);}
-  t('picture mixed: skips empty categories',![...seenC].some(c=>/^p:(Landmarks|Animals|Food|Nature)$/.test(c)),[...seenC].join(','));
+  const emptyIds=new Set(cats.filter(c=>c.count()===0).map(c=>c.id));
+  t('picture mixed: skips empty categories',![...seenC].some(c=>emptyIds.has(c)),[...seenC].join(','));
   await go('hub');
 }
 async function hol(){
