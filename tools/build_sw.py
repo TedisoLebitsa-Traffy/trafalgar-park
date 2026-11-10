@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """Write precache.json (every file the game needs offline) and stamp sw.js with a new version.
 Run this after you change any file, before you push to GitHub:   python tools/build_sw.py"""
 import hashlib, json, os, re

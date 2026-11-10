@@ -92,7 +92,7 @@ async function picture(){
   for(const c of cats){
     if(c.count()===0)continue;
     await duel('picture','picture/'+c.name,async()=>{await App.game.cmd('cat',c.id);},cur=>{
-      const l=[cur.a];if(cur.code)l.push('flags/','assets/');if(cur.file)l.push(cur.file,'assets/pictures');return l.filter(Boolean);});
+      const l=[cur.a];if(cur.code)l.push('flags/');if(cur.file)l.push(cur.file,'assets/pictures');return l.filter(Boolean);});
   }
   await go('open','picture');
   const chips=[...document.querySelectorAll('#host .chip')];
