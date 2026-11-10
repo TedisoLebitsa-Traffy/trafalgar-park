@@ -1,0 +1,185 @@
+[
+  {
+    "file": "assets/clue-atlases/anime.png",
+    "kind": "AI-generated visual quiz illustrations",
+    "created": "2026-11-10",
+    "columns": 3,
+    "rows": 2,
+    "categories": [
+      "Anime Shows",
+      "Anime Characters"
+    ],
+    "answers": [
+      "Naruto",
+      "One Piece",
+      "Dragon Ball",
+      "Bleach",
+      "My Hero Academia",
+      "Demon Slayer"
+    ]
+  },
+  {
+    "file": "assets/clue-atlases/cartoons.png",
+    "kind": "AI-generated visual quiz illustrations",
+    "created": "2026-11-10",
+    "columns": 3,
+    "rows": 2,
+    "categories": [
+      "Cartoon Shows",
+      "Cartoon Characters"
+    ],
+    "answers": [
+      "Ben 10",
+      "Regular Show",
+      "Phineas and Ferb",
+      "Rick and Morty",
+      "Tom and Jerry",
+      "Scooby-Doo"
+    ]
+  },
+  {
+    "file": "assets/clue-atlases/kids.png",
+    "kind": "AI-generated visual quiz illustrations",
+    "created": "2026-11-10",
+    "columns": 3,
+    "rows": 2,
+    "categories": [
+      "Kids Cartoons"
+    ],
+    "answers": [
+      "Dora the Explorer",
+      "Peppa Pig",
+      "Bluey",
+      "PAW Patrol",
+      "Everything's Rosie",
+      "Mickey Mouse Clubhouse"
+    ]
+  },
+  {
+    "file": "assets/clue-atlases/movies.png",
+    "kind": "AI-generated visual quiz illustrations",
+    "created": "2026-11-10",
+    "columns": 3,
+    "rows": 2,
+    "categories": [
+      "Movies"
+    ],
+    "answers": [
+      "Titanic",
+      "Jurassic Park",
+      "Harry Potter",
+      "Star Wars",
+      "Jaws",
+      "Back to the Future"
+    ]
+  },
+  {
+    "file": "assets/clue-atlases/animated-movies.png",
+    "kind": "AI-generated visual quiz illustrations",
+    "created": "2026-11-10",
+    "columns": 3,
+    "rows": 2,
+    "categories": [
+      "Animated Movies"
+    ],
+    "answers": [
+      "The Lion King",
+      "Shrek",
+      "Frozen",
+      "Finding Nemo",
+      "Toy Story",
+      "How to Train Your Dragon"
+    ]
+  },
+  {
+    "file": "assets/clue-atlases/movie-characters.png",
+    "kind": "AI-generated visual quiz illustrations",
+    "created": "2026-11-10",
+    "columns": 3,
+    "rows": 2,
+    "categories": [
+      "Movie Characters"
+    ],
+    "answers": [
+      "Harry Potter",
+      "Jack Sparrow",
+      "Indiana Jones",
+      "James Bond",
+      "Rocky Balboa",
+      "Katniss Everdeen"
+    ]
+  },
+  {
+    "file": "assets/clue-atlases/movie-villains.png",
+    "kind": "AI-generated visual quiz illustrations",
+    "created": "2026-11-10",
+    "columns": 3,
+    "rows": 2,
+    "categories": [
+      "Movie Villains"
+    ],
+    "answers": [
+      "Darth Vader",
+      "The Joker",
+      "Lord Voldemort",
+      "Thanos",
+      "Maleficent",
+      "The Terminator"
+    ]
+  },
+  {
+    "file": "assets/clue-atlases/tv-shows.png",
+    "kind": "AI-generated visual quiz illustrations",
+    "created": "2026-11-10",
+    "columns": 3,
+    "rows": 2,
+    "categories": [
+      "TV Shows"
+    ],
+    "answers": [
+      "Friends",
+      "Stranger Things",
+      "Wednesday",
+      "Squid Game",
+      "The Simpsons",
+      "The Walking Dead"
+    ]
+  },
+  {
+    "file": "assets/clue-atlases/video-games.png",
+    "kind": "AI-generated visual quiz illustrations",
+    "created": "2026-11-10",
+    "columns": 3,
+    "rows": 2,
+    "categories": [
+      "Video Games",
+      "Video Game Characters"
+    ],
+    "answers": [
+      "Minecraft",
+      "Sonic the Hedgehog",
+      "Super Mario Bros.",
+      "Pokemon",
+      "Fortnite",
+      "The Legend of Zelda"
+    ]
+  },
+  {
+    "file": "assets/clue-atlases/creatures.png",
+    "kind": "AI-generated visual quiz illustrations",
+    "created": "2026-11-10",
+    "columns": 3,
+    "rows": 2,
+    "categories": [
+      "Fictional Creatures"
+    ],
+    "answers": [
+      "Dragon",
+      "Unicorn",
+      "Mermaid",
+      "Phoenix",
+      "Griffin",
+      "Centaur"
+    ]
+  }
+]

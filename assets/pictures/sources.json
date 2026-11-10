@@ -1330,5 +1330,619 @@
     "artist": "Author\n\nSouthern African Development Community",
     "license": "Public domain",
     "license_url": ""
+  },
+  {
+    "category": "Current Footballers",
+    "answer": "Lionel Messi",
+    "file": "Current Footballers/Lionel Messi.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+    "artist": "Author\n\nBryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Association football"
+  },
+  {
+    "category": "Current Footballers",
+    "answer": "Cristiano Ronaldo",
+    "file": "Current Footballers/Cristiano Ronaldo.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg",
+    "artist": "Author\n\nBryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Association football"
+  },
+  {
+    "category": "Current Footballers",
+    "answer": "Kylian Mbappé",
+    "file": "Current Footballers/Kylian Mbappé.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg",
+    "artist": "Author\n\nBryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Association football"
+  },
+  {
+    "category": "Current Footballers",
+    "answer": "Erling Haaland",
+    "file": "Current Footballers/Erling Haaland.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg",
+    "artist": "Author\n\nBryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Association football"
+  },
+  {
+    "category": "Current Footballers",
+    "answer": "Mohamed Salah",
+    "file": "Current Footballers/Mohamed Salah.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mohamed_Salah_Argentina_v_Egypt_7_July_2026-163_%28cropped%29.jpg",
+    "artist": "Author\n\nBryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Association football"
+  },
+  {
+    "category": "Current Footballers",
+    "answer": "Jude Bellingham",
+    "file": "Current Footballers/Jude Bellingham.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jude_Bellingham_England_v_Ghana_23_June_2026-061_%28cropped%29.jpg",
+    "artist": "Author\n\nBryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Association football"
+  },
+  {
+    "category": "Current Footballers",
+    "answer": "Lamine Yamal",
+    "file": "Current Footballers/Lamine Yamal.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamine_Yamal_France_v_Spain_7.24.26-142.jpg",
+    "artist": "Author\n\nBryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Association football"
+  },
+  {
+    "category": "Current Footballers",
+    "answer": "Harry Kane",
+    "file": "Current Footballers/Harry Kane.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Harry_Kane_England_v_Ghana_23_June_2026-024_%28cropped%29.jpg",
+    "artist": "Author\n\nBryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Association football"
+  },
+  {
+    "category": "Current Footballers",
+    "answer": "Bukayo Saka",
+    "file": "Current Footballers/Bukayo Saka.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bukayo_Saka_England_v_Ghana_23_June_2026-057_%28cropped%29.jpg",
+    "artist": "Author\n\nBryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Association football"
+  },
+  {
+    "category": "Current Footballers",
+    "answer": "Vinícius Júnior",
+    "file": "Current Footballers/Vinícius Júnior.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg",
+    "artist": "Author\n\nBryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Association football"
+  },
+  {
+    "category": "Current Footballers",
+    "answer": "Thembi Kgatlana",
+    "file": "Current Footballers/Thembi Kgatlana.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_NWSL_Challenge_Cup_final%2C_396_%28Kgatlana%29.jpg",
+    "artist": "Author\n\nHameltion",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Association football"
+  },
+  {
+    "category": "Current Footballers",
+    "answer": "Ronwen Williams",
+    "file": "Current Footballers/Ronwen Williams.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ronwen_Williams_AFCON2025Q_35.jpg",
+    "artist": "Author\n\nGadlee",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Association football"
+  },
+  {
+    "category": "Retired Footballers",
+    "answer": "Pelé",
+    "file": "Retired Footballers/Pelé.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pele_con_brasil_%28cropped%29.jpg",
+    "artist": "Author\n\nUnknown authorUnknown author",
+    "license": "Public domain; PDM",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "sport": "Association football"
+  },
+  {
+    "category": "Retired Footballers",
+    "answer": "Diego Maradona",
+    "file": "Retired Footballers/Diego Maradona.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Argentina_celebrando_copa_%28cropped%29.jpg",
+    "artist": "Author\n\nUnknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "sport": "Association football"
+  },
+  {
+    "category": "Retired Footballers",
+    "answer": "Zinedine Zidane",
+    "file": "Retired Footballers/Zinedine Zidane.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Zinedine_Zidane_by_Tasnim_03.jpg",
+    "artist": "Author\n\nHadi Abyar",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "sport": "Association football"
+  },
+  {
+    "category": "Retired Footballers",
+    "answer": "Ronaldinho",
+    "file": "Retired Footballers/Ronaldinho.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ronaldinho_in_2019.jpg",
+    "artist": "Author\n\nMarcos Corrêa/PR",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "sport": "Association football"
+  },
+  {
+    "category": "Retired Footballers",
+    "answer": "Thierry Henry",
+    "file": "Retired Footballers/Thierry Henry.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Thierry_Henry_%2851649035951%29_%28cropped%29.jpg",
+    "artist": "Author\n\nWeb Summit",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "sport": "Association football"
+  },
+  {
+    "category": "Retired Footballers",
+    "answer": "Didier Drogba",
+    "file": "Retired Footballers/Didier Drogba.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Didier_Drogba_%282019%29_%28cropped2%29.jpg",
+    "artist": "Author\n\nY.Leclercq©",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Association football"
+  },
+  {
+    "category": "Retired Footballers",
+    "answer": "Samuel Eto'o",
+    "file": "Retired Footballers/Samuel Eto'o.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sammuel_Eto%27o_Fils_02.jpg",
+    "artist": "Author\n\nBACHELOR45",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Association football"
+  },
+  {
+    "category": "Retired Footballers",
+    "answer": "Benni McCarthy",
+    "file": "Retired Footballers/Benni McCarthy.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:BenniMcCarthy.jpg",
+    "artist": "Author\n\nEast Ham Bull",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "sport": "Association football"
+  },
+  {
+    "category": "Retired Footballers",
+    "answer": "Steven Pienaar",
+    "file": "Retired Footballers/Steven Pienaar.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Steven_Pienaar_2015.jpg",
+    "artist": "Author\n\nTommy Low from Singapore, Singapore",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "sport": "Association football"
+  },
+  {
+    "category": "Retired Footballers",
+    "answer": "David Beckham",
+    "file": "Retired Footballers/David Beckham.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:David_Beckham_UNICEF_%28cropped2%29.jpg",
+    "artist": "Author\n\nSoccer Aid for Unicef",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "sport": "Association football"
+  },
+  {
+    "category": "Retired Footballers",
+    "answer": "Andrés Iniesta",
+    "file": "Retired Footballers/Andrés Iniesta.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9s_Iniesta_Argentina_v_Spain_19_July_2026-034_%28cropped%29.jpg",
+    "artist": "Author\n\nBryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Association football"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Serena Williams",
+    "file": "Athletes/Serena Williams.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Serena-Smiling-2020.png",
+    "artist": "Author\n\nAndrewHenkelman",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Roger Federer",
+    "file": "Athletes/Roger Federer.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Roger_Federer_2015_%28cropped%29.jpg",
+    "artist": "Author\n\nTatiana from Moscow, Russia",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Rafael Nadal",
+    "file": "Athletes/Rafael Nadal.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rafael_Nadal_en_2024_%28cropped%29.jpg",
+    "artist": "Author\n\nBarcex",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Novak Djokovic",
+    "file": "Athletes/Novak Djokovic.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Novak_Djokovic_Paris_2024_Olympic_Games_%28cropped%29.jpg",
+    "artist": "Author\n\nAndymiah",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Naomi Osaka",
+    "file": "Athletes/Naomi Osaka.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Naomi_Osaka_%282025_DC_Open%29_01_%28cropped%29.jpg",
+    "artist": "Author\n\nHameltion",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Coco Gauff",
+    "file": "Athletes/Coco Gauff.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Coco_Gauff_Miami_Open.jpg",
+    "artist": "Author\n\nRick Munroe",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Usain Bolt",
+    "file": "Athletes/Usain Bolt.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Usain_Bolt_smiling_Berlin_2009.JPG",
+    "artist": "Author\n\nErik van Leeuwen",
+    "license": "GFDL",
+    "license_url": "http://www.gnu.org/copyleft/fdl.html; http://www.gnu.org/copyleft/fdl.html",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Shelly-Ann Fraser-Pryce",
+    "file": "Athletes/Shelly-Ann Fraser-Pryce.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Women%27s_100_m-_Beijing_2015.jpg",
+    "artist": "Author\n\nErik van Leeuwen",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Noah Lyles",
+    "file": "Athletes/Noah Lyles.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Noah_Lyles_Olympic_Games_03.08.2024.jpg",
+    "artist": "Author\n\nAeltegop",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Faith Kipyegon",
+    "file": "Athletes/Faith Kipyegon.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Faith_Kipyegon_London_2017_%28cropped2%29.jpg",
+    "artist": "Author\n\nErik van Leeuwen, attribution: Erik van Leeuwen (bron: Wikipedia).",
+    "license": "GFDL",
+    "license_url": "http://www.gnu.org/copyleft/fdl.html",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Caster Semenya",
+    "file": "Athletes/Caster Semenya.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Caster_Semenya_of_South_Africa_at_the_2018_African_Athletics_Championships.jpg",
+    "artist": "Author\n\nBob Ramsak",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Wayde van Niekerk",
+    "file": "Athletes/Wayde van Niekerk.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Wayde_van_Niekerk_080817_London_2017ceopped.jpg",
+    "artist": "Author\n\nErik van Leeuwen",
+    "license": "GFDL; CC BY-SA 4.0",
+    "license_url": "http://www.gnu.org/copyleft/fdl.html; https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Akani Simbine",
+    "file": "Athletes/Akani Simbine.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Akani_Simbine_%28RSA%29_2019.jpg",
+    "artist": "Author\n\nMartin Rulsch, Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Chad le Clos",
+    "file": "Athletes/Chad le Clos.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Chad_le_Clos_2013_3.jpg",
+    "artist": "Author\n\nDoha Stadium Plus Qatar",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Simone Biles",
+    "file": "Athletes/Simone Biles.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Simone_Biles_National_Team_2024.jpg",
+    "artist": "Author\n\nOcoudis",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Siya Kolisi",
+    "file": "Athletes/Siya Kolisi.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Siya_Kolisi_2022.jpg",
+    "artist": "Author\n\nStefano Delfrate",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Cheslin Kolbe",
+    "file": "Athletes/Cheslin Kolbe.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cheslin_Kolbe_Headshot_at_autobiography_launch.jpg",
+    "artist": "Author\n\nEGilham",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "LeBron James",
+    "file": "Athletes/LeBron James.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:LeBron_James_%2851959977144%29_%28cropped2%29.jpg",
+    "artist": "Author\n\nErik Drost",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Stephen Curry",
+    "file": "Athletes/Stephen Curry.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Stephen_Curry_30.jpg",
+    "artist": "Author\n\nEl Viejas God",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Michael Jordan",
+    "file": "Athletes/Michael Jordan.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Michael_jordan_admad_rashad_%2851276390562%29_%28cropped%29.jpg",
+    "artist": "Author\n\nZach Catanzareti Photo",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Lewis Hamilton",
+    "file": "Athletes/Lewis Hamilton.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg",
+    "artist": "Author\n\nPicture by Lauren Hurley / No 10 Downing Street",
+    "license": "OGL 3",
+    "license_url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Max Verstappen",
+    "file": "Athletes/Max Verstappen.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg",
+    "artist": "Author\n\nSteffen Prößdorf",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Athletes",
+    "answer": "Manny Pacquiao",
+    "file": "Athletes/Manny Pacquiao.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Former_senator_Manny_Pacquiao_speaks_in_event_%2810-01-2025%29_%28cropped%29.jpg",
+    "artist": "Author\n\nRobert Oswald P. Alfiler for the Philippine News Agency (state-owned publication)",
+    "license": "Public domain",
+    "license_url": "",
+    "sport": "Other sports"
+  },
+  {
+    "category": "Superheroes",
+    "answer": "Spider-Man",
+    "file": "Superheroes/Spider-Man.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Spider-Man_at_Brussels_Comic_Con_2019_%2833429943578%29.jpg",
+    "artist": "Author\n\nMiguel Discart",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "category": "Superheroes",
+    "answer": "Batman",
+    "file": "Superheroes/Batman.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Batman_Cosplay_at_NYCC_2017.jpg",
+    "artist": "Author\n\nMediaGamut",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "category": "Superheroes",
+    "answer": "Superman",
+    "file": "Superheroes/Superman.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Superman_Cosplay_at_NYCC_2017.jpg",
+    "artist": "Author\n\nMediaGamut",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "category": "Superheroes",
+    "answer": "Wonder Woman",
+    "file": "Superheroes/Wonder Woman.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lynda_Carter_Wonder_Woman.JPG",
+    "artist": "Author\n\nABC Television",
+    "license": "Public domain",
+    "license_url": ""
+  },
+  {
+    "category": "Superheroes",
+    "answer": "Black Panther",
+    "file": "Superheroes/Black Panther.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Black_Panther_cosplay.jpg",
+    "artist": "Author\n\ntinyfroglet",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "category": "Superheroes",
+    "answer": "Iron Man",
+    "file": "Superheroes/Iron Man.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:WonderCon_2014_-_Iron_Man_Cosplay_%2813955026033%29.jpg",
+    "artist": "Author\n\nWilliam Tung from USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "category": "Disney Characters",
+    "answer": "Mickey Mouse",
+    "file": "Disney Characters/Mickey Mouse.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Mickey_Mouse_%28poster_version%29.svg",
+    "artist": "Author\n\nOriginal: \n\n.mw-parser-output .commons-creator-table{background-color:#f0f0ff;box-sizing:border-box;font-size:95%;text-align:start;color:inherit}.mw-parser-output .commons-creator-table>tbody>tr{vertical-align:top}.mw-parser-output .commons-creator-table>tbody>tr>th{background-color:var(--background-color-neutral,#e0e0ee);font-weight:bold;text-align:start;color:inherit}.mw-parser-output .mw-collapsible-toggle-expanded.mw-collapsible-arrowtoggle,.mw-parser-output .mw-collapsible-toggle-expanded .mw-collapsible-arrowtoggle{padding-left:20px!important;background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/1/10/MediaWiki_Vector_skin_action_arrow.png\");background-repeat:no-repeat;background-position:left center}.mw-parser-output .mw-collapsible-toggle-collapsed.mw-collapsible-arrowtoggle,.mw-parser-output .mw-collapsible-toggle-collapsed .mw-collapsible-arrowtoggle{padding-left:20px!important;background-repeat:no-repeat}.mw-parser-output .commons-creator-table[dir=\"ltr\"] .mw-collapsible-toggle-collapsed.mw-collapsible-arrowtoggle,.mw-parser-output .commons-creator-table[dir=\"ltr\"] .mw-collapsible-toggle-collapsed .mw-collapsible-arrowtoggle{background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/4/41/MediaWiki_Vector_skin_right_arrow.png\");background-position:left center}.mw-parser-output .commons-creator-table[dir=\"rtl\"] .mw-collapsible-toggle-collapsed.mw-collapsible-arrowtoggle,.mw-parser-output .commons-creator-table[dir=\"rtl\"] .mw-collapsible-toggle-collapsed .mw-collapsible-arrowtoggle{background-image:url(\"https://upload.wikimedia.org/wikipedia/commons/1/1e/MediaWiki_Vector_skin_left_arrow.png\");background-position:right center}@media(max-width:719px){.mw-parser-output .commons-creator-table,.mw-parser-output .commons-creator-table>tbody{box-sizing:border-box;display:block;width:100%}.mw-parser-output .commons-creator-table>tbody{border-right:1px solid var(--border-color-base,#aaa);border-bottom:1px solid var(--border-color-base,#aaa)}.mw-parser-output .commons-creator-table>tbody>tr{border-top:1px solid var(--border-color-base,#aaa);display:flex;flex-wrap:wrap}.mw-parser-output .commons-creator-table>tbody>tr>th{border-left:1px solid var(--border-color-base,#aaa);padding:2px;flex:1 1 100%}.mw-parser-output .commons-creator-table>tbody>tr>td{border-left:1px solid var(--border-color-base,#aaa);padding:2px;flex:1 1}}@media(min-width:720px){.mw-parser-output .commons-creator-table{border:1px solid var(--border-color-base,#aaa);border-collapse:collapse;border-spacing:0;padding:5px}.mw-parser-output .commons-creator-table>tbody>tr>th,.mw-parser-output .commons-creator-table>tbody>tr>td{border:1px solid var(--border-color-base,#aaa);padding:2px}.mw-parser-output .commons-creator-table>tbody>tr>.halfwidth{max-width:10em}.mw-parser-output .commons-creator-table>tbody>tr>.fullwidth{max-width:20em}}@media screen{html.skin-theme-clientpref-night .mw-parser-output .commons-creator-table{background-color:#0c0b19}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .commons-creator-table{background-color:#0c0b19}}\n\n\nWalt Disney (1901–1966)      \n\n\n\n\n\nAlternative names\n\nBirth name: Walter Elias Disney; pseudonym: Disney, Walter Elias\n\nDescription\nAmerican film director, film producer, animator, television presenter, voice actor and writer\n\nDate of birth/death\n\n5 December 1901 \n15 December 1966 \n\nLocation of birth/death\n\nChicago \nBurbank \n\nWork period\n1920 –November 1966 \n\nAuthority file\n\n: Q8704\nVIAF: 36927108\nISNI: 0000000121280724\nULAN: 500025598\nLCCN: n78095660\nNAID: 10580368\nWorldCat\n\n\n\ncreator QS:P170,Q8704 \n\n\n\n\nUb Iwerks (1901–1971)     \n\n\n\n\n\nAlternative names\n\nU. B. Iwerks; Ubbe Iwerks; Ubben Iwerks; Ubbe Eert Iwwerks; Ubbe Ert Iwwerks; Ubbe Ert Iwerks\n\nDescription\nAmerican film professional\n\nDate of birth/death\n\n24 March 1901 \n7 July 1971 \n\nLocation of birth/death\n\nKansas City \nBurbank \n\nWork period\n1920 –1971 \n\nAuthority file\n\n: Q336424\nVIAF: 66672524\nISNI: 000000006658664X\nULAN: 500128951\nLCCN: n92036102\nGND: 124417280\nWorldCat\n\n\n\ncreator QS:P170,Q336424 Vector:  \n\n\n\n\nWilfredor     \n\n\nAlternative names\n\nWilfredor\n\nDescription\nprogrammer\n\nLocation of birth\n\nGuatire, Venezuela\n\n\nAuthority file\n\n: Q115464159\n\n\n\ncreator QS:P170,Q115464159",
+    "license": "Public domain",
+    "license_url": ""
+  },
+  {
+    "category": "Disney Characters",
+    "answer": "Donald Duck",
+    "file": "Disney Characters/Donald Duck.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Donald_Duck_%28307193747%29.jpg",
+    "artist": "Author\n\nEdward O'Connor from San Francisco, USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "category": "Disney Characters",
+    "answer": "Elsa",
+    "file": "Disney Characters/Elsa.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:ElsaFrozen.jpg",
+    "artist": "Author\n\nMaddyInDisneyland",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "category": "Disney Characters",
+    "answer": "Aladdin",
+    "file": "Disney Characters/Aladdin.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Aladdin_at_GalaxyCon_Richmond_2020_%2849666513036%29.jpg",
+    "artist": "Author\n\nSuper Festivals from Ft. Lauderdale, USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "category": "Disney Characters",
+    "answer": "Ariel",
+    "file": "Disney Characters/Ariel.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Ariel_at_Florida_Supercon_2013_%289364658363%29.jpg",
+    "artist": "Author\n\nSuper Festivals from Ft. Lauderdale, USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "category": "Pixar Characters",
+    "answer": "Woody",
+    "file": "Pixar Characters/Woody.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Woody_at_Toy_Story_Land%2C_Hong_Kong.jpg",
+    "artist": "Author\n\nDeror_avi",
+    "license": "GFDL; CC BY-SA 3.0",
+    "license_url": "http://www.gnu.org/copyleft/fdl.html; https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "category": "Pixar Characters",
+    "answer": "Buzz Lightyear",
+    "file": "Pixar Characters/Buzz Lightyear.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Buzz_Lightyear_sculpture_of_Toy_Story_Hotel_Shanghai_%28cropped%29.jpg",
+    "artist": "Author\n\nEdo-biscuit",
+    "license": "CC BY-SA 4.0; GFDL",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0; http://www.gnu.org/copyleft/fdl.html"
+  },
+  {
+    "category": "Disney Characters",
+    "answer": "Goofy",
+    "file": "Disney Characters/Goofy.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Goofy.jpg",
+    "artist": "Author\n\nKen123",
+    "license": "GFDL; CC BY-SA 3.0",
+    "license_url": "http://www.gnu.org/copyleft/fdl.html; https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "category": "Pixar Characters",
+    "answer": "Dory",
+    "file": "Pixar Characters/Dory.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Paletten-Doktorfisch_M%C3%BCnster.JPG",
+    "artist": "Author\n\nDerHans04",
+    "license": "GFDL; CC BY-SA 3.0",
+    "license_url": "http://www.gnu.org/copyleft/fdl.html; https://creativecommons.org/licenses/by-sa/3.0",
+    "note": "Blue tang visual clue for the character Dory"
+  },
+  {
+    "category": "Pixar Characters",
+    "answer": "Lightning McQueen",
+    "file": "Pixar Characters/Lightning McQueen.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lightning_McQueen_at_Disney%27s_Hollywood_Studios_%286746004967%29_%28cropped%29.jpg",
+    "artist": "Author\n\nPaul Hudson",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "category": "Pixar Characters",
+    "answer": "WALL-E",
+    "file": "Pixar Characters/WALL-E.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:WALL-E_balloon_at_Shin_Kong_Cineplex_20080725a_%28cropped%29.jpg",
+    "artist": "Author\n\nTianmu peter",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0"
   }
 ]

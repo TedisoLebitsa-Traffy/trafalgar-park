@@ -107,11 +107,11 @@ function block(b){
   return'';
 }
 
-function board(list,snapBtn){
+function board(list,snapBtn,plainUI){
   if(!list||!list.length)return'';
   return '<div class="board">'+list.map(e=>'<div class="bt '+(e.active?'on':'')+'"><span class="bn">'+esc(e.name)+(e.sub?'<small>'+esc(e.sub)+'</small>':'')+'</span>'+
     (e.clock?clockHTML(e.clock,'bs'):'<span class="bs">'+esc(e.score)+(e.unit||'')+'</span>')+'</div>').join('')+
-    (snapBtn?'<button class="btn small ghost snapbtn hostbtns" data-cmd="snap">📸 Scoreboard</button>':'')+'</div>';
+    (snapBtn?'<button class="btn small ghost snapbtn hostbtns" data-cmd="snap">'+(plainUI?'Scoreboard':'📸 Scoreboard')+'</button>':'')+'</div>';
 }
 
 function modal(m){
@@ -153,7 +153,7 @@ TP.renderView=function(v){
     '<div class="mid">'+(t.clock?clockHTML(t.clock,'timer'):'')+(t.text?'<div class="pts" style="font-size:1.8em">'+esc(t.text)+'</div>':'')+'</div>'+
     '<div class="side right">'+side(t.right)+'</div></div>';
   const stage='<div class="stage '+(v.paused?'paused':'')+'">'+(v.blocks||[]).map(block).join('')+btns(v.btns)+(v.foot?'<div class="lbl">'+esc(v.foot)+'</div>':'')+'</div>';
-  return '<section class="screen game active">'+bar+stage+board(v.board,!!v.snapAvail)+'</section>'+modal(v.modal)+snap(v.snap);
+  return '<section class="screen game active">'+bar+stage+board(v.board,!!v.snapAvail,v.plainUI)+'</section>'+modal(v.modal)+snap(v.snap);
 };
 
 /* the wheel animates from the spin start time, so re-renders never restart it */

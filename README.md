@@ -81,12 +81,26 @@ After "Let's play" (or the Hub) you first choose a **mode**:
 * **Spin the Wheel** is a reusable component (`TP.wheel` in `js/engine.js`; renderer block `wheel` in `js/render.js`): `w=TP.wheel.spin(2)`, show `TP.wheel.block(w,names)`, call `TP.wheel.tick(w)` from your game's `tick()`. The result uses `crypto.getRandomValues`; mute applies.
 * **Bottle Blind**: each round (per player, and per tiebreaker) goes **hidden → show → hide → play**. The display starts with "Get ready" and 6 blank slots (the order is not even sent to it); admin presses *Show order to audience* (**O**), then *Hide order* (**O**) – only then are placing, swaps and Check unlocked. You always see the order on admin (own eye toggle). Click bottles into the slots as the player calls them, press **Check** (display shows only "N of 6 in the correct place"). Slots are never cleared between attempts: use the **swap bar** – *by position* (keys 1–6) or *by colour* (B K R G Y W) – pick two, press **Swap** / Enter. Swaps are not attempts; the old count stays on the display, greyed, until the next Check. *Undo swap* and *Undo last check* are separate.
 
+## Picture Game: players, category draw, duel
+
+1. Enter two different player names and press **Continue to categories**.
+2. Categories are arranged in **World & everyday**, **Shows & films**, **Characters & games**, and **Sport** columns. All populated categories are included by default; toggle entries or use Include all / Clear all to change the draw pool.
+3. Press **Randomize category**. The draw chooses one eligible category, equally weighted, for both players. It avoids the previous category when the pool has another choice. Both clocks stay at 60 seconds until the host presses **Start duel**.
+4. Correct passes the turn; Skip and Next draw another clue **in the same category**. The category is locked for the whole duel. Clocks pause while a picture is loading; a failed picture can be retried or skipped without losing time.
+5. At the end press **New duel / new category** to keep the players and return to the category draw. Change players is available there. Saved games keep their drawn category and resume with paused clocks.
+
+There are **36 categories**: **314 picture clues** across 34 photo/illustration categories, plus **195 Flags** and generated **Maths**. Picture Game no longer includes emoji clues or emoji-based Bible Books. Its interface uses text labels.
+
+The **19 new categories** are Anime Shows, Cartoon Shows, Kids Cartoons, Anime Characters, Movies, Superheroes, Cartoon Characters, Animated Movies, Movie Characters, Movie Villains, TV Shows, Video Games, Video Game Characters, Disney Characters, Pixar Characters, Fictional Creatures, Current Footballers, Retired Footballers, and Athletes. Cartoon Shows includes Ben 10, Regular Show, Phineas and Ferb, Rick and Morty, Tom and Jerry, and Scooby-Doo. Kids Cartoons includes Dora the Explorer, Peppa Pig, Bluey, PAW Patrol, Everything's Rosie, and Mickey Mouse Clubhouse. The athletes span tennis, track and field, swimming, gymnastics, rugby, basketball, motor racing, and boxing, including South African names.
+
+Entertainment clues use generated illustrations, signature props/scenes, and credited costume/figurine photographs. The host judges familiar short names and equivalent franchise names. In Team Tournament, one category is drawn from the configured pool when each Picture Game match is prepared, and stays locked during that match.
+
 ## Adding your own pictures (Picture Game)
 
 The app never downloads pictures – you supply them.
 
 1. Inside `assets/pictures/` there is one folder per category. Make a new folder to make a new category
-   (the four starter folders are **Landmarks, Animals, Food, Nature**; empty categories are greyed out in admin and skipped by *Mixed*).
+   (for example **Landmarks, Animals, Food, Nature**; empty folders are excluded from the category draw).
 2. Put images in the folder. **The file name is the answer**: `Eiffel Tower.jpg`, `Table Mountain.png`, `African Elephant.webp` …
    (underscores become spaces, a trailing ` (2)` is ignored, so `Eiffel Tower (2).jpg` is also "Eiffel Tower").
    Supported: jpg, jpeg, png, webp, gif, avif, bmp, svg.
@@ -97,12 +111,16 @@ The app never downloads pictures – you supply them.
    ```
 
    It writes `assets/pictures/manifest.json` (`category → [{file, answer}]`).
-4. In admin press **Re-scan picture folders** (or reload admin). The category appears in the Picture Game picker.
+4. Reload admin after rebuilding the manifest. The category appears in the Picture Game draw pool.
 
 The display receives the picture as an in-memory image only – the file name (the answer) never reaches the display page.
-The bundled Picture Game includes **15 populated picture categories**: Animals, Food (African and international), Chemical Symbols, K53 Road Signs, Indigenous African Games, Landmarks, Nature, Musical Instruments, Sports Equipment, Fruits, Vegetables, Tools, Vehicles, Birds, and Insects. Chemical Symbols asks for the element name from a simple symbol such as H, O, Na, or Fe. K53 uses South African/SADC road-sign artwork.
+The original 15 picture categories remain: Animals, Food (African and international), Chemical Symbols, K53 Road Signs, Indigenous African Games, Landmarks, Nature, Musical Instruments, Sports Equipment, Fruits, Vegetables, Tools, Vehicles, Birds, and Insects. Chemical Symbols asks for the element name from a simple symbol such as H, O, Na, or Fe. K53 uses South African/SADC road-sign artwork.
 
-All pictures are bundled for offline play. Photo and sign attribution is in [picture credits](assets/pictures/CREDITS.md), with exact source and license records in `assets/pictures/sources.json`. Accept familiar regional names and equivalent names for traditional games where their equipment overlaps. The blue test placeholder has been removed.
+All pictures are bundled for offline play. Keep the start page open on Wi-Fi until it confirms every file is saved; the initial download is about 60 MB. Photo and sign attribution is in [picture credits](assets/pictures/CREDITS.md), with exact source and license records in `assets/pictures/sources.json`. Accept familiar regional names and equivalent names for traditional games where their equipment overlaps. The blue test placeholder has been removed. Illustrated clues are defined in `data/picture_illustrations.json`; each entry identifies one cell in a 3-by-2 sheet under `assets/clue-atlases/`. The host sends only that cell as an anonymous image to the audience. After editing source attribution, run `python tools/build_picture_credits.py`.
+
+### Picture Game checks
+
+Run `node tests/check_pictures.js` after rebuilding the manifest and service worker to check that all clue files, credits, illustration cells and offline-cache entries are present. `node tests/check_content.js` checks the other game decks. The in-browser `E2E.picture()` checks player setup, category locking, all categories, saved-game resume and tournament presets (load `tests/e2e.js` in the admin console as described in its header).
 
 ## Other tools and folders
 
@@ -148,7 +166,7 @@ The laptop can also capture the iPad-style screen: just keep using `index.html` 
 
 Two phones (or iPads) are enough: the **host** phone has the answers and the controls, the **screen** phone shows the game to everybody. Both can be iPhones.
 
-**One-time setup, at home on Wi-Fi (about 25 MB, then it works with no internet at all):**
+**One-time setup, at home on Wi-Fi (about 60 MB, then it works with no internet at all):**
 1. Put the game online as a static site – the easiest is **GitHub Pages**: push this folder to a GitHub repository, then *Settings ▸ Pages ▸ Deploy from a branch ▸ main / (root)*. The address is `https://YOUR-USERNAME.github.io/trafalgar-park/start.html`.
    *Note: free GitHub Pages needs a **public** repository, so the questions/answers in `data/` (and any pictures you add) are readable by anyone who finds the link. Netlify / Cloudflare Pages / Vercel can publish a private repository for free if you prefer.*
 2. On **each** phone open that address in **Safari**, wait for **"✅ Ready for offline use"** on the start page, then **Share ▸ Add to Home Screen** and open the game from the new icon.
@@ -181,7 +199,7 @@ You need three things on the new PC: **Python 3**, a browser (Chrome or Edge), a
      git clone https://github.com/YOUR-USERNAME/trafalgar-park.git
      cd trafalgar-park
      ```
-   * **Without GitHub:** copy the whole `trafalgar-park` folder (about 25 MB) by USB stick / cloud drive / zip, and unzip it anywhere.
+   * **Without GitHub:** copy the whole `trafalgar-park` folder (about 60 MB) by USB stick / cloud drive / zip, and unzip it anywhere.
 3. **Start it:** open a Command Prompt in the folder and run `python serve.py` (leave that window open).
 4. Open `http://localhost:8000/index.html` (the display – capture this in TikTok LIVE Studio) and, in a separate window, `http://localhost:8000/admin.html` (host only). Click once in the display window to allow sound.
 

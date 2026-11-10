@@ -40,6 +40,36 @@ main{display:grid;grid-template-columns:minmax(300px,42%) 1fr;gap:1em;padding:1e
 .chipsel .chip{padding:.35em .9em;border-radius:1em;border:.1em solid var(--navy);background:#fff;color:var(--navy);font-weight:800;cursor:pointer;font-size:.95em;font-family:inherit}
 .chipsel .chip.sel{background:var(--burg);color:#fff;border-color:var(--burg-d)}
 .chipsel .chip:disabled{opacity:.4;cursor:not-allowed;border-style:dashed;background:#eef1f6}
+/* Picture Game: a short setup flow, with the category library in themed columns. */
+body.picture-mode main{grid-template-columns:minmax(260px,32%) minmax(0,1fr)}
+.picture-steps{display:flex;gap:.5em;list-style:none;padding:.7em 0;counter-reset:step}
+.picture-steps li{flex:1;display:flex;align-items:center;gap:.45em;color:var(--navy-soft);font-size:.85em;font-weight:700}
+.picture-steps li>span{display:grid;place-items:center;border:1px solid var(--line);border-radius:50%;width:1.9em;height:1.9em;flex:none;background:#fff}
+.picture-steps li.current{color:var(--burg)}
+.picture-steps li.current>span{background:var(--burg);border-color:var(--burg);color:#fff}
+.picture-steps li.done>span{background:var(--green-l);border-color:var(--green)}
+.picture-matchup{display:flex;align-items:center;justify-content:center;gap:1em;padding:.5em;text-align:center;font-size:1.25em;overflow-wrap:anywhere}
+.picture-matchup>b{flex:1}
+.picture-matchup>span{font-size:.7em;color:var(--navy-soft);font-weight:800;text-transform:uppercase}
+.picture-pool-actions{display:flex;flex-wrap:wrap;align-items:center;gap:.5em;margin:.8em 0 1em}
+.picture-pool-actions>span{font-size:.85em;color:var(--navy-soft);margin-right:auto}
+.picture-columns{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.7em;align-items:start}
+.picture-column{min-width:0}
+.picture-column h4{font-size:.8em;letter-spacing:.04em;text-transform:uppercase;color:var(--navy2);min-height:2.6em;margin-bottom:.5em}
+.picture-category-list{display:flex;flex-direction:column;gap:.45em}
+.picture-category{position:relative;display:flex;flex-direction:column;align-items:flex-start;gap:.25em;width:100%;padding:.65em .65em .65em 1em;background:#f5f7fb;border:1px solid var(--line);border-radius:.55em;text-align:left;font-family:inherit;cursor:pointer;color:var(--navy-soft);overflow-wrap:anywhere;min-height:4.3em}
+.picture-category>span{font-weight:800;font-size:.88em;line-height:1.2}
+.picture-category>small{font-size:.72em}
+.picture-category.included{background:#fff;color:var(--navy);border-color:var(--navy2);box-shadow:inset .25em 0 var(--burg)}
+.picture-category:hover:not(:disabled){border-color:var(--burg);background:var(--gold-l)}
+.picture-category:focus-visible{outline:3px solid var(--sky);outline-offset:2px}
+.picture-category:disabled{opacity:.4;cursor:default}
+.picture-selected{padding:.7em;border:2px solid var(--burg);border-radius:.6em;background:var(--gold-l);color:var(--burg);font-size:1.6em;font-weight:900;text-align:center;overflow-wrap:anywhere}
+.picture-drawing{padding:1em;font-size:1.5em;font-weight:800;text-align:center;color:var(--burg);animation:picture-draw 700ms ease-in-out infinite alternate}
+@keyframes picture-draw{from{opacity:.5}to{opacity:1}}
+@media(max-width:1100px){.picture-columns{grid-template-columns:repeat(2,minmax(0,1fr))}.picture-column h4{min-height:0}}
+@media(max-width:980px){body.picture-mode main{grid-template-columns:1fr}}
+@media(prefers-reduced-motion:reduce){.picture-drawing{animation:none}}
 .pal{display:flex;gap:.5em;flex-wrap:wrap}
 .pal button{background:#fff;border:.12em solid var(--navy);border-radius:.6em;padding:.2em .5em;cursor:pointer;display:flex;flex-direction:column;align-items:center;font-weight:800;font-size:.8em;font-family:inherit;color:var(--navy)}
 .pal button svg{height:4.2em;width:auto}

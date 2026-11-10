@@ -49,6 +49,100 @@
       "answer": "Zebra"
     }
   ],
+  "Athletes": [
+    {
+      "file": "Akani Simbine.jpg",
+      "answer": "Akani Simbine"
+    },
+    {
+      "file": "Caster Semenya.jpg",
+      "answer": "Caster Semenya"
+    },
+    {
+      "file": "Chad le Clos.jpg",
+      "answer": "Chad le Clos"
+    },
+    {
+      "file": "Cheslin Kolbe.jpg",
+      "answer": "Cheslin Kolbe"
+    },
+    {
+      "file": "Coco Gauff.jpg",
+      "answer": "Coco Gauff"
+    },
+    {
+      "file": "Faith Kipyegon.jpg",
+      "answer": "Faith Kipyegon"
+    },
+    {
+      "file": "LeBron James.jpg",
+      "answer": "LeBron James"
+    },
+    {
+      "file": "Lewis Hamilton.jpg",
+      "answer": "Lewis Hamilton"
+    },
+    {
+      "file": "Manny Pacquiao.jpg",
+      "answer": "Manny Pacquiao"
+    },
+    {
+      "file": "Max Verstappen.jpg",
+      "answer": "Max Verstappen"
+    },
+    {
+      "file": "Michael Jordan.jpg",
+      "answer": "Michael Jordan"
+    },
+    {
+      "file": "Naomi Osaka.jpg",
+      "answer": "Naomi Osaka"
+    },
+    {
+      "file": "Noah Lyles.jpg",
+      "answer": "Noah Lyles"
+    },
+    {
+      "file": "Novak Djokovic.jpg",
+      "answer": "Novak Djokovic"
+    },
+    {
+      "file": "Rafael Nadal.jpg",
+      "answer": "Rafael Nadal"
+    },
+    {
+      "file": "Roger Federer.jpg",
+      "answer": "Roger Federer"
+    },
+    {
+      "file": "Serena Williams.png",
+      "answer": "Serena Williams"
+    },
+    {
+      "file": "Shelly-Ann Fraser-Pryce.jpg",
+      "answer": "Shelly-Ann Fraser-Pryce"
+    },
+    {
+      "file": "Simone Biles.jpg",
+      "answer": "Simone Biles"
+    },
+    {
+      "file": "Siya Kolisi.jpg",
+      "answer": "Siya Kolisi"
+    },
+    {
+      "file": "Stephen Curry.jpg",
+      "answer": "Stephen Curry"
+    },
+    {
+      "file": "Usain Bolt.jpg",
+      "answer": "Usain Bolt"
+    },
+    {
+      "file": "Wayde van Niekerk.jpg",
+      "answer": "Wayde van Niekerk"
+    }
+  ],
   "Birds": [
     {
       "file": "African penguin.jpg",
@@ -187,6 +281,82 @@
     {
       "file": "Zinc.svg",
       "answer": "Zinc"
+    }
+  ],
+  "Current Footballers": [
+    {
+      "file": "Bukayo Saka.jpg",
+      "answer": "Bukayo Saka"
+    },
+    {
+      "file": "Cristiano Ronaldo.jpg",
+      "answer": "Cristiano Ronaldo"
+    },
+    {
+      "file": "Erling Haaland.jpg",
+      "answer": "Erling Haaland"
+    },
+    {
+      "file": "Harry Kane.jpg",
+      "answer": "Harry Kane"
+    },
+    {
+      "file": "Jude Bellingham.jpg",
+      "answer": "Jude Bellingham"
+    },
+    {
+      "file": "Kylian Mbappé.jpg",
+      "answer": "Kylian Mbappé"
+    },
+    {
+      "file": "Lamine Yamal.jpg",
+      "answer": "Lamine Yamal"
+    },
+    {
+      "file": "Lionel Messi.jpg",
+      "answer": "Lionel Messi"
+    },
+    {
+      "file": "Mohamed Salah.jpg",
+      "answer": "Mohamed Salah"
+    },
+    {
+      "file": "Ronwen Williams.jpg",
+      "answer": "Ronwen Williams"
+    },
+    {
+      "file": "Thembi Kgatlana.jpg",
+      "answer": "Thembi Kgatlana"
+    },
+    {
+      "file": "Vinícius Júnior.jpg",
+      "answer": "Vinícius Júnior"
+    }
+  ],
+  "Disney Characters": [
+    {
+      "file": "Aladdin.jpg",
+      "answer": "Aladdin"
+    },
+    {
+      "file": "Ariel.jpg",
+      "answer": "Ariel"
+    },
+    {
+      "file": "Donald Duck.jpg",
+      "answer": "Donald Duck"
+    },
+    {
+      "file": "Elsa.jpg",
+      "answer": "Elsa"
+    },
+    {
+      "file": "Goofy.jpg",
+      "answer": "Goofy"
+    },
+    {
+      "file": "Mickey Mouse.png",
+      "answer": "Mickey Mouse"
     }
   ],
   "Food": [
@@ -553,6 +723,79 @@
       "answer": "Waterfall"
     }
   ],
+  "Pixar Characters": [
+    {
+      "file": "Buzz Lightyear.jpg",
+      "answer": "Buzz Lightyear"
+    },
+    {
+      "file": "Dory.jpg",
+      "answer": "Dory"
+    },
+    {
+      "file": "Lightning McQueen.jpg",
+      "answer": "Lightning McQueen"
+    },
+    {
+      "file": "WALL-E.jpg",
+      "answer": "WALL-E"
+    },
+    {
+      "file": "Woody.jpg",
+      "answer": "Woody"
+    },
+    {
+      "atlas": "animated-movies.png",
+      "cell": 3,
+      "answer": "Nemo"
+    }
+  ],
+  "Retired Footballers": [
+    {
+      "file": "Andrés Iniesta.jpg",
+      "answer": "Andrés Iniesta"
+    },
+    {
+      "file": "Benni McCarthy.jpg",
+      "answer": "Benni McCarthy"
+    },
+    {
+      "file": "David Beckham.jpg",
+      "answer": "David Beckham"
+    },
+    {
+      "file": "Didier Drogba.jpg",
+      "answer": "Didier Drogba"
+    },
+    {
+      "file": "Diego Maradona.jpg",
+      "answer": "Diego Maradona"
+    },
+    {
+      "file": "Pelé.jpg",
+      "answer": "Pelé"
+    },
+    {
+      "file": "Ronaldinho.jpg",
+      "answer": "Ronaldinho"
+    },
+    {
+      "file": "Samuel Eto'o.jpg",
+      "answer": "Samuel Eto'o"
+    },
+    {
+      "file": "Steven Pienaar.jpg",
+      "answer": "Steven Pienaar"
+    },
+    {
+      "file": "Thierry Henry.jpg",
+      "answer": "Thierry Henry"
+    },
+    {
+      "file": "Zinedine Zidane.jpg",
+      "answer": "Zinedine Zidane"
+    }
+  ],
   "Sports Equipment": [
     {
       "file": "Baseball glove.jpg",
@@ -589,6 +832,32 @@
     {
       "file": "Tennis racket.jpg",
       "answer": "Tennis racket"
+    }
+  ],
+  "Superheroes": [
+    {
+      "file": "Batman.jpg",
+      "answer": "Batman"
+    },
+    {
+      "file": "Black Panther.jpg",
+      "answer": "Black Panther"
+    },
+    {
+      "file": "Iron Man.jpg",
+      "answer": "Iron Man"
+    },
+    {
+      "file": "Spider-Man.jpg",
+      "answer": "Spider-Man"
+    },
+    {
+      "file": "Superman.jpg",
+      "answer": "Superman"
+    },
+    {
+      "file": "Wonder Woman.jpg",
+      "answer": "Wonder Woman"
     }
   ],
   "Tools": [
@@ -715,6 +984,422 @@
     {
       "file": "Tractor.jpg",
       "answer": "Tractor"
+    }
+  ],
+  "Anime Shows": [
+    {
+      "atlas": "anime.png",
+      "cell": 0,
+      "answer": "Naruto"
+    },
+    {
+      "atlas": "anime.png",
+      "cell": 1,
+      "answer": "One Piece"
+    },
+    {
+      "atlas": "anime.png",
+      "cell": 2,
+      "answer": "Dragon Ball"
+    },
+    {
+      "atlas": "anime.png",
+      "cell": 3,
+      "answer": "Bleach"
+    },
+    {
+      "atlas": "anime.png",
+      "cell": 4,
+      "answer": "My Hero Academia"
+    },
+    {
+      "atlas": "anime.png",
+      "cell": 5,
+      "answer": "Demon Slayer"
+    }
+  ],
+  "Anime Characters": [
+    {
+      "atlas": "anime.png",
+      "cell": 0,
+      "answer": "Naruto Uzumaki"
+    },
+    {
+      "atlas": "anime.png",
+      "cell": 1,
+      "answer": "Monkey D. Luffy"
+    },
+    {
+      "atlas": "anime.png",
+      "cell": 2,
+      "answer": "Son Goku"
+    },
+    {
+      "atlas": "anime.png",
+      "cell": 3,
+      "answer": "Ichigo Kurosaki"
+    },
+    {
+      "atlas": "anime.png",
+      "cell": 4,
+      "answer": "Izuku Midoriya"
+    },
+    {
+      "atlas": "anime.png",
+      "cell": 5,
+      "answer": "Tanjiro Kamado"
+    }
+  ],
+  "Cartoon Shows": [
+    {
+      "atlas": "cartoons.png",
+      "cell": 0,
+      "answer": "Ben 10"
+    },
+    {
+      "atlas": "cartoons.png",
+      "cell": 1,
+      "answer": "Regular Show"
+    },
+    {
+      "atlas": "cartoons.png",
+      "cell": 2,
+      "answer": "Phineas and Ferb"
+    },
+    {
+      "atlas": "cartoons.png",
+      "cell": 3,
+      "answer": "Rick and Morty"
+    },
+    {
+      "atlas": "cartoons.png",
+      "cell": 4,
+      "answer": "Tom and Jerry"
+    },
+    {
+      "atlas": "cartoons.png",
+      "cell": 5,
+      "answer": "Scooby-Doo"
+    }
+  ],
+  "Cartoon Characters": [
+    {
+      "atlas": "cartoons.png",
+      "cell": 0,
+      "answer": "Ben Tennyson"
+    },
+    {
+      "atlas": "cartoons.png",
+      "cell": 1,
+      "answer": "Mordecai and Rigby"
+    },
+    {
+      "atlas": "cartoons.png",
+      "cell": 2,
+      "answer": "Phineas and Ferb"
+    },
+    {
+      "atlas": "cartoons.png",
+      "cell": 3,
+      "answer": "Rick and Morty"
+    },
+    {
+      "atlas": "cartoons.png",
+      "cell": 4,
+      "answer": "Tom and Jerry"
+    },
+    {
+      "atlas": "cartoons.png",
+      "cell": 5,
+      "answer": "Scooby-Doo and Shaggy"
+    }
+  ],
+  "Kids Cartoons": [
+    {
+      "atlas": "kids.png",
+      "cell": 0,
+      "answer": "Dora the Explorer"
+    },
+    {
+      "atlas": "kids.png",
+      "cell": 1,
+      "answer": "Peppa Pig"
+    },
+    {
+      "atlas": "kids.png",
+      "cell": 2,
+      "answer": "Bluey"
+    },
+    {
+      "atlas": "kids.png",
+      "cell": 3,
+      "answer": "PAW Patrol"
+    },
+    {
+      "atlas": "kids.png",
+      "cell": 4,
+      "answer": "Everything's Rosie"
+    },
+    {
+      "atlas": "kids.png",
+      "cell": 5,
+      "answer": "Mickey Mouse Clubhouse"
+    }
+  ],
+  "Movies": [
+    {
+      "atlas": "movies.png",
+      "cell": 0,
+      "answer": "Titanic"
+    },
+    {
+      "atlas": "movies.png",
+      "cell": 1,
+      "answer": "Jurassic Park"
+    },
+    {
+      "atlas": "movies.png",
+      "cell": 2,
+      "answer": "Harry Potter"
+    },
+    {
+      "atlas": "movies.png",
+      "cell": 3,
+      "answer": "Star Wars"
+    },
+    {
+      "atlas": "movies.png",
+      "cell": 4,
+      "answer": "Jaws"
+    },
+    {
+      "atlas": "movies.png",
+      "cell": 5,
+      "answer": "Back to the Future"
+    }
+  ],
+  "Animated Movies": [
+    {
+      "atlas": "animated-movies.png",
+      "cell": 0,
+      "answer": "The Lion King"
+    },
+    {
+      "atlas": "animated-movies.png",
+      "cell": 1,
+      "answer": "Shrek"
+    },
+    {
+      "atlas": "animated-movies.png",
+      "cell": 2,
+      "answer": "Frozen"
+    },
+    {
+      "atlas": "animated-movies.png",
+      "cell": 3,
+      "answer": "Finding Nemo"
+    },
+    {
+      "atlas": "animated-movies.png",
+      "cell": 4,
+      "answer": "Toy Story"
+    },
+    {
+      "atlas": "animated-movies.png",
+      "cell": 5,
+      "answer": "How to Train Your Dragon"
+    }
+  ],
+  "Movie Characters": [
+    {
+      "atlas": "movie-characters.png",
+      "cell": 0,
+      "answer": "Harry Potter"
+    },
+    {
+      "atlas": "movie-characters.png",
+      "cell": 1,
+      "answer": "Jack Sparrow"
+    },
+    {
+      "atlas": "movie-characters.png",
+      "cell": 2,
+      "answer": "Indiana Jones"
+    },
+    {
+      "atlas": "movie-characters.png",
+      "cell": 3,
+      "answer": "James Bond"
+    },
+    {
+      "atlas": "movie-characters.png",
+      "cell": 4,
+      "answer": "Rocky Balboa"
+    },
+    {
+      "atlas": "movie-characters.png",
+      "cell": 5,
+      "answer": "Katniss Everdeen"
+    }
+  ],
+  "Movie Villains": [
+    {
+      "atlas": "movie-villains.png",
+      "cell": 0,
+      "answer": "Darth Vader"
+    },
+    {
+      "atlas": "movie-villains.png",
+      "cell": 1,
+      "answer": "The Joker"
+    },
+    {
+      "atlas": "movie-villains.png",
+      "cell": 2,
+      "answer": "Lord Voldemort"
+    },
+    {
+      "atlas": "movie-villains.png",
+      "cell": 3,
+      "answer": "Thanos"
+    },
+    {
+      "atlas": "movie-villains.png",
+      "cell": 4,
+      "answer": "Maleficent"
+    },
+    {
+      "atlas": "movie-villains.png",
+      "cell": 5,
+      "answer": "The Terminator"
+    }
+  ],
+  "TV Shows": [
+    {
+      "atlas": "tv-shows.png",
+      "cell": 0,
+      "answer": "Friends"
+    },
+    {
+      "atlas": "tv-shows.png",
+      "cell": 1,
+      "answer": "Stranger Things"
+    },
+    {
+      "atlas": "tv-shows.png",
+      "cell": 2,
+      "answer": "Wednesday"
+    },
+    {
+      "atlas": "tv-shows.png",
+      "cell": 3,
+      "answer": "Squid Game"
+    },
+    {
+      "atlas": "tv-shows.png",
+      "cell": 4,
+      "answer": "The Simpsons"
+    },
+    {
+      "atlas": "tv-shows.png",
+      "cell": 5,
+      "answer": "The Walking Dead"
+    }
+  ],
+  "Video Games": [
+    {
+      "atlas": "video-games.png",
+      "cell": 0,
+      "answer": "Minecraft"
+    },
+    {
+      "atlas": "video-games.png",
+      "cell": 1,
+      "answer": "Sonic the Hedgehog"
+    },
+    {
+      "atlas": "video-games.png",
+      "cell": 2,
+      "answer": "Super Mario Bros."
+    },
+    {
+      "atlas": "video-games.png",
+      "cell": 3,
+      "answer": "Pokemon"
+    },
+    {
+      "atlas": "video-games.png",
+      "cell": 4,
+      "answer": "Fortnite"
+    },
+    {
+      "atlas": "video-games.png",
+      "cell": 5,
+      "answer": "The Legend of Zelda"
+    }
+  ],
+  "Video Game Characters": [
+    {
+      "atlas": "video-games.png",
+      "cell": 0,
+      "answer": "Steve"
+    },
+    {
+      "atlas": "video-games.png",
+      "cell": 1,
+      "answer": "Sonic"
+    },
+    {
+      "atlas": "video-games.png",
+      "cell": 2,
+      "answer": "Mario"
+    },
+    {
+      "atlas": "video-games.png",
+      "cell": 3,
+      "answer": "Pikachu"
+    },
+    {
+      "atlas": "video-games.png",
+      "cell": 4,
+      "answer": "Peely"
+    },
+    {
+      "atlas": "video-games.png",
+      "cell": 5,
+      "answer": "Link"
+    }
+  ],
+  "Fictional Creatures": [
+    {
+      "atlas": "creatures.png",
+      "cell": 0,
+      "answer": "Dragon"
+    },
+    {
+      "atlas": "creatures.png",
+      "cell": 1,
+      "answer": "Unicorn"
+    },
+    {
+      "atlas": "creatures.png",
+      "cell": 2,
+      "answer": "Mermaid"
+    },
+    {
+      "atlas": "creatures.png",
+      "cell": 3,
+      "answer": "Phoenix"
+    },
+    {
+      "atlas": "creatures.png",
+      "cell": 4,
+      "answer": "Griffin"
+    },
+    {
+      "atlas": "creatures.png",
+      "cell": 5,
+      "answer": "Centaur"
     }
   ]
 }

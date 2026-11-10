@@ -184,7 +184,7 @@ const G={
       h+=H.sec('Choose the 4 games',[0,1,2,3].map(i=>'<label class="fld"><span>Game '+(i+1)+'</span><select class="sel" name="g'+i+'">'+opt(T.f.g[i])+'</select></label>').join('')+
         H.note('The same game can be picked more than once. In Quick format the order matters: game 1 is played by player 1 of each team, game 2 by player 2, and so on.'));
       h+=H.sec('Picture Game categories (only used if Picture Game is one of the games)',
-        '<div class="chipsel"><button class="chip '+(T.pic.mixed?'sel':'')+'" data-cmd="tcat" data-arg="mixed">🎲 Mixed</button>'+cats.map(c=>'<button class="chip '+((!T.pic.mixed&&T.pic.cats.includes(c.id))?'sel':'')+'" data-cmd="tcat" data-arg="'+esc(c.id)+'"'+(c.count()>0?'':' disabled')+'>'+c.icon+' '+esc(c.name)+'</button>').join('')+'</div>');
+        '<div class="chipsel"><button class="chip '+(T.pic.mixed?'sel':'')+'" data-cmd="tcat" data-arg="mixed">Random category per match</button>'+cats.map(c=>'<button class="chip '+((!T.pic.mixed&&T.pic.cats.includes(c.id))?'sel':'')+'" data-cmd="tcat" data-arg="'+esc(c.id)+'"'+(c.count()>0?'':' disabled')+'>'+esc(c.name)+'</button>').join('')+'</div>');
       return h+H.sec('Go',H.row(H.btn('Start tournament','start',undefined,'green',{form:1})));
     }
     let h='';

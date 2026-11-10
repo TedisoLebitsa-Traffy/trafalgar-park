@@ -1,0 +1,425 @@
+{
+  "Anime Shows": [
+    {
+      "atlas": "anime.png",
+      "cell": 0,
+      "answer": "Naruto"
+    },
+    {
+      "atlas": "anime.png",
+      "cell": 1,
+      "answer": "One Piece"
+    },
+    {
+      "atlas": "anime.png",
+      "cell": 2,
+      "answer": "Dragon Ball"
+    },
+    {
+      "atlas": "anime.png",
+      "cell": 3,
+      "answer": "Bleach"
+    },
+    {
+      "atlas": "anime.png",
+      "cell": 4,
+      "answer": "My Hero Academia"
+    },
+    {
+      "atlas": "anime.png",
+      "cell": 5,
+      "answer": "Demon Slayer"
+    }
+  ],
+  "Anime Characters": [
+    {
+      "atlas": "anime.png",
+      "cell": 0,
+      "answer": "Naruto Uzumaki"
+    },
+    {
+      "atlas": "anime.png",
+      "cell": 1,
+      "answer": "Monkey D. Luffy"
+    },
+    {
+      "atlas": "anime.png",
+      "cell": 2,
+      "answer": "Son Goku"
+    },
+    {
+      "atlas": "anime.png",
+      "cell": 3,
+      "answer": "Ichigo Kurosaki"
+    },
+    {
+      "atlas": "anime.png",
+      "cell": 4,
+      "answer": "Izuku Midoriya"
+    },
+    {
+      "atlas": "anime.png",
+      "cell": 5,
+      "answer": "Tanjiro Kamado"
+    }
+  ],
+  "Cartoon Shows": [
+    {
+      "atlas": "cartoons.png",
+      "cell": 0,
+      "answer": "Ben 10"
+    },
+    {
+      "atlas": "cartoons.png",
+      "cell": 1,
+      "answer": "Regular Show"
+    },
+    {
+      "atlas": "cartoons.png",
+      "cell": 2,
+      "answer": "Phineas and Ferb"
+    },
+    {
+      "atlas": "cartoons.png",
+      "cell": 3,
+      "answer": "Rick and Morty"
+    },
+    {
+      "atlas": "cartoons.png",
+      "cell": 4,
+      "answer": "Tom and Jerry"
+    },
+    {
+      "atlas": "cartoons.png",
+      "cell": 5,
+      "answer": "Scooby-Doo"
+    }
+  ],
+  "Cartoon Characters": [
+    {
+      "atlas": "cartoons.png",
+      "cell": 0,
+      "answer": "Ben Tennyson"
+    },
+    {
+      "atlas": "cartoons.png",
+      "cell": 1,
+      "answer": "Mordecai and Rigby"
+    },
+    {
+      "atlas": "cartoons.png",
+      "cell": 2,
+      "answer": "Phineas and Ferb"
+    },
+    {
+      "atlas": "cartoons.png",
+      "cell": 3,
+      "answer": "Rick and Morty"
+    },
+    {
+      "atlas": "cartoons.png",
+      "cell": 4,
+      "answer": "Tom and Jerry"
+    },
+    {
+      "atlas": "cartoons.png",
+      "cell": 5,
+      "answer": "Scooby-Doo and Shaggy"
+    }
+  ],
+  "Kids Cartoons": [
+    {
+      "atlas": "kids.png",
+      "cell": 0,
+      "answer": "Dora the Explorer"
+    },
+    {
+      "atlas": "kids.png",
+      "cell": 1,
+      "answer": "Peppa Pig"
+    },
+    {
+      "atlas": "kids.png",
+      "cell": 2,
+      "answer": "Bluey"
+    },
+    {
+      "atlas": "kids.png",
+      "cell": 3,
+      "answer": "PAW Patrol"
+    },
+    {
+      "atlas": "kids.png",
+      "cell": 4,
+      "answer": "Everything's Rosie"
+    },
+    {
+      "atlas": "kids.png",
+      "cell": 5,
+      "answer": "Mickey Mouse Clubhouse"
+    }
+  ],
+  "Movies": [
+    {
+      "atlas": "movies.png",
+      "cell": 0,
+      "answer": "Titanic"
+    },
+    {
+      "atlas": "movies.png",
+      "cell": 1,
+      "answer": "Jurassic Park"
+    },
+    {
+      "atlas": "movies.png",
+      "cell": 2,
+      "answer": "Harry Potter"
+    },
+    {
+      "atlas": "movies.png",
+      "cell": 3,
+      "answer": "Star Wars"
+    },
+    {
+      "atlas": "movies.png",
+      "cell": 4,
+      "answer": "Jaws"
+    },
+    {
+      "atlas": "movies.png",
+      "cell": 5,
+      "answer": "Back to the Future"
+    }
+  ],
+  "Animated Movies": [
+    {
+      "atlas": "animated-movies.png",
+      "cell": 0,
+      "answer": "The Lion King"
+    },
+    {
+      "atlas": "animated-movies.png",
+      "cell": 1,
+      "answer": "Shrek"
+    },
+    {
+      "atlas": "animated-movies.png",
+      "cell": 2,
+      "answer": "Frozen"
+    },
+    {
+      "atlas": "animated-movies.png",
+      "cell": 3,
+      "answer": "Finding Nemo"
+    },
+    {
+      "atlas": "animated-movies.png",
+      "cell": 4,
+      "answer": "Toy Story"
+    },
+    {
+      "atlas": "animated-movies.png",
+      "cell": 5,
+      "answer": "How to Train Your Dragon"
+    }
+  ],
+  "Movie Characters": [
+    {
+      "atlas": "movie-characters.png",
+      "cell": 0,
+      "answer": "Harry Potter"
+    },
+    {
+      "atlas": "movie-characters.png",
+      "cell": 1,
+      "answer": "Jack Sparrow"
+    },
+    {
+      "atlas": "movie-characters.png",
+      "cell": 2,
+      "answer": "Indiana Jones"
+    },
+    {
+      "atlas": "movie-characters.png",
+      "cell": 3,
+      "answer": "James Bond"
+    },
+    {
+      "atlas": "movie-characters.png",
+      "cell": 4,
+      "answer": "Rocky Balboa"
+    },
+    {
+      "atlas": "movie-characters.png",
+      "cell": 5,
+      "answer": "Katniss Everdeen"
+    }
+  ],
+  "Movie Villains": [
+    {
+      "atlas": "movie-villains.png",
+      "cell": 0,
+      "answer": "Darth Vader"
+    },
+    {
+      "atlas": "movie-villains.png",
+      "cell": 1,
+      "answer": "The Joker"
+    },
+    {
+      "atlas": "movie-villains.png",
+      "cell": 2,
+      "answer": "Lord Voldemort"
+    },
+    {
+      "atlas": "movie-villains.png",
+      "cell": 3,
+      "answer": "Thanos"
+    },
+    {
+      "atlas": "movie-villains.png",
+      "cell": 4,
+      "answer": "Maleficent"
+    },
+    {
+      "atlas": "movie-villains.png",
+      "cell": 5,
+      "answer": "The Terminator"
+    }
+  ],
+  "TV Shows": [
+    {
+      "atlas": "tv-shows.png",
+      "cell": 0,
+      "answer": "Friends"
+    },
+    {
+      "atlas": "tv-shows.png",
+      "cell": 1,
+      "answer": "Stranger Things"
+    },
+    {
+      "atlas": "tv-shows.png",
+      "cell": 2,
+      "answer": "Wednesday"
+    },
+    {
+      "atlas": "tv-shows.png",
+      "cell": 3,
+      "answer": "Squid Game"
+    },
+    {
+      "atlas": "tv-shows.png",
+      "cell": 4,
+      "answer": "The Simpsons"
+    },
+    {
+      "atlas": "tv-shows.png",
+      "cell": 5,
+      "answer": "The Walking Dead"
+    }
+  ],
+  "Video Games": [
+    {
+      "atlas": "video-games.png",
+      "cell": 0,
+      "answer": "Minecraft"
+    },
+    {
+      "atlas": "video-games.png",
+      "cell": 1,
+      "answer": "Sonic the Hedgehog"
+    },
+    {
+      "atlas": "video-games.png",
+      "cell": 2,
+      "answer": "Super Mario Bros."
+    },
+    {
+      "atlas": "video-games.png",
+      "cell": 3,
+      "answer": "Pokemon"
+    },
+    {
+      "atlas": "video-games.png",
+      "cell": 4,
+      "answer": "Fortnite"
+    },
+    {
+      "atlas": "video-games.png",
+      "cell": 5,
+      "answer": "The Legend of Zelda"
+    }
+  ],
+  "Video Game Characters": [
+    {
+      "atlas": "video-games.png",
+      "cell": 0,
+      "answer": "Steve"
+    },
+    {
+      "atlas": "video-games.png",
+      "cell": 1,
+      "answer": "Sonic"
+    },
+    {
+      "atlas": "video-games.png",
+      "cell": 2,
+      "answer": "Mario"
+    },
+    {
+      "atlas": "video-games.png",
+      "cell": 3,
+      "answer": "Pikachu"
+    },
+    {
+      "atlas": "video-games.png",
+      "cell": 4,
+      "answer": "Peely"
+    },
+    {
+      "atlas": "video-games.png",
+      "cell": 5,
+      "answer": "Link"
+    }
+  ],
+  "Fictional Creatures": [
+    {
+      "atlas": "creatures.png",
+      "cell": 0,
+      "answer": "Dragon"
+    },
+    {
+      "atlas": "creatures.png",
+      "cell": 1,
+      "answer": "Unicorn"
+    },
+    {
+      "atlas": "creatures.png",
+      "cell": 2,
+      "answer": "Mermaid"
+    },
+    {
+      "atlas": "creatures.png",
+      "cell": 3,
+      "answer": "Phoenix"
+    },
+    {
+      "atlas": "creatures.png",
+      "cell": 4,
+      "answer": "Griffin"
+    },
+    {
+      "atlas": "creatures.png",
+      "cell": 5,
+      "answer": "Centaur"
+    }
+  ],
+  "Pixar Characters": [
+    {
+      "atlas": "animated-movies.png",
+      "cell": 3,
+      "answer": "Nemo"
+    }
+  ]
+}

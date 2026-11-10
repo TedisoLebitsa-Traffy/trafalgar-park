@@ -29,7 +29,7 @@ def main():
     total = 0
     for cat in sorted(os.listdir(PICS), key=str.lower):
         d = os.path.join(PICS, cat)
-        if not os.path.isdir(d) or cat.startswith("."):
+        if not os.path.isdir(d) or cat.startswith(".") or cat.upper().startswith("PLACEHOLDER"):
             continue
         files = []
         for f in sorted(os.listdir(d), key=str.lower):
@@ -39,6 +39,23 @@ def main():
                     files.append({"file": f, "answer": a})
         manifest[cat] = files
         total += len(files)
+    # Illustrated quiz sheets are kept outside the answer-named photo folders.
+    # Only the host loads this manifest; the audience receives one cropped Blob.
+    extra = os.path.join(ROOT, "data", "picture_illustrations.json")
+    if os.path.isfile(extra):
+        with open(extra, encoding="utf-8") as fh:
+            categories = json.load(fh)
+        for cat, clues in categories.items():
+            for clue in clues:
+                atlas = clue.get("atlas", "")
+                if os.path.basename(atlas) != atlas or not atlas.endswith(".png"):
+                    raise ValueError("Invalid atlas filename: " + atlas)
+                if not os.path.isfile(os.path.join(ROOT, "assets", "clue-atlases", atlas)):
+                    raise ValueError("Missing atlas: " + atlas)
+                if type(clue.get("cell")) is not int or not 0 <= clue["cell"] < 6 or not clue.get("answer"):
+                    raise ValueError("Invalid illustration clue in " + cat)
+            manifest.setdefault(cat, []).extend(clues)
+            total += len(clues)
     out = os.path.join(PICS, "manifest.json")
     with open(out, "w", encoding="utf-8") as fh:
         json.dump(manifest, fh, indent=2, ensure_ascii=False)

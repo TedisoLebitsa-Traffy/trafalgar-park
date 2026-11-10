@@ -3,7 +3,7 @@
 window.E2E=(function(){
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 const pdoc=()=>document.getElementById('prev').contentDocument;
-const dom=()=>pdoc().documentElement.outerHTML.toLowerCase();
+const dom=()=>pdoc().getElementById('scene').outerHTML.toLowerCase();
 const txt=()=>pdoc().getElementById('scene').innerText;
 let R=[];
 const t=(n,ok,info)=>{R.push((ok?'PASS ':'FAIL ')+n+(info?'  — '+info:''));if(!ok)console.warn('FAIL',n,info);};
@@ -77,6 +77,7 @@ async function duel(id,label,prep,leaks){
     await go('skip',undefined,60);
   }
   t(label+': 40 items, no repeats, no answer in display DOM',bad===0,'problems='+bad);
+  for(let tries=0;tries<100&&!App.game.view().top.clock.run;tries++)await sleep(20);
   const before=S().turn;await go('correct');t(label+': correct passes turn',S().turn===1-before&&S().correct[before]===1);
   const c0=App.game.save().ms;await sleep(1100);const c1=App.game.save().ms;
   t(label+': only active clock runs',c1[1-before]<c0[1-before]&&c1[before]===c0[before]);
@@ -88,22 +89,40 @@ async function duel(id,label,prep,leaks){
   await go('hub');
 }
 async function picture(){
+  await TP.picturesReady;
   const cats=TP.pictureCats();
+  t('picture: emoji categories removed',!cats.some(c=>['emoji','bible','cartoons'].includes(c.id)));
   for(const c of cats){
     if(c.count()===0)continue;
-    await duel('picture','picture/'+c.name,async()=>{await App.game.cmd('cat',c.id);},cur=>{
-      const l=[cur.a];if(cur.code)l.push('flags/');if(cur.file)l.push(cur.file,'assets/pictures');return l.filter(Boolean);});
+    await duel('picture','picture/'+c.name,async()=>{
+      await go('players');await go('pool','none');await go('cat',c.id);await go('randomize');await sleep(1650);
+      t('picture/'+c.name+': category drawn before clock starts',S().opts.category===c.id&&S().phase==='setup'&&App.game.save().ms.every(ms=>ms===60000));
+    },cur=>{
+      const l=cur.c==='maths'?[]:[cur.a];if(cur.code)l.push('flags/');if(cur.file)l.push(cur.file,'assets/pictures');if(cur.atlas)l.push(cur.atlas,'assets/clue-atlases');return l.filter(Boolean);
+    });
   }
-  await go('open','picture');
-  const chips=[...document.querySelectorAll('#host .chip')];
-  const emptyNames=cats.filter(c=>c.count()===0).map(c=>c.name);
-  t('picture: greyed-out empty categories',chips.filter(c=>c.disabled).length===emptyNames.length,emptyNames.join(', '));
-  field('n1','A');field('n2','B');await go('start');
-  const seenC=new Set();for(let i=0;i<60;i++){seenC.add(S().cur.c);await go('skip',undefined,30);}
-  const emptyIds=new Set(cats.filter(c=>c.count()===0).map(c=>c.id));
-  t('picture mixed: skips empty categories',![...seenC].some(c=>emptyIds.has(c)),[...seenC].join(','));
+  await go('open','picture');field('n1','');field('n2','');await go('players');
+  t('picture: requires two player names',S().opts.stage==='players');
+  field('n1','Alice');field('n2','Bob');await go('players');
+  t('picture: themed category columns',document.querySelectorAll('.picture-column').length>=4);
+  await go('pool','none');await go('randomize');
+  t('picture: empty pool cannot draw',S().opts.stage==='category'&&!S().opts.category);
+  await go('cat','flags');await go('randomize');await go('start');
+  t('picture: cannot start during draw',S().phase==='setup');await sleep(1600);await go('start');await sleep(200);
+  const fixed=S().opts.category;
+  for(let i=0;i<12;i++){await go(i%2?'skip':'correct',undefined,100);}
+  await go('cat','maths');await go('randomize');
+  t('picture: all turns keep the locked category',S().cur.c===fixed&&S().opts.category===fixed);
+  const saved=JSON.parse(JSON.stringify(App.game.save()));App.game.load(saved);App.publish();await sleep(200);
+  t('picture: resume preserves category and pauses clocks',S().opts.category===fixed&&S().cur.c===fixed&&!App.game.view().top.clock.run);
+  await go('rematch');
+  t('picture: new duel returns to category draw with same players',S().phase==='setup'&&S().opts.stage==='category'&&S().names.join('|')==='Alice|Bob'&&!S().opts.category);
+  App.game.preset(['Team A','Team B'],{mixed:true,cats:[]});await go('start');await sleep(200);
+  const preset=S().opts.category;for(let i=0;i<10;i++)await go('skip',undefined,120);
+  t('picture: tournament presets also lock one category',!!preset&&S().cur.c===preset&&S().opts.category===preset);
   await go('hub');
 }
+
 async function hol(){
   await duel('higherlower','higher/lower',null,cur=>[]);
   await go('open','higherlower');field('n1','A');field('n2','B');await go('start');

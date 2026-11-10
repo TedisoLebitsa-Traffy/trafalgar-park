@@ -9,6 +9,7 @@ App.order=HUB_ORDER.filter(id=>App.games[id]).concat(App.order.filter(id=>!HUB_O
 /* ---------- host panel ---------- */
 function renderHost(){
   const h=$('#host');
+  document.body.classList.toggle('picture-mode',App.screen==='game'&&App.game.id==='picture');
   // keep scroll position and focus-free redraw
   const sy=h.scrollTop;
   let html='';
@@ -21,7 +22,7 @@ function renderHost(){
   }else{
     const g=App.game;
     html='<div class="hhead"><h1>'+g.icon+' '+esc(g.name)+'</h1>'+
-      TP.H.btn('📸 Scoreboard','snap',undefined,'gold')+TP.H.btn('← Hub','hub',undefined,'ghost')+'</div>'+g.host();
+      TP.H.btn(g.id==='picture'?'Scoreboard':'📸 Scoreboard','snap',undefined,'gold')+TP.H.btn('← Hub','hub',undefined,'ghost')+'</div>'+g.host();
   }
   h.innerHTML=html;
 }
@@ -68,11 +69,11 @@ $('#aHide').onclick=()=>TP.settings.toggle('hideBtns');
 $('#aFull').onclick=()=>TP.toggleFullscreen();
 $('#aHelp').onclick=()=>TP.localKey('help');
 function syncTop(){
-  $('#aMute').textContent=TP.settings.get('mute')?'🔇 Muted':'🔊 Sound on';
+  $('#aMute').textContent=TP.settings.get('mute')?'Muted':'Sound on';
   $('#aMute').classList.toggle('on',TP.settings.get('mute'));
   $('#aAdapt').classList.toggle('on',TP.settings.get('adapt'));
   $('#aHide').classList.toggle('on',TP.settings.get('hideBtns'));
-  $('#aHide').textContent=TP.settings.get('hideBtns')?'🙈 Display buttons hidden':'👁 Display buttons shown';
+  $('#aHide').textContent=TP.settings.get('hideBtns')?'Display buttons hidden':'Display buttons shown';
 }
 TP.settings.on(syncTop);syncTop();
 $('#help').innerHTML=TP.helpHTML();

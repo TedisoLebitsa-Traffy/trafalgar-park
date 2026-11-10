@@ -28,12 +28,12 @@ h1{font-size:34px;margin:6px 0 2px;color:#800020}
 </head>
 <body>
 <div class="wrap">
-  <h1>🎮 Trafalgar Park</h1>
+  <h1>Trafalgar Park</h1>
   <div class="sub">Who is this phone?</div>
-  <a class="role" href="admin.html"><b>🎛 The HOST</b><span>Has all the answers and the controls. Start here, then tap <i>Connect a screen</i>.</span></a>
-  <a class="role" href="index.html?join=1"><b>📺 The SCREEN</b><span>Shows the game to everyone. Never shows an answer. Scan the host's code to join.</span></a>
-  <a class="role" href="admin.html?solo=1"><b>🙋 ONE phone only</b><span>Everything on this one phone – perfect for Taboo and 30 Seconds.</span></a>
-  <a class="role" href="lan.html"><b>🌐 LAN: laptop + iPad</b><span>Laptop runs the game, the iPad just opens a link on the same Wi-Fi. (Needs <code>python serve.py --lan</code> on the laptop.)</span></a>
+  <a class="role" href="admin.html"><b>The HOST</b><span>Has all the answers and the controls. Start here, then tap <i>Connect a screen</i>.</span></a>
+  <a class="role" href="index.html?join=1"><b>The SCREEN</b><span>Shows the game to everyone. Never shows an answer. Scan the host's code to join.</span></a>
+  <a class="role" href="admin.html?solo=1"><b>ONE phone only</b><span>Everything on this one phone – perfect for Taboo and 30 Seconds.</span></a>
+  <a class="role" href="lan.html"><b>LAN: laptop + iPad</b><span>Laptop runs the game, the iPad just opens a link on the same Wi-Fi. (Needs <code>python serve.py --lan</code> on the laptop.)</span></a>
   <div id="st" class="status">Checking offline storage…</div>
   <ul class="how" style="list-style:disc">
     <li>At home on Wi-Fi: open this page once, then <b>Share ▸ Add to Home Screen</b> (iPhone) so it works with no internet.</li>
@@ -46,13 +46,21 @@ h1{font-size:34px;margin:6px 0 2px;color:#800020}
 (async()=>{
   const st=document.getElementById('st');
   try{
-    if(!('serviceWorker' in navigator))throw 0;
-    await navigator.serviceWorker.ready;
-    const keys=await caches.keys(),k=keys.find(x=>x.startsWith('tp-'));
-    const n=k?(await (await caches.open(k)).keys()).length:0;
-    if(n>20){st.className='status ok';st.textContent='✅ Ready for offline use ('+n+' files saved)';}
-    else st.textContent='⏳ Saving the game for offline use… reload this page in a moment.';
-  }catch(e){st.textContent='ℹ Offline saving needs https (the GitHub link) – it is not active on this address.';}
+    if(!('serviceWorker' in navigator)||!window.isSecureContext)throw 0;
+    async function check(){
+      try{
+        const r=await fetch('precache.json',{cache:'no-store'});
+        if(!r.ok)throw new Error('Offline manifest unavailable');
+        const manifest=await r.json(),cache=await caches.open(manifest.version);
+        const keys=await cache.keys(),saved=new Set(keys.map(k=>new URL(k.url).pathname));
+        const count=manifest.files.filter(f=>saved.has(new URL(f,location.href).pathname)).length;
+        if(count===manifest.files.length){st.className='status ok';st.textContent='Ready for offline use ('+count+' files saved)';return;}
+        st.className='status';st.textContent='Saving for offline use: '+count+' / '+manifest.files.length+' files. Keep this page open.';
+      }catch(e){st.className='status';st.textContent='Offline copy is incomplete. Connect to Wi-Fi and reopen this page to finish saving.';}
+      setTimeout(check,1500);
+    }
+    await check();
+  }catch(e){st.textContent='Offline saving needs HTTPS (the GitHub link) or localhost. LAN play works while the laptop server is running.';}
 })();
 </script>
 </body>

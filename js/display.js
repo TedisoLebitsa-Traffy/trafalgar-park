@@ -60,7 +60,7 @@ if(!PREVIEW)TP.keepAwake();
 if(/[?&]join/.test(location.search))setTimeout(()=>TP.pair.openScreen(),300);
 $('#help').innerHTML=TP.helpHTML();
 function syncToolbar(){
-  $('#tbMute').textContent=TP.settings.get('mute')?'🔇':'🔊';
+  $('#tbMute').textContent=TP.settings.get('mute')?'Muted':'Sound';
   $('#tbMute').classList.toggle('on',TP.settings.get('mute'));
   $('#tbAdapt').classList.toggle('on',TP.settings.get('adapt'));
   $('#app').classList.toggle('hidebtns',TP.settings.get('hideBtns'));
@@ -72,14 +72,14 @@ if(PREVIEW){$('#toolbar').style.display='none';}
 function updateJoin(){
   const b=$('#joinBtn');
   b.style.display=(!PREVIEW&&!SOLO&&!TP.bus.lan&&(!gotView||(lastHb&&Date.now()-lastHb>7000)))?'block':'none';
-  if(!PREVIEW&&!SOLO&&gotView&&lastHb&&Date.now()-lastHb>7000)b.textContent='📲 Reconnect to host';
+  if(!PREVIEW&&!SOLO&&gotView&&lastHb&&Date.now()-lastHb>7000)b.textContent='Reconnect to host';
 }
 setInterval(updateJoin,700);
 function updateChip(){
   const chip=$('#chip');
   if(PREVIEW){chip.className='hide';return;}
-  if(gotView&&lastHb&&Date.now()-lastHb>7000){chip.textContent='⚠ Host page disconnected';chip.className='';return;}
-  if(!TP.sfx.isUnlocked()&&!TP.settings.get('mute')){chip.textContent='🔊 Click here once to enable sound';chip.className='';return;}
+  if(gotView&&lastHb&&Date.now()-lastHb>7000){chip.textContent='Host page disconnected';chip.className='';return;}
+  if(!TP.sfx.isUnlocked()&&!TP.settings.get('mute')){chip.textContent='Click here once to enable sound';chip.className='';return;}
   chip.className='hide';
 }
 setInterval(updateChip,1000);
