@@ -12,4 +12,8 @@ The app never contacts flagcdn.com at runtime - everything is served locally
 from this folder, so it works fully offline.
 
 To refresh them (for example if a country changes its flag):
-    delete the .svg files and run   python tools/fetch_flags.py
+    python tools/fetch_flags.py --refresh
+    python tools/build_sw.py
+
+Last refreshed from Flagpedia / FlagCDN: 10 November 2026.
+Artwork depicts national flags, with original proportions and emblems.
