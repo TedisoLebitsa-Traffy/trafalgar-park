@@ -100,7 +100,9 @@ The app never downloads pictures – you supply them.
 4. In admin press **Re-scan picture folders** (or reload admin). The category appears in the Picture Game picker.
 
 The display receives the picture as an in-memory image only – the file name (the answer) never reaches the display page.
-**Delete the folder `assets/pictures/PLACEHOLDER - delete this folder`** (a small blue test image included only to test the pipeline) and run the scanner again.
+The bundled Picture Game includes **15 populated picture categories**: Animals, Food (African and international), Chemical Symbols, K53 Road Signs, Indigenous African Games, Landmarks, Nature, Musical Instruments, Sports Equipment, Fruits, Vegetables, Tools, Vehicles, Birds, and Insects. Chemical Symbols asks for the element name from a simple symbol such as H, O, Na, or Fe. K53 uses South African/SADC road-sign artwork.
+
+All pictures are bundled for offline play. Photo and sign attribution is in [picture credits](assets/pictures/CREDITS.md), with exact source and license records in `assets/pictures/sources.json`. Accept familiar regional names and equivalent names for traditional games where their equipment overlaps. The blue test placeholder has been removed.
 
 ## Other tools and folders
 
@@ -146,7 +148,7 @@ The laptop can also capture the iPad-style screen: just keep using `index.html` 
 
 Two phones (or iPads) are enough: the **host** phone has the answers and the controls, the **screen** phone shows the game to everybody. Both can be iPhones.
 
-**One-time setup, at home on Wi-Fi (about 4-6 MB, then it works with no internet at all):**
+**One-time setup, at home on Wi-Fi (about 25 MB, then it works with no internet at all):**
 1. Put the game online as a static site – the easiest is **GitHub Pages**: push this folder to a GitHub repository, then *Settings ▸ Pages ▸ Deploy from a branch ▸ main / (root)*. The address is `https://YOUR-USERNAME.github.io/trafalgar-park/start.html`.
    *Note: free GitHub Pages needs a **public** repository, so the questions/answers in `data/` (and any pictures you add) are readable by anyone who finds the link. Netlify / Cloudflare Pages / Vercel can publish a private repository for free if you prefer.*
 2. On **each** phone open that address in **Safari**, wait for **"✅ Ready for offline use"** on the start page, then **Share ▸ Add to Home Screen** and open the game from the new icon.
@@ -179,7 +181,7 @@ You need three things on the new PC: **Python 3**, a browser (Chrome or Edge), a
      git clone https://github.com/YOUR-USERNAME/trafalgar-park.git
      cd trafalgar-park
      ```
-   * **Without GitHub:** copy the whole `trafalgar-park` folder (about 3 MB) by USB stick / cloud drive / zip, and unzip it anywhere.
+   * **Without GitHub:** copy the whole `trafalgar-park` folder (about 25 MB) by USB stick / cloud drive / zip, and unzip it anywhere.
 3. **Start it:** open a Command Prompt in the folder and run `python serve.py` (leave that window open).
 4. Open `http://localhost:8000/index.html` (the display – capture this in TikTok LIVE Studio) and, in a separate window, `http://localhost:8000/admin.html` (host only). Click once in the display window to allow sound.
 

@@ -6,7 +6,10 @@ const TP=window.TP,App=window.App,H=TP.H,esc=TP.esc,D=window.TPData;
 
 const CATS=[];       // [{id,name,icon,count(),make(S), kind}]
 const PIC_DEFAULT=[['Landmarks','🏛️'],['Animals','🦁'],['Food','🍕'],['Nature','🌿']];
-const PIC_ICON={Landmarks:'🏛️',Animals:'🦁',Food:'🍕',Nature:'🌿'};
+const PIC_ICON={Landmarks:'🏛️',Animals:'🦁',Food:'🍲',Nature:'🌿',
+  'Chemical Symbols':'⚗️','K53 Road Signs':'🚦','Indigenous African Games':'🪘',
+  'Musical Instruments':'🎸','Sports Equipment':'🏏',Fruits:'🥭',Vegetables:'🥕',
+  Tools:'🔨',Vehicles:'🚜',Birds:'🦜',Insects:'🦋'};
 let MANIFEST={};
 
 /* ---- built-in categories ---- */

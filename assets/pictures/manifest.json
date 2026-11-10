@@ -1,12 +1,720 @@
 {
-  "Animals": [],
-  "Food": [],
-  "Landmarks": [],
-  "Nature": [],
-  "PLACEHOLDER - delete this folder": [
+  "Animals": [
     {
-      "file": "PLACEHOLDER test picture - delete me.png",
-      "answer": "PLACEHOLDER test picture - delete me"
+      "file": "African elephant.jpg",
+      "answer": "African elephant"
+    },
+    {
+      "file": "Cheetah.jpg",
+      "answer": "Cheetah"
+    },
+    {
+      "file": "Giant panda.jpg",
+      "answer": "Giant panda"
+    },
+    {
+      "file": "Giraffe.jpg",
+      "answer": "Giraffe"
+    },
+    {
+      "file": "Gorilla.jpg",
+      "answer": "Gorilla"
+    },
+    {
+      "file": "Hippopotamus.jpg",
+      "answer": "Hippopotamus"
+    },
+    {
+      "file": "Kangaroo.jpg",
+      "answer": "Kangaroo"
+    },
+    {
+      "file": "Lion.jpg",
+      "answer": "Lion"
+    },
+    {
+      "file": "Meerkat.jpg",
+      "answer": "Meerkat"
+    },
+    {
+      "file": "Spotted hyena.jpg",
+      "answer": "Spotted hyena"
+    },
+    {
+      "file": "Tiger.jpg",
+      "answer": "Tiger"
+    },
+    {
+      "file": "Zebra.jpg",
+      "answer": "Zebra"
+    }
+  ],
+  "Birds": [
+    {
+      "file": "African penguin.jpg",
+      "answer": "African penguin"
+    },
+    {
+      "file": "Bald eagle.jpg",
+      "answer": "Bald eagle"
+    },
+    {
+      "file": "Barn owl.jpg",
+      "answer": "Barn owl"
+    },
+    {
+      "file": "Flamingo.jpg",
+      "answer": "Flamingo"
+    },
+    {
+      "file": "Grey crowned crane.jpg",
+      "answer": "Grey crowned crane"
+    },
+    {
+      "file": "Lilac-breasted roller.jpg",
+      "answer": "Lilac-breasted roller"
+    },
+    {
+      "file": "Ostrich.jpg",
+      "answer": "Ostrich"
+    },
+    {
+      "file": "Peacock.jpg",
+      "answer": "Peacock"
+    },
+    {
+      "file": "Secretarybird.jpg",
+      "answer": "Secretarybird"
+    },
+    {
+      "file": "Southern ground hornbill.jpg",
+      "answer": "Southern ground hornbill"
+    }
+  ],
+  "Chemical Symbols": [
+    {
+      "file": "Aluminium.svg",
+      "answer": "Aluminium"
+    },
+    {
+      "file": "Calcium.svg",
+      "answer": "Calcium"
+    },
+    {
+      "file": "Carbon.svg",
+      "answer": "Carbon"
+    },
+    {
+      "file": "Chlorine.svg",
+      "answer": "Chlorine"
+    },
+    {
+      "file": "Copper.svg",
+      "answer": "Copper"
+    },
+    {
+      "file": "Fluorine.svg",
+      "answer": "Fluorine"
+    },
+    {
+      "file": "Gold.svg",
+      "answer": "Gold"
+    },
+    {
+      "file": "Helium.svg",
+      "answer": "Helium"
+    },
+    {
+      "file": "Hydrogen.svg",
+      "answer": "Hydrogen"
+    },
+    {
+      "file": "Iron.svg",
+      "answer": "Iron"
+    },
+    {
+      "file": "Lead.svg",
+      "answer": "Lead"
+    },
+    {
+      "file": "Lithium.svg",
+      "answer": "Lithium"
+    },
+    {
+      "file": "Magnesium.svg",
+      "answer": "Magnesium"
+    },
+    {
+      "file": "Mercury.svg",
+      "answer": "Mercury"
+    },
+    {
+      "file": "Neon.svg",
+      "answer": "Neon"
+    },
+    {
+      "file": "Nitrogen.svg",
+      "answer": "Nitrogen"
+    },
+    {
+      "file": "Oxygen.svg",
+      "answer": "Oxygen"
+    },
+    {
+      "file": "Phosphorus.svg",
+      "answer": "Phosphorus"
+    },
+    {
+      "file": "Potassium.svg",
+      "answer": "Potassium"
+    },
+    {
+      "file": "Silicon.svg",
+      "answer": "Silicon"
+    },
+    {
+      "file": "Silver.svg",
+      "answer": "Silver"
+    },
+    {
+      "file": "Sodium.svg",
+      "answer": "Sodium"
+    },
+    {
+      "file": "Sulfur.svg",
+      "answer": "Sulfur"
+    },
+    {
+      "file": "Zinc.svg",
+      "answer": "Zinc"
+    }
+  ],
+  "Food": [
+    {
+      "file": "Biltong.jpg",
+      "answer": "Biltong"
+    },
+    {
+      "file": "Bobotie.jpg",
+      "answer": "Bobotie"
+    },
+    {
+      "file": "Boerewors.jpg",
+      "answer": "Boerewors"
+    },
+    {
+      "file": "Bunny chow.jpg",
+      "answer": "Bunny chow"
+    },
+    {
+      "file": "Couscous.jpg",
+      "answer": "Couscous"
+    },
+    {
+      "file": "Croissant.jpg",
+      "answer": "Croissant"
+    },
+    {
+      "file": "Fufu.jpg",
+      "answer": "Fufu"
+    },
+    {
+      "file": "Hamburger.jpg",
+      "answer": "Hamburger"
+    },
+    {
+      "file": "Injera.jpg",
+      "answer": "Injera"
+    },
+    {
+      "file": "Jollof rice.jpg",
+      "answer": "Jollof rice"
+    },
+    {
+      "file": "Paella.jpg",
+      "answer": "Paella"
+    },
+    {
+      "file": "Pap.jpg",
+      "answer": "Pap"
+    },
+    {
+      "file": "Pizza.jpg",
+      "answer": "Pizza"
+    },
+    {
+      "file": "Sushi.jpg",
+      "answer": "Sushi"
+    },
+    {
+      "file": "Taco.jpg",
+      "answer": "Taco"
+    },
+    {
+      "file": "Tagine.jpg",
+      "answer": "Tagine"
+    }
+  ],
+  "Fruits": [
+    {
+      "file": "Avocado.jpg",
+      "answer": "Avocado"
+    },
+    {
+      "file": "Banana.jpg",
+      "answer": "Banana"
+    },
+    {
+      "file": "Dragon fruit.jpg",
+      "answer": "Dragon fruit"
+    },
+    {
+      "file": "Guava.jpg",
+      "answer": "Guava"
+    },
+    {
+      "file": "Mango.jpg",
+      "answer": "Mango"
+    },
+    {
+      "file": "Papaya.jpg",
+      "answer": "Papaya"
+    },
+    {
+      "file": "Pineapple.jpg",
+      "answer": "Pineapple"
+    },
+    {
+      "file": "Pomegranate.jpg",
+      "answer": "Pomegranate"
+    },
+    {
+      "file": "Strawberry.jpg",
+      "answer": "Strawberry"
+    },
+    {
+      "file": "Watermelon.jpg",
+      "answer": "Watermelon"
+    }
+  ],
+  "Indigenous African Games": [
+    {
+      "file": "Bao.jpg",
+      "answer": "Bao"
+    },
+    {
+      "file": "Dambe.jpg",
+      "answer": "Dambe"
+    },
+    {
+      "file": "Mancala.jpg",
+      "answer": "Mancala"
+    },
+    {
+      "file": "Morabaraba.png",
+      "answer": "Morabaraba"
+    },
+    {
+      "file": "Oware.jpg",
+      "answer": "Oware"
+    },
+    {
+      "file": "Senet.jpg",
+      "answer": "Senet"
+    }
+  ],
+  "Insects": [
+    {
+      "file": "Ant.jpg",
+      "answer": "Ant"
+    },
+    {
+      "file": "Dragonfly.jpg",
+      "answer": "Dragonfly"
+    },
+    {
+      "file": "Grasshopper.jpg",
+      "answer": "Grasshopper"
+    },
+    {
+      "file": "Honey bee.jpg",
+      "answer": "Honey bee"
+    },
+    {
+      "file": "Ladybird.jpg",
+      "answer": "Ladybird"
+    },
+    {
+      "file": "Monarch butterfly.jpg",
+      "answer": "Monarch butterfly"
+    },
+    {
+      "file": "Mosquito.jpg",
+      "answer": "Mosquito"
+    },
+    {
+      "file": "Praying mantis.jpg",
+      "answer": "Praying mantis"
+    },
+    {
+      "file": "Stag beetle.jpg",
+      "answer": "Stag beetle"
+    },
+    {
+      "file": "Termite.jpg",
+      "answer": "Termite"
+    }
+  ],
+  "K53 Road Signs": [
+    {
+      "file": "Cyclists only.png",
+      "answer": "Cyclists only"
+    },
+    {
+      "file": "Four-way stop.png",
+      "answer": "Four-way stop"
+    },
+    {
+      "file": "Keep left.png",
+      "answer": "Keep left"
+    },
+    {
+      "file": "Keep right.png",
+      "answer": "Keep right"
+    },
+    {
+      "file": "No entry.png",
+      "answer": "No entry"
+    },
+    {
+      "file": "One-way roadway.png",
+      "answer": "One-way roadway"
+    },
+    {
+      "file": "Pedestrians only.png",
+      "answer": "Pedestrians only"
+    },
+    {
+      "file": "Proceed straight.png",
+      "answer": "Proceed straight"
+    },
+    {
+      "file": "Roundabout.png",
+      "answer": "Roundabout"
+    },
+    {
+      "file": "Stop.png",
+      "answer": "Stop"
+    },
+    {
+      "file": "Turn left.png",
+      "answer": "Turn left"
+    },
+    {
+      "file": "Turn right.png",
+      "answer": "Turn right"
+    },
+    {
+      "file": "Yield at roundabout.png",
+      "answer": "Yield at roundabout"
+    },
+    {
+      "file": "Yield to pedestrians.png",
+      "answer": "Yield to pedestrians"
+    },
+    {
+      "file": "Yield.png",
+      "answer": "Yield"
+    }
+  ],
+  "Landmarks": [
+    {
+      "file": "Christ the Redeemer.jpg",
+      "answer": "Christ the Redeemer"
+    },
+    {
+      "file": "Colosseum.jpg",
+      "answer": "Colosseum"
+    },
+    {
+      "file": "Eiffel Tower.jpg",
+      "answer": "Eiffel Tower"
+    },
+    {
+      "file": "Great Pyramid of Giza.jpg",
+      "answer": "Great Pyramid of Giza"
+    },
+    {
+      "file": "Great Wall of China.jpg",
+      "answer": "Great Wall of China"
+    },
+    {
+      "file": "Great Zimbabwe.jpg",
+      "answer": "Great Zimbabwe"
+    },
+    {
+      "file": "Statue of Liberty.jpg",
+      "answer": "Statue of Liberty"
+    },
+    {
+      "file": "Table Mountain.jpg",
+      "answer": "Table Mountain"
+    },
+    {
+      "file": "Taj Mahal.jpg",
+      "answer": "Taj Mahal"
+    },
+    {
+      "file": "Victoria Falls.jpg",
+      "answer": "Victoria Falls"
+    }
+  ],
+  "Musical Instruments": [
+    {
+      "file": "Accordion.jpg",
+      "answer": "Accordion"
+    },
+    {
+      "file": "Djembe.jpg",
+      "answer": "Djembe"
+    },
+    {
+      "file": "Guitar.png",
+      "answer": "Guitar"
+    },
+    {
+      "file": "Kora.jpg",
+      "answer": "Kora"
+    },
+    {
+      "file": "Marimba.jpg",
+      "answer": "Marimba"
+    },
+    {
+      "file": "Mbira.jpg",
+      "answer": "Mbira"
+    },
+    {
+      "file": "Piano.jpg",
+      "answer": "Piano"
+    },
+    {
+      "file": "Saxophone.png",
+      "answer": "Saxophone"
+    },
+    {
+      "file": "Trumpet.jpg",
+      "answer": "Trumpet"
+    },
+    {
+      "file": "Violin.png",
+      "answer": "Violin"
+    }
+  ],
+  "Nature": [
+    {
+      "file": "Aurora.jpg",
+      "answer": "Aurora"
+    },
+    {
+      "file": "Cave.jpg",
+      "answer": "Cave"
+    },
+    {
+      "file": "Coral reef.jpg",
+      "answer": "Coral reef"
+    },
+    {
+      "file": "Glacier.jpg",
+      "answer": "Glacier"
+    },
+    {
+      "file": "Iceberg.jpg",
+      "answer": "Iceberg"
+    },
+    {
+      "file": "Rainbow.jpg",
+      "answer": "Rainbow"
+    },
+    {
+      "file": "Sand dune.jpg",
+      "answer": "Sand dune"
+    },
+    {
+      "file": "Tornado.jpg",
+      "answer": "Tornado"
+    },
+    {
+      "file": "Volcano.jpg",
+      "answer": "Volcano"
+    },
+    {
+      "file": "Waterfall.jpg",
+      "answer": "Waterfall"
+    }
+  ],
+  "Sports Equipment": [
+    {
+      "file": "Baseball glove.jpg",
+      "answer": "Baseball glove"
+    },
+    {
+      "file": "Basketball.png",
+      "answer": "Basketball"
+    },
+    {
+      "file": "Boxing glove.jpg",
+      "answer": "Boxing glove"
+    },
+    {
+      "file": "Cricket bat.jpg",
+      "answer": "Cricket bat"
+    },
+    {
+      "file": "Golf club.jpg",
+      "answer": "Golf club"
+    },
+    {
+      "file": "Hockey stick.jpg",
+      "answer": "Hockey stick"
+    },
+    {
+      "file": "Rugby ball.jpg",
+      "answer": "Rugby ball"
+    },
+    {
+      "file": "Shuttlecock.jpg",
+      "answer": "Shuttlecock"
+    },
+    {
+      "file": "Tennis racket.jpg",
+      "answer": "Tennis racket"
+    }
+  ],
+  "Tools": [
+    {
+      "file": "Axe.jpg",
+      "answer": "Axe"
+    },
+    {
+      "file": "Hammer.jpg",
+      "answer": "Hammer"
+    },
+    {
+      "file": "Handsaw.jpg",
+      "answer": "Handsaw"
+    },
+    {
+      "file": "Pliers.jpg",
+      "answer": "Pliers"
+    },
+    {
+      "file": "Screwdriver.jpg",
+      "answer": "Screwdriver"
+    },
+    {
+      "file": "Shovel.jpg",
+      "answer": "Shovel"
+    },
+    {
+      "file": "Spanner.jpg",
+      "answer": "Spanner"
+    },
+    {
+      "file": "Spirit level.jpg",
+      "answer": "Spirit level"
+    },
+    {
+      "file": "Tape measure.jpg",
+      "answer": "Tape measure"
+    },
+    {
+      "file": "Wheelbarrow.jpg",
+      "answer": "Wheelbarrow"
+    }
+  ],
+  "Vegetables": [
+    {
+      "file": "Beetroot.png",
+      "answer": "Beetroot"
+    },
+    {
+      "file": "Broccoli.jpg",
+      "answer": "Broccoli"
+    },
+    {
+      "file": "Cabbage.jpg",
+      "answer": "Cabbage"
+    },
+    {
+      "file": "Carrot.jpg",
+      "answer": "Carrot"
+    },
+    {
+      "file": "Cauliflower.jpg",
+      "answer": "Cauliflower"
+    },
+    {
+      "file": "Eggplant.jpg",
+      "answer": "Eggplant"
+    },
+    {
+      "file": "Okra.jpg",
+      "answer": "Okra"
+    },
+    {
+      "file": "Onion.jpg",
+      "answer": "Onion"
+    },
+    {
+      "file": "Spinach.jpg",
+      "answer": "Spinach"
+    },
+    {
+      "file": "Sweet potato.jpg",
+      "answer": "Sweet potato"
+    }
+  ],
+  "Vehicles": [
+    {
+      "file": "Ambulance.jpg",
+      "answer": "Ambulance"
+    },
+    {
+      "file": "Bicycle.jpg",
+      "answer": "Bicycle"
+    },
+    {
+      "file": "Excavator.jpg",
+      "answer": "Excavator"
+    },
+    {
+      "file": "Fire engine.jpg",
+      "answer": "Fire engine"
+    },
+    {
+      "file": "Helicopter.jpg",
+      "answer": "Helicopter"
+    },
+    {
+      "file": "Hot air balloon.jpg",
+      "answer": "Hot air balloon"
+    },
+    {
+      "file": "Motorcycle.jpg",
+      "answer": "Motorcycle"
+    },
+    {
+      "file": "Sailboat.png",
+      "answer": "Sailboat"
+    },
+    {
+      "file": "Submarine.jpg",
+      "answer": "Submarine"
+    },
+    {
+      "file": "Tractor.jpg",
+      "answer": "Tractor"
     }
   ]
 }
