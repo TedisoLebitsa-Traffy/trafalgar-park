@@ -1,0 +1,1062 @@
+{
+  "#Anime Characters::Ichigo Kurosaki": {
+    "atlas": "anime.png",
+    "cell": 3
+  },
+  "#Anime Characters::Izuku Midoriya": {
+    "atlas": "anime.png",
+    "cell": 4
+  },
+  "#Anime Characters::Monkey D. Luffy": {
+    "atlas": "anime.png",
+    "cell": 1
+  },
+  "#Anime Characters::Naruto Uzumaki": {
+    "atlas": "anime.png",
+    "cell": 0
+  },
+  "#Anime Characters::Son Goku": {
+    "atlas": "anime.png",
+    "cell": 2
+  },
+  "#Anime Characters::Tanjiro Kamado": {
+    "atlas": "anime.png",
+    "cell": 5
+  },
+  "#Cartoon Shows::Scooby-Doo": {
+    "atlas": "cartoons.png",
+    "cell": 5
+  },
+  "#Cartoon Shows::Tom and Jerry": {
+    "atlas": "cartoons.png",
+    "cell": 4
+  },
+  "#Fictional Creatures::Dragon": {
+    "atlas": "creatures.png",
+    "cell": 0
+  },
+  "#Video Games::Pokemon": {
+    "atlas": "video-games.png",
+    "cell": 3
+  },
+  "$Animals::Aardvark": {
+    "media": "assets/pictures/Animals/Aardvark.jpg"
+  },
+  "$Animals::African elephant": {
+    "media": "assets/pictures/Animals/African elephant.jpg"
+  },
+  "$Animals::Brown bear": {
+    "media": "assets/pictures/Animals/Brown bear.jpg"
+  },
+  "$Animals::Giant panda": {
+    "media": "assets/pictures/Animals/Giant panda.jpg"
+  },
+  "$Animals::Gorilla": {
+    "media": "assets/pictures/Animals/Gorilla.jpg"
+  },
+  "$Animals::Gray wolf": {
+    "media": "assets/pictures/Animals/Gray wolf.jpg"
+  },
+  "$Animals::Lion": {
+    "media": "assets/pictures/Animals/Lion.jpg"
+  },
+  "$Animals::Meerkat": {
+    "media": "assets/pictures/Animals/Meerkat.jpg"
+  },
+  "$Animals::Raccoon": {
+    "media": "assets/pictures/Animals/Raccoon.jpg"
+  },
+  "$Animals::Red fox": {
+    "media": "assets/pictures/Animals/Red fox.jpg"
+  },
+  "$Animals::Warthog": {
+    "media": "assets/pictures/Animals/Warthog.jpg"
+  },
+  "$Animals::Zebra": {
+    "media": "assets/pictures/Animals/Zebra.jpg"
+  },
+  "$Basketball": {
+    "media": "assets/pictures/Sports Equipment/Basketball.png"
+  },
+  "$Birds::African penguin": {
+    "media": "assets/pictures/Birds/African penguin.jpg"
+  },
+  "$Birds::Budgerigar": {
+    "media": "assets/pictures/Birds/Budgerigar.jpg"
+  },
+  "$Birds::Common raven": {
+    "media": "assets/pictures/Birds/Common raven.jpg"
+  },
+  "$Birds::Mallard": {
+    "media": "assets/pictures/Birds/Mallard.jpg"
+  },
+  "$Birds::Ostrich": {
+    "media": "assets/pictures/Birds/Ostrich.jpg"
+  },
+  "$Boxing glove": {
+    "media": "assets/pictures/Sports Equipment/Boxing glove.jpg"
+  },
+  "$Car": {
+    "media": "assets/pictures/Vehicles/Car.jpg"
+  },
+  "$Carrot": {
+    "media": "assets/pictures/Vegetables/Carrot.jpg"
+  },
+  "$Cat": {
+    "media": "assets/clue-photos/Cat-9b58d2.jpg"
+  },
+  "$Chemical Symbols::Iron": {
+    "media": "assets/pictures/Chemical Symbols/Iron.svg"
+  },
+  "$Chemical Symbols::Silicon": {
+    "media": "assets/pictures/Chemical Symbols/Silicon.svg"
+  },
+  "$Coffee": {
+    "media": "assets/clue-photos/Coffee-39986c.jpg"
+  },
+  "$Cow": {
+    "media": "assets/clue-photos/Cow-fc8ac5.jpg"
+  },
+  "$Dinosaur": {
+    "media": "assets/clue-photos/Dinosaur-82537d.jpg"
+  },
+  "$Disney Characters::Aladdin": {
+    "media": "assets/pictures/Disney Characters/Aladdin.jpg"
+  },
+  "$Disney Characters::Ariel": {
+    "media": "assets/pictures/Disney Characters/Ariel.jpg"
+  },
+  "$Dog": {
+    "media": "assets/clue-photos/Dog-2d5c03.png"
+  },
+  "$Fishing rod": {
+    "media": "assets/clue-photos/Fishing rod-2fd8b1.jpg"
+  },
+  "$Food::Lasagna": {
+    "media": "assets/clue-photos/FoodLasagna-b2bb34.jpg"
+  },
+  "$Food::Pizza": {
+    "media": "assets/pictures/Food/Pizza.jpg"
+  },
+  "$Food::Vetkoek": {
+    "media": "assets/pictures/Food/Vetkoek.jpg"
+  },
+  "$Football": {
+    "media": "assets/pictures/Sports Equipment/Football.jpg"
+  },
+  "$Frog": {
+    "media": "assets/clue-photos/Frog-d7c7f4.jpg"
+  },
+  "$Fruits::Apple": {
+    "media": "assets/pictures/Fruits/Apple.jpg"
+  },
+  "$Fruits::Banana": {
+    "media": "assets/pictures/Fruits/Banana.jpg"
+  },
+  "$Fruits::Mango": {
+    "media": "assets/pictures/Fruits/Mango.jpg"
+  },
+  "$Great Wall of China": {
+    "media": "assets/pictures/Landmarks/Great Wall of China.jpg"
+  },
+  "$Guinea pig": {
+    "media": "assets/clue-photos/Guinea pig-de1b76.jpg"
+  },
+  "$Hedgehog": {
+    "media": "assets/clue-photos/Hedgehog-23f468.jpg"
+  },
+  "$Jump rope": {
+    "media": "assets/clue-photos/Jump rope-d5f11e.jpg"
+  },
+  "$Landmarks::Petra": {
+    "media": "assets/pictures/Landmarks/Petra.jpg"
+  },
+  "$Lemur": {
+    "media": "assets/clue-photos/Lemur-ccc977.jpg"
+  },
+  "$Llama": {
+    "media": "assets/clue-photos/Llama-00971f.jpg"
+  },
+  "$Locomotive": {
+    "media": "assets/pictures/Vehicles/Locomotive.jpg"
+  },
+  "$Mallard": {
+    "media": "assets/pictures/Birds/Mallard.jpg"
+  },
+  "$Microphone": {
+    "media": "assets/clue-photos/Microphone-38c786.jpg"
+  },
+  "$Monkey": {
+    "media": "assets/clue-photos/Monkey-de87af.jpg"
+  },
+  "$Mouse": {
+    "media": "assets/clue-photos/Mouse-423cfe.jpg"
+  },
+  "$Musical Instruments::Guitar": {
+    "media": "assets/pictures/Musical Instruments/Guitar.png"
+  },
+  "$Musical Instruments::Piano": {
+    "media": "assets/pictures/Musical Instruments/Piano.jpg"
+  },
+  "$Nature::Beach": {
+    "media": "assets/pictures/Nature/Beach.jpg"
+  },
+  "$Nature::Fog": {
+    "media": "assets/clue-photos/NatureFog-9a3f72.jpg"
+  },
+  "$Nature::River": {
+    "media": "assets/pictures/Nature/River.jpg"
+  },
+  "$Octopus": {
+    "media": "assets/clue-photos/Octopus-2faff9.jpg"
+  },
+  "$Orca": {
+    "media": "assets/clue-photos/Orca-af9bc3.jpg"
+  },
+  "$Pig": {
+    "media": "assets/clue-photos/Pig-3f9e3f.jpg"
+  },
+  "$Pixar Characters::Dory": {
+    "media": "assets/pictures/Pixar Characters/Dory.jpg"
+  },
+  "$Pixar Characters::Lightning McQueen": {
+    "media": "assets/pictures/Pixar Characters/Lightning McQueen.jpg"
+  },
+  "$Pixar Characters::WALL-E": {
+    "media": "assets/pictures/Pixar Characters/WALL-E.jpg"
+  },
+  "$Rabbit": {
+    "media": "assets/clue-photos/Rabbit-eefef0.jpg"
+  },
+  "$Rat": {
+    "media": "assets/clue-photos/Rat-9bd8f4.jpg"
+  },
+  "$Rose": {
+    "media": "assets/clue-photos/Rose-168357.jpg"
+  },
+  "$Sailboat": {
+    "media": "assets/pictures/Vehicles/Sailboat.png"
+  },
+  "$Sports Equipment::Archery bow": {
+    "media": "assets/clue-photos/Sports EquipmentArchery bow-3fb3b4.jpg"
+  },
+  "$Sports Equipment::Baseball": {
+    "media": "assets/pictures/Sports Equipment/Baseball.jpg"
+  },
+  "$Sports Equipment::Basketball": {
+    "media": "assets/pictures/Sports Equipment/Basketball.png"
+  },
+  "$Sports Equipment::Boxing glove": {
+    "media": "assets/pictures/Sports Equipment/Boxing glove.jpg"
+  },
+  "$Sports Equipment::Football": {
+    "media": "assets/pictures/Sports Equipment/Football.jpg"
+  },
+  "$Sports Equipment::Ice hockey puck": {
+    "media": "assets/pictures/Sports Equipment/Ice hockey puck.jpg"
+  },
+  "$Tools::Axe": {
+    "media": "assets/pictures/Tools/Axe.jpg"
+  },
+  "$Tools::Hammer": {
+    "media": "assets/pictures/Tools/Hammer.jpg"
+  },
+  "$Tools::Hoe": {
+    "media": "assets/pictures/Tools/Hoe.jpg"
+  },
+  "$Tools::Pickaxe": {
+    "media": "assets/pictures/Tools/Pickaxe.jpg"
+  },
+  "$Tools::Utility knife": {
+    "media": "assets/pictures/Tools/Utility knife.jpg"
+  },
+  "$Turtle": {
+    "media": "assets/clue-photos/Turtle-06633d.jpg"
+  },
+  "$Vegetables::Pumpkin": {
+    "media": "assets/pictures/Vegetables/Pumpkin.jpg"
+  },
+  "$Vegetables::Spinach": {
+    "media": "assets/pictures/Vegetables/Spinach.jpg"
+  },
+  "$Vehicles::Airliner": {
+    "media": "assets/pictures/Vehicles/Airliner.jpg"
+  },
+  "$Vehicles::Bulldozer": {
+    "media": "assets/pictures/Vehicles/Bulldozer.jpg"
+  },
+  "$Vehicles::Bus": {
+    "media": "assets/pictures/Vehicles/Bus.jpg"
+  },
+  "$Vehicles::Car": {
+    "media": "assets/pictures/Vehicles/Car.jpg"
+  },
+  "$Vehicles::Fire engine": {
+    "media": "assets/pictures/Vehicles/Fire engine.jpg"
+  },
+  "$Vehicles::Hot air balloon": {
+    "media": "assets/pictures/Vehicles/Hot air balloon.jpg"
+  },
+  "$Vehicles::Locomotive": {
+    "media": "assets/pictures/Vehicles/Locomotive.jpg"
+  },
+  "$Vehicles::Minibus": {
+    "media": "assets/pictures/Vehicles/Minibus.jpg"
+  },
+  "$Vehicles::Sailboat": {
+    "media": "assets/pictures/Vehicles/Sailboat.png"
+  },
+  "$Vehicles::Submarine": {
+    "media": "assets/pictures/Vehicles/Submarine.jpg"
+  },
+  "$Vehicles::Van": {
+    "media": "assets/pictures/Vehicles/Van.jpg"
+  },
+  "$Volleyball": {
+    "media": "assets/pictures/Sports Equipment/Volleyball.jpg"
+  },
+  "@Alan Rickman": {
+    "media": "assets/clue-photos/Alan Rickman-0fa3d6.jpg"
+  },
+  "@Alfred Molina": {
+    "media": "assets/clue-photos/Alfred Molina-e28f38.jpg"
+  },
+  "@Amy Poehler": {
+    "media": "assets/clue-photos/Amy Poehler-13645d.jpg"
+  },
+  "@Angela Lansbury": {
+    "media": "assets/clue-photos/Angela Lansbury-1e1077.jpg"
+  },
+  "@Anthony Hopkins": {
+    "media": "assets/clue-photos/Anthony Hopkins-d16981.jpg"
+  },
+  "@Anthony Mackie": {
+    "media": "assets/clue-photos/Anthony Mackie-e10e41.jpg"
+  },
+  "@Arnold Schwarzenegger": {
+    "media": "assets/clue-photos/Arnold Schwarzenegger-63fc53.jpg"
+  },
+  "@Audrey Tautou": {
+    "media": "assets/clue-photos/Audrey Tautou-6c8777.jpg"
+  },
+  "@Benedict Cumberbatch": {
+    "media": "assets/clue-photos/Benedict Cumberbatch-90ad13.jpg"
+  },
+  "@Betty White": {
+    "media": "assets/clue-photos/Betty White-cd8643.jpg"
+  },
+  "@Bill Hader": {
+    "media": "assets/clue-photos/Bill Hader-d0b266.jpg"
+  },
+  "@Bill Murray": {
+    "media": "assets/clue-photos/Bill Murray-53ae60.jpg"
+  },
+  "@Bill Skarsgård": {
+    "media": "assets/clue-photos/Bill Skarsgard-9a54cb.jpg"
+  },
+  "@Billy Crystal": {
+    "media": "assets/clue-photos/Billy Crystal-d01899.jpg"
+  },
+  "@Bonang Matheba": {
+    "media": "assets/clue-photos/Bonang Matheba-f2ca5c.jpg"
+  },
+  "@Brad Dourif": {
+    "media": "assets/clue-photos/Brad Dourif-0251b1.jpg"
+  },
+  "@Bradley Cooper": {
+    "media": "assets/clue-photos/Bradley Cooper-e27763.jpg"
+  },
+  "@Brendan Fraser": {
+    "media": "assets/clue-photos/Brendan Fraser-f78c51.jpg"
+  },
+  "@Brie Larson": {
+    "media": "assets/clue-photos/Brie Larson-9669ba.jpg"
+  },
+  "@Bruce Lee": {
+    "media": "assets/clue-photos/Bruce Lee-74b522.jpg"
+  },
+  "@Bruce Willis": {
+    "media": "assets/clue-photos/Bruce Willis-1f37aa.jpg"
+  },
+  "@Bryan Cranston": {
+    "media": "assets/clue-photos/Bryan Cranston-972db2.jpg"
+  },
+  "@Carrie Fisher": {
+    "media": "assets/clue-photos/Carrie Fisher-1422b7.jpg"
+  },
+  "@Carson Daly": {
+    "media": "assets/clue-photos/Carson Daly-e95339.jpg"
+  },
+  "@Chadwick Boseman": {
+    "media": "assets/clue-photos/Chadwick Boseman-5602bc.jpg"
+  },
+  "@Charlize Theron": {
+    "media": "assets/clue-photos/Charlize Theron-a20396.jpg"
+  },
+  "@Chris Evans": {
+    "media": "assets/clue-photos/Chris Evans-6d22fc.jpg"
+  },
+  "@Chris Hemsworth": {
+    "media": "assets/clue-photos/Chris Hemsworth-bc5a2e.jpg"
+  },
+  "@Chris Pratt": {
+    "media": "assets/clue-photos/Chris Pratt-c11552.jpg"
+  },
+  "@Christian Bale": {
+    "media": "assets/clue-photos/Christian Bale-8ad8c1.jpg"
+  },
+  "@Christopher Lee": {
+    "media": "assets/clue-photos/Christopher Lee-b9f61c.jpg"
+  },
+  "@Christopher Lloyd": {
+    "media": "assets/clue-photos/Christopher Lloyd-b17190.jpg"
+  },
+  "@Chuck Norris": {
+    "media": "assets/clue-photos/Chuck Norris-281dad.jpg"
+  },
+  "@Cillian Murphy": {
+    "media": "assets/clue-photos/Cillian Murphy-285fe5.jpg"
+  },
+  "@Claire Foy": {
+    "media": "assets/clue-photos/Claire Foy-abef0b.jpg"
+  },
+  "@Connie Ferguson": {
+    "media": "assets/clue-photos/Connie Ferguson-bf94f1.jpg"
+  },
+  "@Craig T. Nelson": {
+    "media": "assets/clue-photos/Craig T Nelson-0866bd.jpg"
+  },
+  "@Danny Glover": {
+    "media": "assets/clue-photos/Danny Glover-ed18d0.jpg"
+  },
+  "@David Duchovny": {
+    "media": "assets/clue-photos/David Duchovny-a889ff.jpg"
+  },
+  "@David Hasselhoff": {
+    "media": "assets/clue-photos/David Hasselhoff-d45d65.jpg"
+  },
+  "@David Tennant": {
+    "media": "assets/clue-photos/David Tennant-ca5a40.jpg"
+  },
+  "@Dawn French": {
+    "media": "assets/clue-photos/Dawn French-372233.jpg"
+  },
+  "@Deidre Hall": {
+    "media": "assets/clue-photos/Deidre Hall-42e0ab.jpg"
+  },
+  "@Don Cheadle": {
+    "media": "assets/clue-photos/Don Cheadle-89f63b.jpg"
+  },
+  "@Don Johnson": {
+    "media": "assets/clue-photos/Don Johnson-a5d65d.jpg"
+  },
+  "@Ed O'Neill": {
+    "media": "assets/clue-photos/Ed ONeill-4bad2c.jpg"
+  },
+  "@Eddie Murphy": {
+    "media": "assets/clue-photos/Eddie Murphy-141a76.jpg"
+  },
+  "@Elijah Wood": {
+    "media": "assets/clue-photos/Elijah Wood-59ed7b.jpg"
+  },
+  "@Elizabeth Olsen": {
+    "media": "assets/clue-photos/Elizabeth Olsen-b9e204.png"
+  },
+  "@Ellen Pompeo": {
+    "media": "assets/clue-photos/Ellen Pompeo-fb50cb.jpg"
+  },
+  "@Emma Watson": {
+    "media": "assets/clue-photos/Emma Watson-7d6da5.jpg"
+  },
+  "@Evangeline Lilly": {
+    "media": "assets/clue-photos/Evangeline Lilly-8d8586.jpg"
+  },
+  "@Freddie Highmore": {
+    "media": "assets/clue-photos/Freddie Highmore-4fb1bf.jpg"
+  },
+  "@Gabriel Macht": {
+    "media": "assets/clue-photos/Gabriel Macht-cfaff4.jpg"
+  },
+  "@Gene Hackman": {
+    "media": "assets/clue-photos/Gene Hackman-0956da.jpg"
+  },
+  "@Glenn Close": {
+    "media": "assets/clue-photos/Glenn Close-d7c442.jpg"
+  },
+  "@Grant Gustin": {
+    "media": "assets/clue-photos/Grant Gustin-a9c3da.jpg"
+  },
+  "@Harrison Ford": {
+    "media": "assets/clue-photos/Harrison Ford-61f805.jpg"
+  },
+  "@Holly Hunter": {
+    "media": "assets/clue-photos/Holly Hunter-dbc746.jpg"
+  },
+  "@Hugh Jackman": {
+    "media": "assets/clue-photos/Hugh Jackman-6fb150.jpg"
+  },
+  "@Hugh Laurie": {
+    "media": "assets/clue-photos/Hugh Laurie-b5eb10.jpg"
+  },
+  "@Hugo Weaving": {
+    "media": "assets/clue-photos/Hugo Weaving-82aed0.jpg"
+  },
+  "@Hulk Hogan": {
+    "media": "assets/clue-photos/Hulk Hogan-a9d9f0.jpg"
+  },
+  "@Ian McDiarmid": {
+    "media": "assets/clue-photos/Ian McDiarmid-311986.jpg"
+  },
+  "@Ian McKellen": {
+    "media": "assets/clue-photos/Ian McKellen-b918f6.jpg"
+  },
+  "@Jackie Chan": {
+    "media": "assets/clue-photos/Jackie Chan-d51d28.jpg"
+  },
+  "@James Woods": {
+    "media": "assets/clue-photos/James Woods-e0d72d.jpg"
+  },
+  "@Jason Momoa": {
+    "media": "assets/clue-photos/Jason Momoa-240bcc.jpg"
+  },
+  "@Jason Statham": {
+    "media": "assets/clue-photos/Jason Statham-1f1863.jpg"
+  },
+  "@Jean-Claude Van Damme": {
+    "media": "assets/clue-photos/Jean-Claude Van Damme-bb9ab2.jpg"
+  },
+  "@Jennifer Aniston": {
+    "media": "assets/clue-photos/Jennifer Aniston-643bfd.jpg"
+  },
+  "@Jennifer Lawrence": {
+    "media": "assets/clue-photos/Jennifer Lawrence-af08ae.jpg"
+  },
+  "@Jensen Ackles": {
+    "media": "assets/clue-photos/Jensen Ackles-a20761.jpg"
+  },
+  "@Jeremy Irons": {
+    "media": "assets/clue-photos/Jeremy Irons-3bfbc0.jpg"
+  },
+  "@Jeremy Renner": {
+    "media": "assets/clue-photos/Jeremy Renner-8d1bb9.jpg"
+  },
+  "@Jerry Seinfeld": {
+    "media": "assets/clue-photos/Jerry Seinfeld-c8f5f8.jpg"
+  },
+  "@Jerry Springer": {
+    "media": "assets/clue-photos/Jerry Springer-14a1d4.jpg"
+  },
+  "@Jim Carrey": {
+    "media": "assets/clue-photos/Jim Carrey-240420.png"
+  },
+  "@Jim Parsons": {
+    "media": "assets/clue-photos/Jim Parsons-fce946.jpg"
+  },
+  "@Joan Collins": {
+    "media": "assets/clue-photos/Joan Collins-884ae7.jpg"
+  },
+  "@Jodie Foster": {
+    "media": "assets/clue-photos/Jodie Foster-efafab.jpg"
+  },
+  "@John Cleese": {
+    "media": "assets/clue-photos/John Cleese-255169.jpg"
+  },
+  "@John Goodman": {
+    "media": "assets/clue-photos/John Goodman-c4aa22.jpg"
+  },
+  "@John Kani": {
+    "media": "assets/clue-photos/John Kani-f45983.jpg"
+  },
+  "@John Travolta": {
+    "media": "assets/clue-photos/John Travolta-977c06.jpg"
+  },
+  "@Johnny Depp": {
+    "media": "assets/clue-photos/Johnny Depp-7798d8.jpg"
+  },
+  "@Jools Holland": {
+    "media": "assets/clue-photos/Jools Holland-14243b.jpg"
+  },
+  "@Julie Andrews": {
+    "media": "assets/clue-photos/Julie Andrews-ab9d89.jpg"
+  },
+  "@Katherine Kelly Lang": {
+    "media": "assets/clue-photos/Katherine Kelly Lang-5cf1a3.jpg"
+  },
+  "@Keanu Reeves": {
+    "media": "assets/clue-photos/Keanu Reeves-e2c8ed.jpg"
+  },
+  "@Kelsey Grammer": {
+    "media": "assets/clue-photos/Kelsey Grammer-059f9c.jpg"
+  },
+  "@Kevin Sorbo": {
+    "media": "assets/clue-photos/Kevin Sorbo-b1d4ae.jpg"
+  },
+  "@Kevin Spacey": {
+    "media": "assets/clue-photos/Kevin Spacey-c46214.jpg"
+  },
+  "@Larry Hagman": {
+    "media": "assets/clue-photos/Larry Hagman-e4e032.jpg"
+  },
+  "@Leanne Manas": {
+    "media": "assets/clue-photos/Leanne Manas-portrait.jpg"
+  },
+  "@Lewis Black": {
+    "media": "assets/clue-photos/Lewis Black-cfc47d.jpg"
+  },
+  "@Lindsay Lohan": {
+    "media": "assets/clue-photos/Lindsay Lohan-e76784.jpg"
+  },
+  "@Lucy Lawless": {
+    "media": "assets/clue-photos/Lucy Lawless-e3c664.jpg"
+  },
+  "@Macaulay Culkin": {
+    "media": "assets/clue-photos/Macaulay Culkin-737504.jpg"
+  },
+  "@Maggie Smith": {
+    "media": "assets/clue-photos/Maggie Smith-ec9c29.jpg"
+  },
+  "@Mark Hamill": {
+    "media": "assets/clue-photos/Mark Hamill-b8d94e.jpg"
+  },
+  "@Mark Harmon": {
+    "media": "assets/clue-photos/Mark Harmon-a00fe4.jpg"
+  },
+  "@Mark Ruffalo": {
+    "media": "assets/clue-photos/Mark Ruffalo-f2568f.jpg"
+  },
+  "@Marlon Brando": {
+    "media": "assets/clue-photos/Marlon Brando-f9f179.png"
+  },
+  "@Matthew Fox": {
+    "media": "assets/clue-photos/Matthew Fox-3391bc.jpg"
+  },
+  "@Mel Gibson": {
+    "media": "assets/clue-photos/Mel Gibson-02c7d2.jpg"
+  },
+  "@Melissa Benoist": {
+    "media": "assets/clue-photos/Melissa Benoist-d28b45.jpg"
+  },
+  "@Melissa Joan Hart": {
+    "media": "assets/clue-photos/Melissa Joan Hart-424e94.jpg"
+  },
+  "@Michael B. Jordan": {
+    "media": "assets/clue-photos/Michael B Jordan-9cb61e.jpg"
+  },
+  "@Michael J. Fox": {
+    "media": "assets/clue-photos/Michael J Fox-38f728.jpg"
+  },
+  "@Michael Jordan": {
+    "media": "assets/pictures/Athletes/Michael Jordan.jpg"
+  },
+  "@Michael Keaton": {
+    "media": "assets/clue-photos/Michael Keaton-10b175.jpg"
+  },
+  "@Mindy Kaling": {
+    "media": "assets/clue-photos/Mindy Kaling-db783c.jpg"
+  },
+  "@Mr. T": {
+    "media": "assets/clue-photos/Mr T-3e85b3.jpg"
+  },
+  "@Neil Patrick Harris": {
+    "media": "assets/clue-photos/Neil Patrick Harris-c24f95.jpg"
+  },
+  "@Nicolas Cage": {
+    "media": "assets/clue-photos/Nicolas Cage-6874a7.jpg"
+  },
+  "@Omar Sy": {
+    "media": "assets/clue-photos/Omar Sy-224a9c.jpg"
+  },
+  "@Oprah Winfrey": {
+    "media": "assets/clue-photos/Oprah Winfrey-c457f6.jpg"
+  },
+  "@Orlando Bloom": {
+    "media": "assets/clue-photos/Orlando Bloom-be34fa.jpg"
+  },
+  "@Paul Bettany": {
+    "media": "assets/clue-photos/Paul Bettany-3d6617.jpg"
+  },
+  "@Paul Rudd": {
+    "media": "assets/clue-photos/Paul Rudd-56cf06.jpg"
+  },
+  "@Pedro Pascal": {
+    "media": "assets/clue-photos/Pedro Pascal-6f17d9.jpg"
+  },
+  "@Peter Dinklage": {
+    "media": "assets/clue-photos/Peter Dinklage-5f24d1.jpg"
+  },
+  "@Peter Falk": {
+    "media": "assets/clue-photos/Peter Falk-31dddf.jpg"
+  },
+  "@Phyllis Smith": {
+    "media": "assets/clue-photos/Phyllis Smith-6c7732.jpg"
+  },
+  "@Ralph Macchio": {
+    "media": "assets/clue-photos/Ralph Macchio-f65ba3.jpg"
+  },
+  "@Riaan Cruywagen": {
+    "media": "assets/clue-photos/Riaan Cruywagen-6c8a56.jpg"
+  },
+  "@Ricki Lake": {
+    "media": "assets/clue-photos/Ricki Lake-4a9acf.jpg"
+  },
+  "@Robert Downey Jr.": {
+    "media": "assets/clue-photos/Robert Downey Jr-595daf.jpg"
+  },
+  "@Robert Englund": {
+    "media": "assets/clue-photos/Robert Englund-0d2600.jpg"
+  },
+  "@Robin Williams": {
+    "media": "assets/clue-photos/Robin Williams-54a67c.jpg"
+  },
+  "@Rowan Atkinson": {
+    "media": "assets/clue-photos/Rowan Atkinson-8226d6.jpg"
+  },
+  "@Rupert Grint": {
+    "media": "assets/clue-photos/Rupert Grint-f94eb4.jpg"
+  },
+  "@Russell Crowe": {
+    "media": "assets/clue-photos/Russell Crowe-bda5e0.jpg"
+  },
+  "@Ryan Reynolds": {
+    "media": "assets/clue-photos/Ryan Reynolds-1e16d3.jpg"
+  },
+  "@Samuel L. Jackson": {
+    "media": "assets/clue-photos/Samuel L Jackson-b2ef7b.jpg"
+  },
+  "@Sarah Michelle Gellar": {
+    "media": "assets/clue-photos/Sarah Michelle Gellar-767fe1.jpg"
+  },
+  "@Scarlett Johansson": {
+    "media": "assets/clue-photos/Scarlett Johansson-baa83d.jpg"
+  },
+  "@Sharlto Copley": {
+    "media": "assets/clue-photos/Sharlto Copley-34fce0.jpg"
+  },
+  "@Sigourney Weaver": {
+    "media": "assets/clue-photos/Sigourney Weaver-e1a8d8.jpg"
+  },
+  "@Sofía Vergara": {
+    "media": "assets/clue-photos/Sofia Vergara-045a56.jpg"
+  },
+  "@Steve Carell": {
+    "media": "assets/clue-photos/Steve Carell-a91122.jpg"
+  },
+  "@Steve Harvey": {
+    "media": "assets/clue-photos/Steve Harvey-abd362.jpg"
+  },
+  "@Susan Lucci": {
+    "media": "assets/clue-photos/Susan Lucci-d7955a.jpg"
+  },
+  "@Sylvester Stallone": {
+    "media": "assets/clue-photos/Sylvester Stallone-1cc6e0.jpg"
+  },
+  "@Ted Danson": {
+    "media": "assets/clue-photos/Ted Danson-c3d1cf.jpg"
+  },
+  "@Terry Pheto": {
+    "media": "assets/clue-photos/Terry Pheto-2e6290.jpg"
+  },
+  "@Tom Cruise": {
+    "media": "assets/clue-photos/Tom Cruise-8200f0.jpg"
+  },
+  "@Tom Hanks": {
+    "media": "assets/clue-photos/Tom Hanks-903451.jpg"
+  },
+  "@Tom Hardy": {
+    "media": "assets/clue-photos/Tom Hardy-b0b0f8.jpg"
+  },
+  "@Tom Hiddleston": {
+    "media": "assets/clue-photos/Tom Hiddleston-c9036d.jpg"
+  },
+  "@Tom Holland": {
+    "media": "assets/clue-photos/Tom Holland-f9e64c.jpg"
+  },
+  "@Tom Selleck": {
+    "media": "assets/clue-photos/Tom Selleck-f2d636.jpg"
+  },
+  "@Tony Jaa": {
+    "media": "assets/clue-photos/Tony Jaa-fed162.jpg"
+  },
+  "@Trevor Noah": {
+    "media": "assets/clue-photos/Trevor Noah-b0a091.jpg"
+  },
+  "@Viggo Mortensen": {
+    "media": "assets/clue-photos/Viggo Mortensen-fd39d8.jpg"
+  },
+  "@Vin Diesel": {
+    "media": "assets/clue-photos/Vin Diesel-28b740.jpg"
+  },
+  "@Wentworth Miller": {
+    "media": "assets/clue-photos/Wentworth Miller-e7ec36.jpg"
+  },
+  "@Wesley Snipes": {
+    "media": "assets/clue-photos/Wesley Snipes-be6be6.jpg"
+  },
+  "@Whoopi Goldberg": {
+    "media": "assets/clue-photos/Whoopi Goldberg-beecc8.jpg"
+  },
+  "@Will Smith": {
+    "media": "assets/clue-photos/Will Smith-483328.jpg"
+  },
+  "@Willem Dafoe": {
+    "media": "assets/clue-photos/Willem Dafoe-39d2af.jpg"
+  },
+  "@William Petersen": {
+    "media": "assets/clue-photos/William Petersen-6134bc.jpg"
+  },
+  "@William Zabka": {
+    "media": "assets/clue-photos/William Zabka-ec058e.jpg"
+  },
+  "@Zachary Levi": {
+    "media": "assets/clue-photos/Zachary Levi-4f471d.jpg"
+  },
+  "@Zoe Saldaña": {
+    "media": "assets/clue-photos/Zoe Saldana-ff4144.jpg"
+  },
+  "@Álvaro Morte": {
+    "media": "assets/clue-photos/Alvaro Morte-46d1b2.jpg"
+  },
+  "^alien": {
+    "media": "assets/clue-symbols/alien.svg"
+  },
+  "^badge": {
+    "media": "assets/clue-symbols/badge.svg"
+  },
+  "^biohazard": {
+    "media": "assets/clue-symbols/biohazard.svg"
+  },
+  "^blocks": {
+    "media": "assets/clue-symbols/blocks.svg"
+  },
+  "^blue-bow": {
+    "media": "assets/clue-symbols/blue-bow.svg"
+  },
+  "^blue-cap": {
+    "media": "assets/clue-symbols/blue-cap.svg"
+  },
+  "^blue-heart": {
+    "media": "assets/clue-symbols/blue-heart.svg"
+  },
+  "^blue-monster": {
+    "media": "assets/clue-symbols/blue-monster.svg"
+  },
+  "^book": {
+    "media": "assets/clue-symbols/book.svg"
+  },
+  "^cards": {
+    "media": "assets/clue-symbols/cards.svg"
+  },
+  "^clover": {
+    "media": "assets/clue-symbols/clover.svg"
+  },
+  "^coins": {
+    "media": "assets/clue-symbols/coins.svg"
+  },
+  "^compass": {
+    "media": "assets/clue-symbols/compass.svg"
+  },
+  "^cowboy-hat": {
+    "media": "assets/clue-symbols/cowboy-hat.svg"
+  },
+  "^crowbar": {
+    "media": "assets/clue-symbols/crowbar.svg"
+  },
+  "^crown": {
+    "media": "assets/clue-symbols/crown.svg"
+  },
+  "^door": {
+    "media": "assets/clue-symbols/door.svg"
+  },
+  "^emotion": {
+    "media": "assets/clue-symbols/emotion.svg"
+  },
+  "^fairy": {
+    "media": "assets/clue-symbols/fairy.svg"
+  },
+  "^fanorona": {
+    "media": "assets/clue-symbols/fanorona.svg"
+  },
+  "^feet": {
+    "media": "assets/clue-symbols/feet.svg"
+  },
+  "^film": {
+    "media": "assets/clue-symbols/film.svg"
+  },
+  "^gem": {
+    "media": "assets/clue-symbols/gem.svg"
+  },
+  "^ghost": {
+    "media": "assets/clue-symbols/ghost.svg"
+  },
+  "^green-hat": {
+    "media": "assets/clue-symbols/green-hat.svg"
+  },
+  "^green-heart": {
+    "media": "assets/clue-symbols/green-heart.svg"
+  },
+  "^grid-five": {
+    "media": "assets/clue-symbols/grid-five.svg"
+  },
+  "^grid-six-five": {
+    "media": "assets/clue-symbols/grid-six-five.svg"
+  },
+  "^grid-three": {
+    "media": "assets/clue-symbols/grid-three.svg"
+  },
+  "^headband": {
+    "media": "assets/clue-symbols/headband.svg"
+  },
+  "^helmet": {
+    "media": "assets/clue-symbols/helmet.svg"
+  },
+  "^honey": {
+    "media": "assets/clue-symbols/honey.svg"
+  },
+  "^hood": {
+    "media": "assets/clue-symbols/hood.svg"
+  },
+  "^house": {
+    "media": "assets/clue-symbols/house.svg"
+  },
+  "^jukskei": {
+    "media": "assets/clue-symbols/jukskei.svg"
+  },
+  "^lamp": {
+    "media": "assets/clue-symbols/lamp.svg"
+  },
+  "^lightning": {
+    "media": "assets/clue-symbols/lightning.svg"
+  },
+  "^magic": {
+    "media": "assets/clue-symbols/magic.svg"
+  },
+  "^mancala-four": {
+    "media": "assets/clue-symbols/mancala-four.svg"
+  },
+  "^mancala-seven": {
+    "media": "assets/clue-symbols/mancala-seven.svg"
+  },
+  "^mancala-two": {
+    "media": "assets/clue-symbols/mancala-two.svg"
+  },
+  "^mask": {
+    "media": "assets/clue-symbols/mask.svg"
+  },
+  "^maze": {
+    "media": "assets/clue-symbols/maze.svg"
+  },
+  "^monster": {
+    "media": "assets/clue-symbols/monster.svg"
+  },
+  "^moon": {
+    "media": "assets/clue-symbols/moon.svg"
+  },
+  "^ninja": {
+    "media": "assets/clue-symbols/ninja.svg"
+  },
+  "^palette": {
+    "media": "assets/clue-symbols/palette.svg"
+  },
+  "^pink-star": {
+    "media": "assets/clue-symbols/pink-star.svg"
+  },
+  "^portal": {
+    "media": "assets/clue-symbols/portal.svg"
+  },
+  "^pot": {
+    "media": "assets/clue-symbols/pot.svg"
+  },
+  "^puppet": {
+    "media": "assets/clue-symbols/puppet.svg"
+  },
+  "^purple-monster": {
+    "media": "assets/clue-symbols/purple-monster.svg"
+  },
+  "^red-bow": {
+    "media": "assets/clue-symbols/red-bow.svg"
+  },
+  "^red-cap": {
+    "media": "assets/clue-symbols/red-cap.svg"
+  },
+  "^red-monster": {
+    "media": "assets/clue-symbols/red-monster.svg"
+  },
+  "^ring": {
+    "media": "assets/clue-symbols/ring.svg"
+  },
+  "^robot": {
+    "media": "assets/clue-symbols/robot.svg"
+  },
+  "^school": {
+    "media": "assets/clue-symbols/school.svg"
+  },
+  "^science": {
+    "media": "assets/clue-symbols/science.svg"
+  },
+  "^shax": {
+    "media": "assets/clue-symbols/shax.svg"
+  },
+  "^shisima": {
+    "media": "assets/clue-symbols/shisima.svg"
+  },
+  "^shoe": {
+    "media": "assets/clue-symbols/shoe.svg"
+  },
+  "^skull": {
+    "media": "assets/clue-symbols/skull.svg"
+  },
+  "^snowflake": {
+    "media": "assets/clue-symbols/snowflake.svg"
+  },
+  "^snowman": {
+    "media": "assets/clue-symbols/snowman.svg"
+  },
+  "^spaceship": {
+    "media": "assets/clue-symbols/spaceship.svg"
+  },
+  "^star": {
+    "media": "assets/clue-symbols/star.svg"
+  },
+  "^sticks": {
+    "media": "assets/clue-symbols/sticks.svg"
+  },
+  "^stones": {
+    "media": "assets/clue-symbols/stones.svg"
+  },
+  "^sunglasses": {
+    "media": "assets/clue-symbols/sunglasses.svg"
+  },
+  "^sweets": {
+    "media": "assets/clue-symbols/sweets.svg"
+  },
+  "^sword": {
+    "media": "assets/clue-symbols/sword.svg"
+  },
+  "^television": {
+    "media": "assets/clue-symbols/television.svg"
+  },
+  "^three-hearts": {
+    "media": "assets/clue-symbols/three-hearts.svg"
+  },
+  "^three-sticks": {
+    "media": "assets/clue-symbols/three-sticks.svg"
+  },
+  "^top": {
+    "media": "assets/clue-symbols/top.svg"
+  },
+  "^tower": {
+    "media": "assets/clue-symbols/tower.svg"
+  },
+  "^treehouse": {
+    "media": "assets/clue-symbols/treehouse.svg"
+  },
+  "^witch": {
+    "media": "assets/clue-symbols/witch.svg"
+  },
+  "^wrestling": {
+    "media": "assets/clue-symbols/wrestling.svg"
+  },
+  "^yellow-monster": {
+    "media": "assets/clue-symbols/yellow-monster.svg"
+  }
+}

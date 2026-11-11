@@ -9,6 +9,8 @@ ELEMENTS = {
     'P': 'Phosphorus', 'S': 'Sulfur', 'Cl': 'Chlorine', 'K': 'Potassium',
     'Ca': 'Calcium', 'Fe': 'Iron', 'Cu': 'Copper', 'Zn': 'Zinc',
     'Ag': 'Silver', 'Au': 'Gold', 'Hg': 'Mercury', 'Pb': 'Lead',
+    'B': 'Boron', 'Be': 'Beryllium', 'Ar': 'Argon', 'Sn': 'Tin',
+    'I': 'Iodine', 'Pt': 'Platinum',
 }
 OUT = Path(__file__).resolve().parents[1] / 'assets/pictures/Chemical Symbols'
 

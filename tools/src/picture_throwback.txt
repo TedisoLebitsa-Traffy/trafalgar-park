@@ -1,0 +1,311 @@
+[Throwback Music & Youth TV]
+ShizNiz|Which e.tv Craz-e music programme focused on hip-hop and was presented by Muso Sefatsa?|$Microphone|https://www.tvsa.co.za/user/blogs/viewblogpost.aspx?blogpostid=11469
+Jam Alley|Which SABC1 music game show is remembered for V-Mash and the phrase Ayeye?|$Microphone|Jam Alley
+YoTV|Which long-running SABC youth block helped launch many young South African presenters?|^television|YoTV
+Selimathunzi|Which SABC1 variety show is associated with glamour, celebrity visits and host Duku Duku?|$Microphone|Selimathunzi
+Live AMP|Which SABC1 music show grew from Live and featured hosts such as Bonang Matheba?|@Bonang Matheba|Live AMP
+Studio Mix|Which SABC music programme was associated with presenters Bob Mabena and Melanie Bala?|$Microphone|Studio Mix
+O-Access|Which Channel O music magazine programme was presented by Nonhle Thema?|$Microphone|Nonhle Thema
+Club 808|Which e.tv music programme included presenters Dineo Ranaka and Mo Flava?|$Microphone|Club 808
+Real Goboza / RGB|Which SABC1 celebrity-gossip programme had a title often shortened to RGB?|$Microphone|The Real Goboza
+Top Billing|Which South African lifestyle show featured Basetsana Kumalo and visits to glamorous homes?|^house|Top Billing
+Pasella|Which Afrikaans lifestyle and travel magazine show aired on SABC2?|$Vehicles::Airliner|Pasella
+Expresso|Which South African breakfast programme has featured presenter Katlego Maboe?|$Coffee|Expresso (South African TV series)
+Hectic Nine-9|Which SABC2 youth programme mixed music, live guests and teen-interest topics?|$Microphone|Hectic Nine-9
+Craze|What was the name of e.tv's youth programming block before the eToonz channel era?|^television|Craze (TV programme)
+Big Up|Which South African youth programme celebrates young community heroes through music videos?|$Microphone|Big Up (TV series)
+Idols South Africa|Which singing competition is associated with judges Randall Abrahams, Unathi Nkayi and Somizi?|$Microphone|Idols South Africa
+South Africa's Got Talent|Which talent competition featured performers such as singers, dancers and magicians competing for a public vote?|^star|South Africa's Got Talent
+The Voice South Africa|Which singing contest uses blind auditions and spinning coaches' chairs?|$Microphone|The Voice South Africa
+Popstars|Which talent-show format created South African groups including 101 and Adilah?|$Microphone|Popstars (South African TV series)
+Mzansi Insider|Which SABC1 weekend youth magazine featured hosts such as Pearl Thusi and Phat Joe?|$Microphone|Mzansi Insider
+The Tube|Which British 1980s Channel 4 music programme was presented by Jools Holland and Paula Yates?|@Jools Holland|The Tube (1982 TV series)
+Top of the Pops|Which BBC chart programme brought weekly pop performances to British television for decades?|$Microphone|Top of the Pops
+Soul Train|Which American music-and-dance programme was created and presented by Don Cornelius?|$Microphone|Soul Train
+MTV Unplugged|Which MTV performance series features artists playing stripped-back acoustic sets?|$Musical Instruments::Guitar|MTV Unplugged
+Total Request Live / TRL|Which MTV countdown show was closely associated with presenter Carson Daly?|@Carson Daly|Total Request Live
+106 & Park|Which BET video countdown programme was first hosted by AJ and Free?|$Microphone|106 & Park
+Rap City|Which BET hip-hop programme featured a freestyle segment called The Basement?|$Microphone|Rap City
+The Chart Show|Which British music-video programme used on-screen graphics rather than regular studio presenters?|^television|The Chart Show
+Later... with Jools Holland|Which BBC music programme has the pictured musician as its long-serving host?|@Jools Holland|Later... with Jools Holland
+CD:UK|Which Saturday-morning British music programme was originally presented by Ant, Dec and Cat Deeley?|$Microphone|CD:UK
+[Old SA Kids' Shows]
+Kideo|Which South African children's programme featured Molly Metronome and Timothy Traddle?|^puppet|Kideo (TV series)
+Cool Catz|Which e.tv children's programme features Catnap, Wildcat, Smartycat and Kitty Kat?|$Cat|https://tvguide.etv.co.za/guide/eToonz
+Thabang Thabong|Complete this SABC2 preschool programme's title: Thabang ___.|^school|https://sabc-plus.com/show/230505/Thabang-Thabong
+Takalani Sesame|Which South African Sesame Street adaptation features Moshe, Kami, Zuzu and Zikwe?|^puppet|https://sesameworkshop.org/our-work/shows/south-africa-takalani-sesame/
+Mina Moo|Which South African preschool programme is named after a friendly little cow?|$Cow|Mina Moo
+Haas Das se Nuuskas|Which Afrikaans children's news programme featured a rabbit newsreader and Riaan Cruywagen's voice?|$Rabbit|Haas Das se Nuuskas
+Wielie Walie|Which Afrikaans puppet programme features Sarel Seemonster, Bennie Boekwurm and Karel Kraai?|^puppet|Wielie Walie
+Liewe Heksie|Which Afrikaans programme follows a kind but forgetful little witch living in Blommeland?|^witch|Liewe Heksie
+Pumpkin Patch|Which South African children's programme featured Freckles, Speckles and watchdog Woofles?|$Vegetables::Pumpkin|Pumpkin Patch (TV series)
+Tjiff en Tjaff|Which Afrikaans preschool programme is named after two colourful puppet friends on kykNET?|^puppet|Tjiff en Tjaff
+Bennie Boekwurm|Which book-loving worm tells stories to his friends in Wielie Walie?|^book|Wielie Walie
+Sarel Seemonster|Name the large sea-monster puppet in Wielie Walie.|^monster|Wielie Walie
+Karel Kraai|Which crow is one of the best-known puppet friends in Wielie Walie?|$Birds::Common raven|Wielie Walie
+Kami|Which inquisitive yellow Takalani Sesame Muppet loves books and helping friends try new ideas?|^yellow-monster|https://sesameworkshop.org/our-work/shows/south-africa-takalani-sesame/
+Neno|What was the name of the red Takalani Sesame Muppet later adapted into Elmo's local role?|^red-monster|List of Sesame Street international co-production characters
+Moshe|Which Takalani Sesame character is a very large, caring meerkat?|$Animals::Meerkat|https://sesameworkshop.org/our-work/shows/south-africa-takalani-sesame/
+Zuzu|Which six-year-old magenta Takalani Sesame monster enjoys making things with Elmo?|^purple-monster|https://sesameworkshop.org/our-work/shows/south-africa-takalani-sesame/
+Zikwe|Which blue Takalani Sesame Muppet is a traveller who enjoys tinkering with his taxi?|$Vehicles::Car|https://sesameworkshop.org/our-work/shows/south-africa-takalani-sesame/
+Catnap|Which Cool Catz character has a name suggesting a quick sleep?|$Cat|https://www.tvpassport.com/series/cool-catz-legacy/5487349
+Wildcat|Which Cool Catz character has a name suggesting an untamed feline?|$Cat|https://www.tvpassport.com/series/cool-catz-legacy/5487349
+Smartycat|Which Cool Catz character has a name meaning a clever cat?|$Cat|https://www.tvpassport.com/series/cool-catz-legacy/5487349
+Kitty Kat|Which Cool Catz member has a two-part rhyming name ending in Kat?|$Cat|https://www.tvpassport.com/series/cool-catz-legacy/5487349
+Freckles|Name the Pumpkin Patch puppet cousin whose name describes little spots on the skin.|$Vegetables::Pumpkin|Pumpkin Patch (TV series)
+Speckles|Which Pumpkin Patch puppet cousin has a name that rhymes with Freckles?|$Vegetables::Pumpkin|Pumpkin Patch (TV series)
+Woofles|Name the watchdog from the children's programme Pumpkin Patch.|$Dog|Pumpkin Patch (TV series)
+Natasha Sutherland|Which actress became a familiar Kideo presenter before appearing in Egoli and Scandal!?|^puppet|https://www.tvsa.co.za/actors/viewactor.aspx?actorid=18036
+Elaine Macdonald|Who played Molly Metronome and helped write scripts for Kideo?|^puppet|https://www.citizen.co.za/boksburg-advertiser/news-headlines/2014/06/02/childrens-entertainer-makes-home-in-boksburg-or-kideo-presenter-and-writer-elaine-macdonald/
+Riaan Cruywagen|Which South African newsreader provided Haas Das's voice?|@Riaan Cruywagen|Haas Das se Nuuskas
+Matewis|What is the name of Liewe Heksie's beloved pet cat?|$Cat|Liewe Heksie
+Koning Rosekrans|Which king rules Blommeland in the Liewe Heksie stories?|^crown|Liewe Heksie
+Tube / Learning Tube|Complete the name of the SABC educational strand: DBE Learning ___.|^television|https://web.sabc.co.za/digital/stage/advertising/SABC_TV_Rates_March_2025.pdf
+[Classic SA Sitcoms & Comedy]
+'Sgudi 'Snaysi|Which South African sitcom stars Joe Mafela as the unemployed lodger Sdumo?|^house|'Sgudi 'Snaysi
+Sdumo|What is Joe Mafela's character called in 'Sgudi 'Snaysi?|^house|'Sgudi 'Snaysi
+Joe Mafela|Which veteran South African actor played Sdumo in 'Sgudi 'Snaysi?|^house|'Sgudi 'Snaysi
+Emzini Wezinsizwa|Which sitcom follows men sharing Room 8 in a Johannesburg hostel?|^house|Emzini Wezinsizwa
+Jerry Phele|Which South African actor played Mofokeng in Emzini Wezinsizwa?|$Microphone|Jerry Phele
+Vusi Thanda|Which South African actor is known for playing Tshawe in Emzini Wezinsizwa?|$Microphone|Vusi Thanda
+Ses'Top La|Which City Ses'la spin-off follows Themba and Phumzile as they move to Sandton?|^house|https://www.tvsa.co.za/shows/viewshowabout.aspx?showid=1771
+City Ses'la|Which SABC1 sitcom introduced Themba Khumalo and Phumzile before their Sandton spin-off?|^house|City Ses'La
+Themba Khumalo|Which Mandla N character moves to Sandton with Phumzile in Ses'Top La?|^house|https://www.tvsa.co.za/shows/viewshowcast.aspx?showid=1771
+Phumzile|Which character was originally played by Busi Lurayi in City Ses'la and Ses'Top La?|^house|https://www.tvsa.co.za/shows/viewshowcast.aspx?showid=1771
+Mandla N|Which Black Brain actor and creator played Themba in City Ses'la and Ses'Top La?|$Microphone|https://www.tvsa.co.za/shows/viewshowcast.aspx?showid=1771
+Busi Lurayi|Which actress originally played Phumzile in City Ses'la and its spin-off?|$Microphone|https://www.tvsa.co.za/shows/viewshowcast.aspx?showid=1771
+Going Up|Which legal sitcom starred Joe Mafela as Jabulani Cebekhulu alongside Rex Garner?|^book|Going Up (TV series)
+Velaphi|Which classic isiZulu comedy series stars Ray Ntlokwana in its title role?|^television|Velaphi
+Suburban Bliss|Which South African sitcom follows the neighbouring Dwyer and Moloi families?|^house|Suburban Bliss
+Madam & Eve|Which local sitcom is based on a comic strip about a white employer and her Black domestic worker?|^house|Madam & Eve
+Stokvel|Which sitcom centres on a group of friends pooling money in a savings club?|^coins|Stokvel (TV series)
+Family Bonds|Which South African sitcom follows Themba and Buyi moving from Umlazi to Umbilo?|^house|Family Bonds
+My Perfect Family|Which local sitcom follows teen soap star Luyanda Nkosi and his divorced parents living in one house?|^house|My Perfect Family
+Ga Re Dumele|Which SABC2 sitcom follows retired builder Ratau and his wife Josephine trying to keep their daughter at home?|^house|Ga Re Dumele
+Skwizas|Which SABC2 sitcom follows elderly friends living in Skywards Retirement Village?|^three-hearts|Skwizas
+Abo Mzala|Which South African sitcom follows four domestic workers and their lives outside work?|^house|Abo Mzala
+The Pure Monate Show|Which South African sketch-comedy series starred Kagiso Lediga and David Kau?|^television|The Pure Monate Show
+Rented Family|Which SABC1 sitcom follows entrepreneur Muzi renting rooms in his growing township house?|^house|Rented Family
+Vat 'n Sit|Which Afrikaans sitcom's title refers to living together without being married?|^house|Vat 'n Sit
+Vetkoekpaleis|Which Afrikaans sitcom is named after a small eatery selling the fried bread pictured?|$Food::Vetkoek|Vetkoekpaleis
+Orkney Snork Nie|Which Afrikaans sitcom follows the van Tonder family in a mining town?|^house|Orkney Snork Nie
+Molly en Wors|Which Afrikaans sitcom follows a couple played by Lizz Meiring and Willie Esterhuizen?|^house|Molly en Wors
+Koöperasiestories|Which Afrikaans comedy series follows village characters including Genis and Veldsman?|^house|Koöperasiestories
+Gauteng Maboneng|Which sitcom follows car mechanic and aspiring rapper Lebo moving from Mafikeng after inheriting a fortune?|$Vehicles::Car|https://intsales.sabc.co.za/intsales/category/sitcoms/
+[Classic Soapies]
+Days of Our Lives|Which daytime soap features the Brady and Horton families in Salem?|@Deidre Hall|Days of Our Lives
+The Bold and the Beautiful|Which daytime soap follows the Forrester family and the fashion industry?|@Katherine Kelly Lang|The Bold and the Beautiful
+Generations|Which South African soap was created by Mfundi Vundla and featured Karabo Moroka?|@Connie Ferguson|Generations (South African TV series)
+Isidingo|Which South African soap is set in the mining town of Horizon Deep?|$Tools::Pickaxe|Isidingo
+7de Laan|Which Afrikaans soap centred on the residents of Hillside and the Oppiekoffie coffee shop?|^house|7de Laan
+Muvhango|Which South African soap mixes the world of Thathe with Johannesburg business life?|^house|Muvhango
+Scandal!|Which e.tv soap began around the newsroom of The Voice and Newtown?|$Microphone|Scandal!
+Rhythm City|Which e.tv soap featured a music company and characters such as Suffocate and David Genaro?|$Microphone|Rhythm City
+Isibaya|Which South African drama follows the Zungu and Ndlovu families in the taxi industry?|$Vehicles::Minibus|Isibaya
+The River|Which South African telenovela centres on Lindiwe Dikana and the world of mining?|^gem|The River (South African TV series)
+The Queen|Which South African telenovela featured Harriet Khoza, played by the pictured actress?|@Connie Ferguson|The Queen (South African TV series)
+The Wife|Which South African series follows Hlomu and the Zulu brothers and is based on books by Dudu Busani-Dube?|$Vehicles::Minibus|The Wife (South African TV series)
+Uzalo|Which South African soap began with the Mdletshe and Xulu families in KwaMashu?|^house|Uzalo
+Skeem Saam|Which South African series follows young people growing up in Turfloop?|^school|Skeem Saam
+Imbewu: The Seed|Which e.tv soap follows the Bhengu family and their business in Durban?|^house|Imbewu: The Seed
+The Estate|Which SABC3 drama revolves around families living in the Echelon Estate?|^house|The Estate (South African TV series)
+Gomora|Which South African telenovela contrasts wealthy and working-class families around Alexandra?|^house|Gomora (TV series)
+House of Zwide|Which e.tv soap centres on a South African fashion house and designer Funani?|^shoe|House of Zwide
+Dallas|Which American primetime soap follows the oil-rich Ewing family at Southfork Ranch?|@Larry Hagman|Dallas (1978 TV series)
+Dynasty|Which American primetime soap follows the wealthy Carrington family?|@Joan Collins|Dynasty (1981 TV series)
+Coronation Street|Which long-running British soap is set in Weatherfield and features the Rovers Return pub?|^house|Coronation Street
+EastEnders|Which British soap is set around Albert Square in Walford?|^house|EastEnders
+Emmerdale|Which British soap began as a rural Yorkshire drama with Farm in its title?|^house|Emmerdale
+Neighbours|Which Australian soap is associated with Ramsay Street in Erinsborough?|^house|Neighbours
+Home and Away|Which Australian soap is set in the seaside community of Summer Bay?|$Nature::Beach|Home and Away
+General Hospital|Which American daytime soap is set in Port Charles and features the Quartermaine family?|^science|General Hospital
+One Life to Live|Which American soap was set in Llanview and featured Viki Lord?|^house|One Life to Live
+All My Children|Which American soap was set in Pine Valley and featured Erica Kane?|@Susan Lucci|All My Children
+Passions|Which American soap mixed the town of Harmony with the witch Tabitha Lenox?|^witch|Passions
+Santa Barbara|Which American 1980s daytime soap followed the Capwell family in a Californian coastal city?|$Nature::Beach|Santa Barbara (TV series)
+[Classic International TV]
+Knight Rider|Which series has the pictured actor drive the talking car KITT?|@David Hasselhoff|Knight Rider (1982 TV series)
+The A-Team|Which action series has the pictured actor play B. A. Baracus?|@Mr. T|The A-Team
+MacGyver|Which series follows a resourceful hero who solves problems with improvised tools?|$Tools::Utility knife|MacGyver (1985 TV series)
+The Fresh Prince of Bel-Air|Which sitcom has the pictured actor move from West Philadelphia to live with the Banks family?|@Will Smith|The Fresh Prince of Bel-Air
+Mr. Bean|Which largely silent British comedy features the pictured actor and his small teddy bear?|@Rowan Atkinson|Mr. Bean
+Baywatch|Which series has the pictured actor play lifeguard Mitch Buchannon?|@David Hasselhoff|Baywatch
+Walker, Texas Ranger|Which action series has the pictured actor play lawman Cordell Walker?|@Chuck Norris|Walker, Texas Ranger
+Magnum, P.I.|Which detective series has the pictured actor drive a red Ferrari in Hawaii?|@Tom Selleck|Magnum, P.I.
+The X-Files|Which series follows FBI agents Fox Mulder and Dana Scully investigating unexplained events?|@David Duchovny|The X-Files
+Buffy the Vampire Slayer|Which series has the pictured actress play a teenager protecting Sunnydale from supernatural threats?|@Sarah Michelle Gellar|Buffy the Vampire Slayer
+Xena: Warrior Princess|Which fantasy-adventure series has the pictured actress play a reformed warrior?|@Lucy Lawless|Xena: Warrior Princess
+Hercules: The Legendary Journeys|Which fantasy series has the pictured actor play the son of Zeus?|@Kevin Sorbo|Hercules: The Legendary Journeys
+The Cosby Show|Which American sitcom follows the Huxtable family in Brooklyn?|^house|The Cosby Show
+Family Matters|Which sitcom features the Winslow family and their neighbour Steve Urkel?|^sunglasses|Family Matters
+Full House|Which sitcom has Danny Tanner raise three daughters with Jesse and Joey?|^house|Full House
+Sabrina the Teenage Witch|Which sitcom has the pictured actress discover magical powers and live with two aunts?|@Melissa Joan Hart|Sabrina the Teenage Witch (1996 TV series)
+Charmed|Which fantasy series follows the Halliwell sisters and their Power of Three?|^magic|Charmed
+Friends|Which sitcom follows six New Yorkers and their favourite coffee shop Central Perk?|@Jennifer Aniston|Friends
+Seinfeld|Which sitcom follows a fictional version of the pictured comedian and his friends in New York?|@Jerry Seinfeld|Seinfeld
+Cheers|Which sitcom is set in a Boston bar run by Sam Malone?|@Ted Danson|Cheers
+Frasier|Which sitcom follows a Seattle radio psychiatrist played by the pictured actor?|@Kelsey Grammer|Frasier
+The Golden Girls|Which sitcom follows Dorothy, Rose, Blanche and Sophia sharing a home in Miami?|@Betty White|The Golden Girls
+Married... with Children|Which sitcom follows the Bundy family and shoe salesman Al?|@Ed O'Neill|Married... with Children
+Murder, She Wrote|Which mystery series has the pictured actress play writer Jessica Fletcher?|@Angela Lansbury|Murder, She Wrote
+Columbo|Which detective series stars the pictured actor as a rumpled Los Angeles lieutenant?|@Peter Falk|Columbo
+Miami Vice|Which crime series follows detectives Crockett and Tubbs in 1980s Miami?|@Don Johnson|Miami Vice
+The Dukes of Hazzard|Which series follows Bo and Luke Duke and a car called the General Lee?|$Vehicles::Car|The Dukes of Hazzard
+Little House on the Prairie|Which family series follows the Ingalls family on the American frontier?|^house|Little House on the Prairie (TV series)
+ALF|Which sitcom has the Tanner family hide a furry alien from the planet Melmac?|^alien|ALF (TV series)
+The Wonder Years|Which coming-of-age series follows Kevin Arnold growing up in the late 1960s and 1970s?|^school|The Wonder Years
+[Classic Action Movies]
+Rocky|Which boxing film stars the pictured actor as an underdog from Philadelphia?|@Sylvester Stallone|Rocky
+The Karate Kid|Which 1984 film has Daniel LaRusso learn martial arts from Mr Miyagi?|@Ralph Macchio|The Karate Kid
+Bloodsport|Which martial-arts film has the pictured actor play Frank Dux in the Kumite tournament?|@Jean-Claude Van Damme|Bloodsport
+Rush Hour|Which action comedy pairs the pictured star with Chris Tucker as detectives Lee and Carter?|@Jackie Chan|Rush Hour
+Die Hard|Which film sends John McClane into a hostage crisis at Nakatomi Plaza?|@Bruce Willis|Die Hard
+First Blood|Which film first introduces troubled Vietnam veteran John Rambo?|@Sylvester Stallone|First Blood
+Commando|Which action film has the pictured actor play John Matrix, rescuing his kidnapped daughter?|@Arnold Schwarzenegger|Commando (1985 film)
+The Terminator|Which film has the pictured actor portray a cyborg sent back from the future?|@Arnold Schwarzenegger|The Terminator
+Terminator 2: Judgment Day|Which sequel has a reprogrammed cyborg protect young John Connor from the T-1000?|@Arnold Schwarzenegger|Terminator 2: Judgment Day
+Predator|Which jungle action film has Dutch's team hunted by a camouflaged alien?|@Arnold Schwarzenegger|Predator (film)
+RoboCop|Which film follows Detroit police officer Alex Murphy rebuilt as a cyborg?|^robot|RoboCop
+Lethal Weapon|Which buddy-cop film pairs Martin Riggs with Roger Murtaugh?|@Danny Glover|Lethal Weapon
+Bad Boys|Which film pairs detectives Mike Lowrey and Marcus Burnett in Miami?|@Will Smith|Bad Boys (1995 film)
+Speed|Which film has a bus rigged to explode if it drops below 50 miles per hour?|$Vehicles::Bus|Speed (1994 film)
+Point Break|Which film has an FBI agent investigate surfers suspected of bank robberies?|@Keanu Reeves|Point Break
+Universal Soldier|Which film has the pictured actor and Dolph Lundgren play reanimated military operatives?|@Jean-Claude Van Damme|Universal Soldier (1992 film)
+Kickboxer|Which film has the pictured actor play Kurt Sloane, training in Muay Thai to avenge his brother?|@Jean-Claude Van Damme|Kickboxer (1989 film)
+Double Impact|Which film has the pictured actor play twin brothers separated after their parents are killed?|@Jean-Claude Van Damme|Double Impact
+The Transporter|Which film has the pictured actor play professional driver Frank Martin?|@Jason Statham|The Transporter
+Blade|Which film has the pictured actor play a half-human, half-vampire hunter?|@Wesley Snipes|Blade (1998 film)
+The Matrix|Which science-fiction film has Neo discover that everyday reality is a computer simulation?|@Keanu Reeves|The Matrix
+The Mummy|Which 1999 adventure film has Rick O'Connell awaken the ancient priest Imhotep?|@Brendan Fraser|The Mummy (1999 film)
+The Rock|Which action film involves a chemical-weapons threat from Alcatraz Island?|@Nicolas Cage|The Rock (film)
+Con Air|Which action film has the pictured actor play former soldier Cameron Poe aboard a prisoner aircraft?|@Nicolas Cage|Con Air
+Face/Off|Which action film has an FBI agent and a criminal surgically exchange faces?|@John Travolta|Face/Off
+Beverly Hills Cop|Which film sends Detroit detective Axel Foley to investigate a friend's death in California?|@Eddie Murphy|Beverly Hills Cop
+Police Story|Which Hong Kong film has the pictured star play police officer Chan Ka-Kui?|@Jackie Chan|Police Story (1985 film)
+Enter the Dragon|Which martial-arts film has the pictured star infiltrate a tournament on Han's island?|@Bruce Lee|Enter the Dragon
+Ong-Bak|Which Thai martial-arts film has the pictured actor recover the head of a village Buddha statue?|@Tony Jaa|Ong-Bak: Muay Thai Warrior
+Demolition Man|Which futuristic action film has the pictured actor play policeman John Spartan?|@Sylvester Stallone|Demolition Man (film)
+[Childhood Movies]
+3 Ninjas|Which family film follows the brothers Rocky, Colt and Tum-Tum training with their grandfather?|^ninja|3 Ninjas
+Home Alone|Which film has Kevin McCallister defend his house after his family leaves for a holiday?|@Macaulay Culkin|Home Alone
+Matilda|Which film follows a gifted girl with telekinetic powers facing headmistress Miss Trunchbull?|^book|Matilda (1996 film)
+Jumanji|Which 1995 film turns a dangerous board game's jungle adventures into reality?|@Robin Williams|Jumanji
+The Little Rascals|Which 1994 family film follows Alfalfa, Spanky, Darla and the He-Man Woman-Haters Club?|^treehouse|The Little Rascals (film)
+The Sandlot|Which film follows a group of boys playing baseball and fearing a dog called the Beast?|$Sports Equipment::Baseball|The Sandlot
+The Goonies|Which adventure film has friends search for the pirate One-Eyed Willy's treasure?|^compass|The Goonies
+E.T. the Extra-Terrestrial|Which film has a boy named Elliott befriend a stranded alien?|^alien|E.T. the Extra-Terrestrial
+Hook|Which film has the pictured actor play an adult Peter Pan returning to Neverland?|@Robin Williams|Hook (film)
+Beethoven|Which family film follows the Newtons and their enormous St Bernard dog?|$Dog|Beethoven (film)
+Free Willy|Which film follows Jesse trying to free a captive orca?|$Orca|Free Willy
+The Mighty Ducks|Which film has Gordon Bombay coach a struggling youth ice-hockey team?|$Sports Equipment::Ice hockey puck|The Mighty Ducks
+Cool Runnings|Which film follows Jamaica's unlikely bobsleigh team at the Winter Olympics?|^snowflake|Cool Runnings
+Space Jam|Which film has the pictured basketball star team up with Looney Tunes characters?|@Michael Jordan|Space Jam
+Richie Rich|Which film has the pictured actor play an extremely wealthy child?|@Macaulay Culkin|Richie Rich (film)
+The Parent Trap|Which 1998 film has identical twins Annie and Hallie swap places to reunite their parents?|@Lindsay Lohan|The Parent Trap (1998 film)
+The Witches|Which 1990 film has a boy discover witches planning to turn children into mice?|$Mouse|The Witches (1990 film)
+Honey, I Shrunk the Kids|Which film has an inventor accidentally make his children tiny?|^science|Honey, I Shrunk the Kids
+Flubber|Which film has the pictured actor invent a bouncy green substance?|@Robin Williams|Flubber (film)
+Dr. Dolittle|Which 1998 comedy has the pictured actor discover he can talk to animals?|@Eddie Murphy|Dr. Dolittle (1998 film)
+Stuart Little|Which family film has a little white mouse join the Little family?|$Mouse|Stuart Little (film)
+Babe|Which film follows a pig who learns to herd sheep?|$Pig|Babe (film)
+Air Bud|Which family film follows a golden retriever who can play basketball?|$Sports Equipment::Basketball|Air Bud
+George of the Jungle|Which comedy has the pictured actor play a jungle hero raised by an ape?|@Brendan Fraser|George of the Jungle (film)
+Spy Kids|Which film has Carmen and Juni Cortez discover that their parents are secret agents?|^sunglasses|Spy Kids
+Agent Cody Banks|Which film stars Frankie Muniz as a teenage CIA operative?|^sunglasses|Agent Cody Banks
+The NeverEnding Story|Which fantasy film follows Bastian reading about Atreyu and the luckdragon Falkor?|^book|The NeverEnding Story (film)
+The Princess Bride|Which fantasy film follows Westley and Buttercup through a story told by a grandfather?|^sword|The Princess Bride (film)
+The Mask|Which comedy has the pictured actor transform after putting on a magical green face covering?|@Jim Carrey|The Mask (1994 film)
+The Karate Kid|Which film has Daniel LaRusso learn patience and martial arts from Mr Miyagi?|@Ralph Macchio|The Karate Kid
+[Old-school Cartoons]
+Johnny Bravo|Which cartoon features a blond, muscular man with black sunglasses and a huge hairstyle?|^sunglasses|Johnny Bravo
+Dexter's Laboratory|Which cartoon follows a young inventor whose sister Dee Dee disrupts his secret lab?|^science|Dexter's Laboratory
+Ed, Edd n Eddy|Which cartoon has three boys try to raise money for jawbreakers?|^sweets|Ed, Edd n Eddy
+Courage the Cowardly Dog|Which cartoon follows a pink dog living with Muriel and Eustace in the middle of Nowhere?|$Dog|Courage the Cowardly Dog
+Tom and Jerry|Which cartoon franchise follows a blue-grey cat and a clever little brown mouse?|#Cartoon Shows::Tom and Jerry|Tom and Jerry
+Scooby-Doo|Which cartoon has a Great Dane and Mystery Inc. investigate seemingly supernatural cases?|#Cartoon Shows::Scooby-Doo|Scooby-Doo
+The Flintstones|Which cartoon follows Fred, Wilma, Barney and Betty in Stone Age Bedrock?|$Dinosaur|The Flintstones
+The Jetsons|Which futuristic cartoon features George, Jane, Judy, Elroy and robot maid Rosie?|^robot|The Jetsons
+Looney Tunes|Which cartoon franchise features Bugs Bunny, Daffy Duck, Porky Pig and Elmer Fudd?|$Carrot|Looney Tunes
+Popeye|Which cartoon sailor gets extraordinary strength from the leafy vegetable pictured?|$Vegetables::Spinach|Popeye
+The Smurfs|Which cartoon follows small blue villagers led by Papa, threatened by Gargamel?|^blue-monster|The Smurfs (1981 TV series)
+He-Man and the Masters of the Universe|Which cartoon has Prince Adam transform using the Sword of Power?|^sword|He-Man and the Masters of the Universe
+The Transformers|Which cartoon has Autobots and Decepticons disguise themselves as vehicles?|^robot|The Transformers (TV series)
+ThunderCats|Which cartoon follows Lion-O and refugees from the planet Thundera?|$Animals::Lion|ThunderCats (1985 TV series)
+DuckTales|Which cartoon has Scrooge McDuck adventure with Huey, Dewey and Louie?|^coins|DuckTales (1987 TV series)
+Darkwing Duck|Which cartoon features the superhero identity of Drake Mallard in St Canard?|$Birds::Mallard|Darkwing Duck
+Chip 'n Dale: Rescue Rangers|Which cartoon has two chipmunks run a detective agency with Gadget, Monterey Jack and Zipper?|^sunglasses|Chip 'n Dale: Rescue Rangers
+TaleSpin|Which cartoon has Baloo fly a cargo plane and work for Rebecca Cunningham?|$Vehicles::Airliner|TaleSpin
+Adventures of the Gummi Bears|Which cartoon follows magical bears who bounce after drinking a special berry juice?|$Animals::Brown bear|Adventures of the Gummi Bears
+Captain Planet and the Planeteers|Which cartoon has five young heroes combine elemental rings to summon an environmental hero?|^ring|Captain Planet and the Planeteers
+Inspector Gadget|Which cartoon detective has extendable limbs and is helped by Penny and Brain?|^robot|Inspector Gadget
+Danger Mouse|Which British cartoon has a mouse secret agent working with Penfold?|$Mouse|Danger Mouse (1981 TV series)
+Count Duckula|Which cartoon features a vegetarian vampire duck living in a travelling castle?|$Birds::Mallard|Count Duckula
+Bananaman|Which cartoon has young Eric transform into a superhero after eating a banana?|$Fruits::Banana|Bananaman
+Teenage Mutant Ninja Turtles|Which cartoon follows four pizza-loving turtle brothers trained by Splinter?|$Food::Pizza|Teenage Mutant Ninja Turtles (1987 TV series)
+Garfield and Friends|Which cartoon pairs a lasagne-loving cat with a farmyard segment called U.S. Acres?|$Food::Lasagna|Garfield and Friends
+Animaniacs|Which cartoon brings together Yakko, Wakko and Dot at the Warner Bros. studio?|^film|Animaniacs
+Pinky and the Brain|Which cartoon follows two laboratory mice plotting world domination?|$Mouse|Pinky and the Brain
+Wacky Races|Which cartoon features the Mean Machine, the Ant Hill Mob and the Compact Pussycat?|$Vehicles::Car|Wacky Races (1968 TV series)
+Speed Racer|Which anime-style racing cartoon follows a young driver and the car called the Mach 5?|$Vehicles::Car|Speed Racer
+[Childhood TV Favourites]
+Power Rangers|Which action series has teenagers transform using colourful suits and pilot giant Zords?|^helmet|Power Rangers
+Barney & Friends|Which children's programme centres on a purple dinosaur and his young friends?|$Dinosaur|Barney & Friends
+Teletubbies|Which preschool programme features four colourful characters with television screens on their tummies?|^television|Teletubbies
+Pokémon|Which animated series follows Ash, Pikachu and the quest to become a great Trainer?|#Video Games::Pokemon|Pokémon (TV series)
+Goosebumps|Which children's horror anthology adapted books by R. L. Stine?|^ghost|Goosebumps (1995 TV series)
+Blue Peter|Which long-running BBC children's magazine is famous for awarding badges?|^badge|Blue Peter
+Art Attack|Which children's art show was presented for years by artist Neil Buchanan?|^palette|Art Attack
+The Really Wild Show|Which British children's programme explored animals and nature with hosts including Chris Packham?|$Animals::Lion|The Really Wild Show
+How 2|Which educational show featured Fred Dinenage answering questions about how things work?|^science|How 2
+SMart|Which BBC children's art programme used a name that combined cleverness with making pictures?|^palette|SMart
+Mister Maker|Which preschool arts-and-crafts programme is hosted by Phil Gallagher?|^palette|Mister Maker
+Pingu|Which stop-motion series follows a little penguin and his family, using a made-up language?|$Birds::African penguin|Pingu
+Thomas & Friends|Which railway series has a little blue tank engine living on Sodor?|$Vehicles::Locomotive|Thomas & Friends
+Bob the Builder|Which programme follows a builder and talking machines such as Scoop and Muck?|$Vehicles::Bulldozer|Bob the Builder
+Postman Pat|Which programme follows a mail-delivering village resident and his cat Jess?|$Vehicles::Van|Postman Pat
+Fireman Sam|Which programme follows the fire service in the Welsh village of Pontypandy?|$Vehicles::Fire engine|Fireman Sam
+Tots TV|Which programme features the puppet friends Tilly, Tom and Tiny?|^puppet|Tots TV
+Rosie and Jim|Which programme follows two rag dolls living aboard a narrowboat called the Ragdoll?|$Vehicles::Sailboat|Rosie and Jim
+Tweenies|Which programme features Bella, Milo, Fizz and Jake at a nursery?|^school|Tweenies
+Sesame Street|Which educational programme features Big Bird, Cookie Monster and Oscar the Grouch?|^puppet|Sesame Street
+Bananas in Pyjamas|Which Australian children's series features B1 and B2 in blue-and-white striped sleepwear?|$Fruits::Banana|Bananas in Pyjamas
+Play School|Which Australian preschool programme features toys such as Big Ted, Little Ted and Jemima?|^school|Play School (Australian TV series)
+The Wiggles|Which Australian children's musical group became famous for bright shirts and a Big Red Car?|$Vehicles::Car|The Wiggles
+LazyTown|Which children's programme has the athletic Sportacus encourage Stephanie and her friends to be active?|^blue-cap|LazyTown
+Balamory|Which preschool programme is set in a colourful Scottish island community and features Miss Hoolie?|^house|Balamory
+The Hoobs|Which Jim Henson programme has colourful creatures investigate the human world from their Hoobmobile?|^monster|The Hoobs
+Zoboomafoo|Which animal programme pairs the Kratt brothers with a playful lemur?|$Lemur|Zoboomafoo
+Bear in the Big Blue House|Which programme has a large friendly bear living with Tutter, Ojo, Pip and Pop?|$Animals::Brown bear|Bear in the Big Blue House
+Clifford the Big Red Dog|Which programme follows Emily Elizabeth and her enormous scarlet pet?|$Dog|Clifford the Big Red Dog
+Blue's Clues|Which interactive programme has a blue puppy leave paw-print hints for its human friend?|$Dog|Blue's Clues
+[Throwback Presenters & Actors]
+Bonang Matheba|Name the South African presenter pictured, known for Live and Top Billing.|@Bonang Matheba|Bonang Matheba
+Terry Pheto|Name the South African actress pictured, known for playing Miriam in Tsotsi.|@Terry Pheto|Terry Pheto
+Connie Ferguson|Name the actress pictured, known for Karabo Moroka in Generations.|@Connie Ferguson|Connie Ferguson
+John Cleese|Name the British comedian pictured, known for Monty Python and Fawlty Towers.|@John Cleese|John Cleese
+Trevor Noah|Name the South African comedian pictured, who became host of The Daily Show.|@Trevor Noah|Trevor Noah
+Sharlto Copley|Name the South African actor pictured, known for playing Wikus in District 9.|@Sharlto Copley|Sharlto Copley
+John Kani|Name the South African actor pictured, known internationally for T'Chaka in the Marvel films.|@John Kani|John Kani
+Riaan Cruywagen|Name the newsreader pictured, also the voice of Haas Das.|@Riaan Cruywagen|Riaan Cruywagen
+Charlize Theron|Name the South African-born actress pictured, known for Monster and Mad Max: Fury Road.|@Charlize Theron|Charlize Theron
+Leanne Manas|Name the South African presenter pictured, known for Morning Live.|@Leanne Manas|Leanne Manas
+Jools Holland|Name the British musician and television host pictured, associated with The Tube and Later...|@Jools Holland|Jools Holland
+Dawn French|Name the British comedian pictured, known for French and Saunders and The Vicar of Dibley.|@Dawn French|Dawn French
+David Hasselhoff|Name the actor pictured, known for Knight Rider and Baywatch.|@David Hasselhoff|David Hasselhoff
+Rowan Atkinson|Name the comedian pictured, known for Mr Bean and Blackadder.|@Rowan Atkinson|Rowan Atkinson
+Will Smith|Name the actor pictured, who starred in The Fresh Prince of Bel-Air and Men in Black.|@Will Smith|Will Smith
+Oprah Winfrey|Name the American talk-show host and actress pictured.|@Oprah Winfrey|Oprah Winfrey
+Jerry Springer|Name the American television host pictured, known for a controversial tabloid talk show.|@Jerry Springer|Jerry Springer
+Ricki Lake|Name the actress and daytime talk-show host pictured.|@Ricki Lake|Ricki Lake
+Steve Harvey|Name the comedian and Family Feud host pictured.|@Steve Harvey|Steve Harvey
+Bruce Willis|Name the actor pictured, known for Die Hard's John McClane.|@Bruce Willis|Bruce Willis
+Sylvester Stallone|Name the actor pictured, known for Rocky Balboa and John Rambo.|@Sylvester Stallone|Sylvester Stallone
+Arnold Schwarzenegger|Name the actor pictured, known for Terminator, Predator and Commando.|@Arnold Schwarzenegger|Arnold Schwarzenegger
+Chuck Norris|Name the martial artist and actor pictured, known for Walker, Texas Ranger.|@Chuck Norris|Chuck Norris
+Mr. T|Name the actor pictured, known for B. A. Baracus in The A-Team.|@Mr. T|Mr. T
+Jackie Chan|Name the Hong Kong actor and martial artist pictured, known for Police Story and Rush Hour.|@Jackie Chan|Jackie Chan
+Jean-Claude Van Damme|Name the Belgian martial artist and actor pictured, known for Bloodsport.|@Jean-Claude Van Damme|Jean-Claude Van Damme
+Hulk Hogan|Name the professional wrestler and Thunder in Paradise star pictured.|@Hulk Hogan|Hulk Hogan
+Whoopi Goldberg|Name the actress and host pictured, known for Sister Act and Ghost.|@Whoopi Goldberg|Whoopi Goldberg
+Robin Williams|Name the actor and comedian pictured, known for Jumanji and Mrs Doubtfire.|@Robin Williams|Robin Williams
+Jim Carrey|Name the comedian pictured, known for The Mask and Ace Ventura.|@Jim Carrey|Jim Carrey

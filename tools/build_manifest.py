@@ -56,6 +56,28 @@ def main():
                     raise ValueError("Invalid illustration clue in " + cat)
             manifest.setdefault(cat, []).extend(clues)
             total += len(clues)
+    questions = os.path.join(ROOT, "data", "picture_questions.json")
+    if os.path.isfile(questions):
+        with open(questions, encoding="utf-8") as fh:
+            banks = json.load(fh)
+        for cat, clues in banks.items():
+            for clue in clues:
+                if not clue.get("id") or not clue.get("answer") or not clue.get("question") or not clue.get("source"):
+                    raise ValueError("Incomplete picture question in " + cat)
+                asset = clue.get("media") or "assets/clue-atlases/" + clue.get("atlas", "")
+                absolute = os.path.abspath(os.path.join(ROOT, asset))
+                if not absolute.startswith(os.path.join(ROOT, "assets") + os.sep) or not os.path.isfile(absolute):
+                    raise ValueError("Invalid question image: " + asset)
+            manifest.setdefault(cat, []).extend(clues)
+            total += len(clues)
+    hints = os.path.join(ROOT, "data", "picture_photo_hints.json")
+    if os.path.isfile(hints):
+        with open(hints, encoding="utf-8") as fh:
+            hints = json.load(fh)
+        for cat, clues in manifest.items():
+            for clue in clues:
+                if clue.get("file") and cat + "/" + clue["file"] in hints:
+                    clue.update(hints[cat + "/" + clue["file"]])
     out = os.path.join(PICS, "manifest.json")
     with open(out, "w", encoding="utf-8") as fh:
         json.dump(manifest, fh, indent=2, ensure_ascii=False)

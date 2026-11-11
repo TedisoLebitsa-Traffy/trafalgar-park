@@ -1,0 +1,114 @@
+{
+  "Nature/Stalactite.jpg": {
+    "question": "Which type of cave formation hangs down from the ceiling?",
+    "source": "https://en.wikipedia.org/wiki/Stalactite"
+  },
+  "Nature/Stalagmite.jpg": {
+    "question": "Which type of cave formation grows upwards from the floor?",
+    "source": "https://en.wikipedia.org/wiki/Stalagmite"
+  },
+  "Food/Samp.jpg": {
+    "question": "What South African staple is made from dried maize kernels that are broken into coarse pieces?",
+    "source": "https://en.wikipedia.org/wiki/Samp"
+  },
+  "Landmarks/Christ the King (Almada).jpg": {
+    "question": "Which Christ monument overlooks Lisbon from Almada?",
+    "source": "https://en.wikipedia.org/wiki/Christ_the_King_%28Almada%29"
+  },
+  "Fictional Creatures/Sphinx.jpg": {
+    "question": "Which mythical creature has a human head and the body of a lion?",
+    "source": "https://en.wikipedia.org/wiki/Sphinx"
+  },
+  "Fictional Creatures/Hippogriff.jpg": {
+    "question": "Which mythical creature combines the front of an eagle with the body of a horse?",
+    "source": "https://en.wikipedia.org/wiki/Hippogriff"
+  },
+  "Fictional Creatures/Pegasus.jpg": {
+    "question": "What is the name of the winged horse of Greek mythology?",
+    "source": "https://en.wikipedia.org/wiki/Pegasus"
+  },
+  "Fictional Creatures/Minotaur.jpg": {
+    "question": "Which creature has a bull head and human body and is associated with the Labyrinth of Crete?",
+    "source": "https://en.wikipedia.org/wiki/Minotaur"
+  },
+  "Fictional Creatures/Cerberus.jpg": {
+    "question": "What is the name of the three-headed dog guarding the Greek underworld?",
+    "source": "https://en.wikipedia.org/wiki/Cerberus"
+  },
+  "Fictional Creatures/Chimera.jpg": {
+    "question": "Which Greek monster combines features of a lion, a goat and a serpent?",
+    "source": "https://en.wikipedia.org/wiki/Chimera"
+  },
+  "Fictional Creatures/Basilisk.jpg": {
+    "question": "Which legendary reptile is said to be able to kill with its gaze?",
+    "source": "https://en.wikipedia.org/wiki/Basilisk"
+  },
+  "Fictional Creatures/Kraken.jpg": {
+    "question": "Which legendary sea monster is often imagined as a huge squid or octopus?",
+    "source": "https://en.wikipedia.org/wiki/Kraken"
+  },
+  "Fictional Creatures/Cyclops.jpg": {
+    "question": "Which type of giant in Greek mythology has one eye in the middle of its forehead?",
+    "source": "https://en.wikipedia.org/wiki/Cyclops"
+  },
+  "Fictional Creatures/Troll.jpg": {
+    "question": "Which creature of Scandinavian folklore is often associated with mountains, caves or bridges?",
+    "source": "https://en.wikipedia.org/wiki/Troll"
+  },
+  "Fictional Creatures/Ogre.jpg": {
+    "question": "Which large, frightening folklore humanoid is often portrayed as a man-eating giant?",
+    "source": "https://en.wikipedia.org/wiki/Ogre"
+  },
+  "Fictional Creatures/Goblin.png": {
+    "question": "Which small, troublesome creature of folklore is often portrayed with pointed ears?",
+    "source": "https://en.wikipedia.org/wiki/Goblin"
+  },
+  "Fictional Creatures/Elf.jpg": {
+    "question": "Which magical folklore being is often portrayed with pointed ears and a close connection to nature?",
+    "source": "https://en.wikipedia.org/wiki/Elf"
+  },
+  "Fictional Creatures/Dwarf.jpg": {
+    "question": "Which small, human-like being in Norse and fantasy stories is known for mining and metalwork?",
+    "source": "https://en.wikipedia.org/wiki/Dwarf"
+  },
+  "Fictional Creatures/Fairy.jpg": {
+    "question": "Which small magical being is commonly illustrated with delicate wings?",
+    "source": "https://en.wikipedia.org/wiki/Fairy"
+  },
+  "Fictional Creatures/Werewolf.png": {
+    "question": "Which folklore creature is a person who transforms into a wolf?",
+    "source": "https://en.wikipedia.org/wiki/Werewolf"
+  },
+  "Fictional Creatures/Vampire.jpg": {
+    "question": "Which undead folklore creature survives by drinking blood?",
+    "source": "https://en.wikipedia.org/wiki/Vampire"
+  },
+  "Fictional Creatures/Zombie.png": {
+    "question": "Which undead creature is commonly imagined as a reanimated, shambling corpse?",
+    "source": "https://en.wikipedia.org/wiki/Zombie"
+  },
+  "Fictional Creatures/Mummy.jpg": {
+    "question": "Which bandage-wrapped undead figure is associated with ancient Egyptian tombs?",
+    "source": "https://en.wikipedia.org/wiki/Mummy"
+  },
+  "Fictional Creatures/Golem.jpg": {
+    "question": "Which being from Jewish folklore is brought to life from clay or other inanimate material?",
+    "source": "https://en.wikipedia.org/wiki/Golem"
+  },
+  "Fictional Creatures/Yeti.jpg": {
+    "question": "Which legendary ape-like creature is associated with the Himalayas?",
+    "source": "https://en.wikipedia.org/wiki/Yeti"
+  },
+  "Fictional Creatures/Bigfoot.jpg": {
+    "question": "Which legendary hairy creature is associated with the forests of North America?",
+    "source": "https://en.wikipedia.org/wiki/Bigfoot"
+  },
+  "Fictional Creatures/Jackalope.jpg": {
+    "question": "Which North American folklore animal combines a jackrabbit with antlers?",
+    "source": "https://en.wikipedia.org/wiki/Jackalope"
+  },
+  "Fictional Creatures/Loch Ness Monster.jpg": {
+    "question": "Which legendary aquatic creature is associated with a Scottish lake?",
+    "source": "https://en.wikipedia.org/wiki/Loch_Ness_Monster"
+  }
+}

@@ -8,14 +8,15 @@ const GROUPS=[
   ['World & everyday',['Animals','Birds','Food','Fruits','Vegetables','Nature','Insects','Landmarks','Tools','Vehicles','Chemical Symbols','K53 Road Signs','Indigenous African Games','Musical Instruments','Flags','Maths']],
   ['Shows & films',['Anime Shows','Cartoon Shows','Kids Cartoons','Movies','Animated Movies','TV Shows']],
   ['Characters & games',['Anime Characters','Cartoon Characters','Superheroes','Movie Characters','Movie Villains','Video Games','Video Game Characters','Disney Characters','Pixar Characters','Fictional Creatures']],
-  ['Sport',['Current Footballers','Retired Footballers','Athletes','Sports Equipment']]
+  ['Sport',['Current Footballers','Retired Footballers','Athletes','Sports Equipment']],
+  ['Throwback TV & cinema',['Throwback Music & Youth TV',"Old SA Kids' Shows",'Classic SA Sitcoms & Comedy','Classic Soapies','Classic International TV','Classic Action Movies','Childhood Movies','Old-school Cartoons','Childhood TV Favourites','Throwback Presenters & Actors']]
 ];
 function deckCat(id,name,items,deckName){
   const deck=new TP.Deck(items,deckName,i=>i.k);
   return{id,name,icon:'',count:()=>deck.size,make:()=>deck.draw(),deck};
 }
 function picCat(name){
-  const files=(MANIFEST[name]||[]).map((f,i)=>({c:'p:'+name,k:'pic:'+name+'/'+(f.file||f.atlas+':'+f.cell),file:f.file,atlas:f.atlas,cell:f.cell,a:f.answer,alt:f.alt||'',cat:name}));
+  const files=(MANIFEST[name]||[]).map(f=>({c:'p:'+name,k:'pic:'+name+'/'+(f.id||f.file||f.atlas+':'+f.cell),file:f.file,media:f.media,atlas:f.atlas,cell:f.cell,question:f.question||'',a:f.answer,alt:f.alt||'',cat:name}));
   const c=deckCat('p:'+name,name,files,'dPic_'+name);c.pictures=true;return c;
 }
 function buildCats(){
@@ -187,12 +188,14 @@ const cfg={
     if(it.c==='flags')return TP.loadImage('assets/flags/'+it.code+'.svg');
     if(it.c==='maths')return Promise.resolve(TP.svgBlob(TP.mathgen.pictureSVG(it)));
     if(it.atlas)return atlasClue(it);
+    if(it.media)return TP.loadImage(it.media);
     if(it.file)return TP.loadImage('assets/pictures/'+it.cat+'/'+it.file);
     return Promise.resolve(null);
   },
   clue(it,ctx){
     const b=[{t:'chip',x:catName(it.c)}];
-    if(ctx.img)b.push({t:'img',id:'picture-'+ctx.S.uid,blob:ctx.img,cls:it.c==='flags'?'flag':it.c==='maths'?'sum':''});
+    if(it.question)b.push({t:'text',cls:'picture-question',x:it.question});
+    if(ctx.img)b.push({t:'img',id:'picture-'+ctx.S.uid,blob:ctx.img,cls:it.c==='flags'?'flag':it.c==='maths'?'sum':it.question?'with-question':''});
     else b.push({t:'text',cls:'info',x:ctx.error?'Picture unavailable. The host can retry or skip it.':'Loading picture…'});
     if(ctx.shown)b.push({t:'text',cls:'ans',x:it.c==='maths'?String(it.ans):it.a});return b;
   },

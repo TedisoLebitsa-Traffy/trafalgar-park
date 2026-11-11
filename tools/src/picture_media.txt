@@ -1,0 +1,376 @@
+[Anime Shows]
+Attack on Titan|Which anime follows Scouts protecting humanity behind enormous walls?|$Great Wall of China
+Death Note|Which anime gives Light Yagami a notebook that can end a person's life?|^book
+Fullmetal Alchemist|Which anime follows Edward and Alphonse Elric searching for the Philosopher's Stone?|$Chemical Symbols::Iron
+One-Punch Man|Which anime stars Saitama, a hero who usually wins with one strike?|$Boxing glove
+Tokyo Ghoul|Which anime follows Ken Kaneki after he becomes a human-ghoul hybrid?|^mask
+Jujutsu Kaisen|Which anime follows Yuji Itadori and the curse known as Sukuna?|^magic
+Spy x Family|Which anime combines a spy father, an assassin mother and a telepathic daughter?|^house
+Hunter x Hunter|Which anime follows Gon Freecss as he searches for his father?|$Fishing rod
+Pokémon|Which anime follows Ash Ketchum travelling with his electric mouse partner?|#Video Games::Pokemon
+Digimon Adventure|Which anime sends children into the Digital World with monster partners?|#Fictional Creatures::Dragon
+Sailor Moon|Which magical-girl anime follows Usagi Tsukino and her planetary guardians?|^moon
+Yu-Gi-Oh!|Which anime follows Yugi and battles fought using trading cards?|^cards
+Beyblade|Which anime centres on competitive battles between spinning tops?|^top
+Sword Art Online|Which anime traps Kirito and other players inside a virtual-reality game?|^sword
+Fairy Tail|Which anime follows Natsu Dragneel and a guild of magic users?|#Fictional Creatures::Dragon
+Black Clover|Which anime follows Asta, a boy without magic who wants to become Wizard King?|^clover
+Haikyu!!|Which anime follows Hinata and the Karasuno school volleyball team?|$Volleyball
+Kuroko's Basketball|Which anime follows a blue-haired player and the Generation of Miracles?|$Basketball
+Slam Dunk|Which basketball anime follows delinquent-turned-player Hanamichi Sakuragi?|$Basketball
+Blue Lock|Which football anime puts ambitious strikers through an intense training project?|$Football
+Captain Tsubasa|Which football anime follows Tsubasa Ozora and his dream of World Cup glory?|$Football
+Neon Genesis Evangelion|Which anime has Shinji Ikari pilot a giant biomechanical fighting machine?|^robot
+Cowboy Bebop|Which anime follows Spike Spiegel and a crew of space bounty hunters?|^spaceship
+Dr. Stone|Which anime follows Senku rebuilding civilisation through science after humanity turns to stone?|$Chemical Symbols::Silicon
+[Anime Characters]
+Sasuke Uchiha|Name the Uchiha rival and teammate of the ninja pictured.|#Anime Characters::Naruto Uzumaki
+Sakura Haruno|Name the pink-haired medical ninja on Team 7 with the character pictured.|#Anime Characters::Naruto Uzumaki
+Kakashi Hatake|Which masked, silver-haired ninja leads Team 7?|#Anime Characters::Naruto Uzumaki
+Jiraiya|Which white-haired legendary ninja trains the character pictured?|#Anime Characters::Naruto Uzumaki
+Minato Namikaze|Who is the Fourth Hokage and father of the ninja pictured?|#Anime Characters::Naruto Uzumaki
+Hinata Hyuga|Which Byakugan user eventually marries the ninja pictured?|#Anime Characters::Naruto Uzumaki
+Roronoa Zoro|Which three-sword fighter sails with the pirate pictured?|#Anime Characters::Monkey D. Luffy
+Nami|Who is the orange-haired navigator on the pictured pirate's crew?|#Anime Characters::Monkey D. Luffy
+Sanji|Who is the cook and powerful kicking fighter on this pirate's crew?|#Anime Characters::Monkey D. Luffy
+Tony Tony Chopper|Which reindeer is the doctor on this pirate's crew?|#Anime Characters::Monkey D. Luffy
+Nico Robin|Which archaeologist joins this pirate's crew and can sprout extra limbs?|#Anime Characters::Monkey D. Luffy
+Usopp|Who is the long-nosed sniper on this pirate's crew?|#Anime Characters::Monkey D. Luffy
+Vegeta|Which proud Saiyan prince is the pictured fighter's great rival?|#Anime Characters::Son Goku
+Gohan|Who is the eldest son of the fighter pictured?|#Anime Characters::Son Goku
+Piccolo|Which green Namekian becomes a mentor to the pictured fighter's son?|#Anime Characters::Son Goku
+Frieza|Which tyrannical alien emperor is a major enemy of the fighter pictured?|#Anime Characters::Son Goku
+Rukia Kuchiki|Which Soul Reaper first shares her powers with the swordsman pictured?|#Anime Characters::Ichigo Kurosaki
+Renji Abarai|Which red-haired Soul Reaper wields the sword Zabimaru?|#Anime Characters::Ichigo Kurosaki
+Orihime Inoue|Which orange-haired friend of this swordsman can reject harmful events with her powers?|#Anime Characters::Ichigo Kurosaki
+Katsuki Bakugo|Which explosive rival grows up alongside the green-haired hero pictured?|#Anime Characters::Izuku Midoriya
+All Might|Which smiling hero passes One For All to the character pictured?|#Anime Characters::Izuku Midoriya
+Shoto Todoroki|Which classmate of this hero uses both ice and fire?|#Anime Characters::Izuku Midoriya
+Nezuko Kamado|Who is the demon-turned younger sister of the swordsman pictured?|#Anime Characters::Tanjiro Kamado
+Zenitsu Agatsuma|Which yellow-haired companion of this swordsman uses Thunder Breathing?|#Anime Characters::Tanjiro Kamado
+[Cartoon Shows]
+Dexter's Laboratory|Which cartoon follows a red-haired boy with a secret science lab and sister Dee Dee?|^science
+Johnny Bravo|Which cartoon stars a muscular blond man in sunglasses who thinks he is irresistible?|^sunglasses
+The Powerpuff Girls|Which cartoon follows Blossom, Bubbles and Buttercup protecting Townsville?|^three-hearts
+Courage the Cowardly Dog|Which cartoon follows a frightened pink dog living with Muriel and Eustace?|$Dog
+Ed, Edd n Eddy|Which cartoon follows three friends who scheme to buy jawbreaker sweets?|^sweets
+Codename: Kids Next Door|Which cartoon has five numbered children fighting adult tyranny from a treehouse?|^treehouse
+Samurai Jack|Which cartoon follows a sword-wielding warrior trying to return from Aku's future?|^sword
+Chowder|Which cartoon follows a young apprentice at Mung Daal's catering company?|^pot
+The Marvelous Misadventures of Flapjack|Which cartoon follows a boy, a pirate and a whale searching for Candied Island?|$Sailboat
+Adventure Time|Which cartoon follows Finn and his shape-shifting dog Jake in the Land of Ooo?|^sword
+Steven Universe|Which cartoon follows a boy with a gemstone and the Crystal Gems?|^gem
+The Amazing World of Gumball|Which cartoon follows the Watterson family in the town of Elmore?|$Cat
+Foster's Home for Imaginary Friends|Which cartoon features Mac and his blue imaginary friend Bloo?|^house
+The Grim Adventures of Billy & Mandy|Which cartoon has two children befriend the Grim Reaper?|^skull
+The Flintstones|Which cartoon follows a Stone Age family in the town of Bedrock?|$Dinosaur
+The Jetsons|Which cartoon follows a futuristic family with flying cars and a robot maid?|^spaceship
+Wacky Races|Which cartoon has Dick Dastardly and Muttley compete in outrageous car races?|$Car
+Top Cat|Which cartoon follows a streetwise alley cat and his gang in New York?|$Cat
+Hong Kong Phooey|Which cartoon has a janitor dog transform into a martial-arts hero?|$Dog
+Danger Mouse|Which cartoon follows a British mouse secret agent and his assistant Penfold?|$Mouse
+Inspector Gadget|Which cartoon stars a detective with mechanical devices built into his body?|^robot
+Pinky and the Brain|Which cartoon follows two laboratory mice trying to take over the world?|$Mouse
+Animaniacs|Which cartoon features the Warner siblings Yakko, Wakko and Dot?|^film
+Looney Tunes|Which cartoon franchise brings together Bugs Bunny, Daffy Duck and many others?|$Carrot
+Garfield and Friends|Which cartoon follows a lasagne-loving orange cat, Odie and the U.S. Acres farm cast?|$Cat
+[Cartoon Characters]
+Dexter|Name the young cartoon scientist whose sister Dee Dee enters his secret laboratory.|^science
+Johnny Bravo|Which blond, muscular cartoon man usually wears dark sunglasses?|^sunglasses
+Courage|Name the nervous pink dog who protects Muriel and Eustace.|$Dog
+Ed|Which member of the three-Ed cartoon trio is the big, good-natured one in a green jacket?|^sweets
+Edd / Double D|Which member of the three-Ed trio is the careful inventor who wears a black hat?|^sweets
+Eddy|Which member of the three-Ed trio usually comes up with money-making schemes?|^sweets
+Blossom|Which Powerpuff Girl leads the team and wears a red bow?|^red-bow
+Bubbles|Which blonde Powerpuff Girl wears blue and is known for being sweet?|^blue-heart
+Buttercup|Which black-haired Powerpuff Girl wears green and loves a fight?|^green-heart
+Bugs Bunny|Which grey rabbit is famous for chewing carrots and outsmarting his opponents?|$Carrot
+Daffy Duck|Which black Looney Tunes duck is the jealous rival of Bugs Bunny?|$Mallard
+Tweety|Which little yellow canary keeps escaping Sylvester the cat?|$Birds::Budgerigar
+Sylvester|Which black-and-white Looney Tunes cat tries to catch a little yellow bird?|$Cat
+Road Runner|Which very fast desert bird continually escapes Wile E. Coyote?|$Birds::Ostrich
+Wile E. Coyote|Which desert cartoon predator uses elaborate gadgets to catch a very fast bird?|$Animals::Gray wolf
+Yogi Bear|Which picnic-basket-stealing bear lives in Jellystone Park?|$Animals::Brown bear
+Fred Flintstone|Which cartoon father works at a quarry and is married to Wilma?|$Dinosaur
+Barney Rubble|Who is Fred Flintstone's best friend and next-door neighbour?|$Dinosaur
+George Jetson|Name the futuristic cartoon father employed by Spacely Sprockets.|^spaceship
+Elroy Jetson|Name the young son in the futuristic family who attends Little Dipper School.|^spaceship
+Popeye|Which sailor gains great strength after eating spinach?|$Vegetables::Spinach
+Olive Oyl|Name the tall, thin woman often caught between Popeye and Bluto.|$Vegetables::Spinach
+Betty Boop|Which classic cartoon flapper has a short black bob and large hoop earrings?|^film
+Felix the Cat|Which classic black-and-white cartoon cat carries a magic bag of tricks?|$Cat
+[Kids Cartoons]
+Barney & Friends|Which children's programme features a friendly purple dinosaur and songs about friendship?|$Dinosaur
+Teletubbies|Which children's programme stars Tinky Winky, Dipsy, Laa-Laa and Po?|^television
+Thomas & Friends|Which series follows a blue tank engine and his railway friends on Sodor?|$Locomotive
+Bob the Builder|Which series features a builder, Wendy and talking construction vehicles?|$Tools::Hammer
+Postman Pat|Which series follows a village postman and his black-and-white cat Jess?|$Vehicles::Van
+Fireman Sam|Which series follows firefighters in the Welsh town of Pontypandy?|$Vehicles::Fire engine
+Arthur|Which children's cartoon follows an aardvark schoolboy and his family?|$Animals::Aardvark
+Franklin|Which children's cartoon follows a young turtle learning everyday lessons?|$Turtle
+Caillou|Which preschool cartoon follows a curious, bald-headed four-year-old boy?|^red-cap
+Clifford the Big Red Dog|Which series centres on Emily Elizabeth's enormous red pet?|$Dog
+Curious George|Which series follows a mischievous monkey and the Man with the Yellow Hat?|$Monkey
+Little Bear|Which gentle cartoon follows a young bear, his parents and woodland friends?|$Animals::Brown bear
+The Magic School Bus|Which series has Ms Frizzle take her class on extraordinary scientific journeys?|$Vehicles::Bus
+Octonauts|Which series follows Captain Barnacles and a team of underwater explorers?|$Vehicles::Submarine
+Pingu|Which stop-motion series follows a young penguin who communicates in playful sounds?|$Birds::African penguin
+Bing|Which preschool series follows a young black rabbit and his carer Flop?|$Rabbit
+Hey Duggee|Which series has the Squirrel Club earn badges with a friendly brown dog?|$Dog
+Sarah & Duck|Which gentle cartoon follows a girl in a green hat and her feathered friend?|$Birds::Mallard
+In the Night Garden|Which series features Igglepiggle, Upsy Daisy and Makka Pakka?|^moon
+Rolie Polie Olie|Which series follows a round little robot and his family?|^robot
+Oswald|Which preschool cartoon follows a friendly blue octopus and his pet hot dog Weenie?|$Octopus
+Bear in the Big Blue House|Which series features a friendly bear, Tutter the mouse and a singing moon?|$Animals::Brown bear
+The Backyardigans|Which series follows five friends whose backyard becomes an imaginary adventure world?|^treehouse
+Wonder Pets!|Which series follows Linny, Tuck and Ming-Ming rescuing animals in a flying boat?|$Guinea pig
+[Movies]
+Rocky|Which boxing film made Sylvester Stallone's Philadelphia underdog famous?|@Sylvester Stallone
+The Matrix|Which film has the pictured actor play Neo and choose between a red and blue pill?|@Keanu Reeves
+The Godfather|Which film features the pictured actor as Don Vito Corleone?|@Marlon Brando
+The Dark Knight|Which Batman film features Heath Ledger's Joker?|@Christian Bale
+Gladiator|Which film has the pictured actor play the Roman general Maximus?|@Russell Crowe
+Braveheart|Which historical epic stars the pictured actor as William Wallace?|@Mel Gibson
+Forrest Gump|Which film has the pictured actor play an Alabama man who becomes a runner, soldier and shrimp fisherman?|@Tom Hanks
+Pirates of the Caribbean|Which film franchise has the pictured actor play Captain Jack Sparrow?|@Johnny Depp
+The Lord of the Rings|Which fantasy film trilogy has the pictured actor play Frodo Baggins?|@Elijah Wood
+The Hunger Games|Which film series has the pictured actress play Katniss Everdeen?|@Jennifer Lawrence
+Indiana Jones|Which adventure franchise has the pictured actor play a fedora-wearing archaeologist?|@Harrison Ford
+Home Alone|Which film has the pictured child star defend his house from two burglars?|@Macaulay Culkin
+The Karate Kid|Which film has the pictured actor learn martial arts from Mr Miyagi?|@Ralph Macchio
+3 Ninjas|Which family film follows the brothers Rocky, Colt and Tum-Tum learning martial arts from their grandfather?|^ninja
+Men in Black|Which film has the pictured actor become Agent J, monitoring aliens on Earth?|@Will Smith
+Ghostbusters|Which film has the pictured actor play Peter Venkman, catching paranormal creatures in New York?|@Bill Murray
+Mission: Impossible|Which film franchise has the pictured actor play secret agent Ethan Hunt?|@Tom Cruise
+Top Gun|Which aviation film has the pictured actor play the pilot nicknamed Maverick?|@Tom Cruise
+The Lion King|Which animated film follows Simba, the son of Mufasa?|$Animals::Lion
+Black Panther|Which Marvel film has the pictured actor play T'Challa, king of Wakanda?|@Chadwick Boseman
+The Avengers|Which film brings Iron Man, Captain America, Thor, Hulk, Black Widow and Hawkeye together?|@Robert Downey Jr.
+The Fast and the Furious|Which film franchise has the pictured actor play street racer Dominic Toretto?|@Vin Diesel
+The Terminator|Which science-fiction film has the pictured actor play a cyborg sent back in time?|@Arnold Schwarzenegger
+Die Hard|Which action film has the pictured actor play John McClane at Nakatomi Plaza?|@Bruce Willis
+[Animated Movies]
+The Iron Giant|Which animated film has Hogarth befriend a huge robot from space?|^robot
+Ice Age|Which animated film follows Manny, Sid and Diego during a prehistoric freeze?|$Animals::African elephant
+Madagascar|Which animated film has Alex, Marty, Melman and Gloria leave a New York zoo?|$Animals::Zebra
+Kung Fu Panda|Which animated film follows Po, a noodle-loving martial-arts hero?|$Animals::Giant panda
+Ratatouille|Which animated film follows Remy, a rat who loves cooking in Paris?|$Rat
+Cars|Which animated film introduces the red racer pictured and the town of Radiator Springs?|$Pixar Characters::Lightning McQueen
+Monsters, Inc.|Which animated film follows Mike and Sulley collecting children's screams?|@Billy Crystal
+Finding Dory|Which animated film follows the forgetful blue fish pictured searching for her parents?|$Pixar Characters::Dory
+Inside Out|Which animated film personifies Joy, Sadness, Anger, Fear and Disgust inside Riley's mind?|^emotion
+Up|Which animated film lifts Carl Fredricksen's house into the air with balloons?|$Vehicles::Hot air balloon
+WALL-E|Which animated film follows the small rubbish-collecting robot pictured?|$Pixar Characters::WALL-E
+Coco|Which animated film follows Miguel's musical journey to the Land of the Dead?|$Musical Instruments::Guitar
+Brave|Which animated film follows the Scottish princess Merida and her bow?|$Sports Equipment::Archery bow
+The Incredibles|Which animated film follows the superhero family headed by Bob and Helen Parr?|^mask
+The Little Mermaid|Which animated film follows the red-haired princess Ariel, who dreams of life on land?|$Disney Characters::Ariel
+Beauty and the Beast|Which animated film features Belle, an enchanted castle and a magical rose?|$Rose
+Aladdin|Which animated film features Agrabah, a magic lamp and a flying carpet?|$Disney Characters::Aladdin
+Mulan|Which animated film follows a young woman disguising herself as a soldier to protect her father?|^sword
+Moana|Which animated film has an ocean voyager return the heart of Te Fiti?|$Vehicles::Sailboat
+Tangled|Which animated film follows a long-haired princess and a thief named Flynn Rider?|^tower
+Zootopia|Which animated film pairs Judy Hopps, a rabbit police officer, with fox Nick Wilde?|$Rabbit
+The Emperor's New Groove|Which animated film has Emperor Kuzco transform into a llama?|$Llama
+Lilo & Stitch|Which animated film has a Hawaiian girl befriend the alien called Experiment 626?|^alien
+Despicable Me|Which animated film follows Gru, three adopted girls and a crowd of yellow Minions?|$Fruits::Banana
+[Movie Characters]
+Luke Skywalker|Name the Jedi hero played by the pictured actor in the original Star Wars trilogy.|@Mark Hamill
+Hermione Granger|Which clever Hogwarts student is played by the pictured actress?|@Emma Watson
+Ron Weasley|Which red-haired Hogwarts student is played by the pictured actor?|@Rupert Grint
+Frodo Baggins|Which hobbit carries the One Ring and is played by the pictured actor?|@Elijah Wood
+Aragorn|Which ranger and future king is played by the pictured actor in The Lord of the Rings?|@Viggo Mortensen
+Gandalf|Which wizard is played by the pictured actor in The Lord of the Rings?|@Ian McKellen
+Legolas|Which elven archer is played by the pictured actor?|@Orlando Bloom
+Forrest Gump|Which Alabama runner and soldier is played by the pictured actor?|@Tom Hanks
+Neo|Which Matrix hacker, also called Thomas Anderson, is played by the pictured actor?|@Keanu Reeves
+John Wick|Which retired hitman returns to action after losing his dog, played by the pictured actor?|@Keanu Reeves
+Ethan Hunt|Which Mission: Impossible agent is played by the pictured actor?|@Tom Cruise
+Pete 'Maverick' Mitchell|Which Top Gun pilot is played by the pictured actor?|@Tom Cruise
+Bruce Wayne|Name the billionaire behind Batman's mask, played by the pictured actor in the Dark Knight trilogy.|@Christian Bale
+Peter Parker|Name the young photographer behind Spider-Man's mask, played in the MCU by this actor.|@Tom Holland
+Tony Stark|Name the inventor behind Iron Man's armour, played by this actor.|@Robert Downey Jr.
+Princess Leia|Which Alderaanian leader is played by the pictured actress in Star Wars?|@Carrie Fisher
+Ellen Ripley|Which Alien heroine is played by the pictured actress?|@Sigourney Weaver
+Clarice Starling|Which FBI trainee meets Hannibal Lecter, played by the pictured actress?|@Jodie Foster
+Marty McFly|Which time-travelling teenager is played by the pictured actor?|@Michael J. Fox
+Doc Brown|Which wild-haired time-machine inventor is played by the pictured actor?|@Christopher Lloyd
+Mary Poppins|Which magical nanny is played by the pictured actress in the 1964 film?|@Julie Andrews
+Amélie Poulain|Which imaginative Parisian waitress is played by the pictured actress?|@Audrey Tautou
+Beetlejuice|Which mischievous ghost is played by the pictured actor in Tim Burton's film?|@Michael Keaton
+Edward Scissorhands|Which gentle artificial man with unusual hands is played by this actor?|@Johnny Depp
+[Movie Villains]
+Hans Gruber|Which Die Hard villain takes over Nakatomi Plaza, played by this actor?|@Alan Rickman
+Hannibal Lecter|Which imprisoned psychiatrist meets Clarice Starling, played by this actor?|@Anthony Hopkins
+Agent Smith|Which Matrix programme pursues Neo, played by the pictured actor?|@Hugo Weaving
+Green Goblin|Which Spider-Man villain is Norman Osborn, played by this actor?|@Willem Dafoe
+Doctor Octopus|Which four-armed Spider-Man villain is played by this actor?|@Alfred Molina
+Scar|Which treacherous lion kills Mufasa, voiced in the original film by this actor?|@Jeremy Irons
+Hades|Which blue-flamed underworld ruler is voiced by this actor in Disney's Hercules?|@James Woods
+Jafar|Which Aladdin sorcerer wants the genie's lamp and rules Agrabah?|^lamp
+Ursula|Which sea witch offers Ariel a dangerous bargain?|$Octopus
+Cruella de Vil|Which 101 Dalmatians villain is played by the pictured actress in the live-action films?|@Glenn Close
+Sauron|Who is the Dark Lord associated with the One Ring in The Lord of the Rings?|^ring
+Smaug|Which treasure-hoarding dragon is voiced by the pictured actor in The Hobbit films?|@Benedict Cumberbatch
+Count Dooku|Which former Jedi and Sith count is played by the pictured actor?|@Christopher Lee
+Emperor Palpatine|Which Star Wars emperor and Sith lord is played by this actor?|@Ian McDiarmid
+Bane|Which masked Dark Knight Rises villain is played by the pictured actor?|@Tom Hardy
+Loki|Which trickster and brother of Thor is played by the pictured actor?|@Tom Hiddleston
+Erik Killmonger|Which challenger to T'Challa's throne is played by the pictured actor?|@Michael B. Jordan
+Magneto|Which metal-controlling X-Men opponent is played by the pictured actor?|@Ian McKellen
+Lex Luthor|Which wealthy Superman antagonist is played by this actor in the 1978 film?|@Gene Hackman
+Pennywise|Which frightening clown from It is played by this actor in the 2017 film?|@Bill Skarsgård
+Chucky|Which possessed toy doll is voiced by the pictured actor in Child's Play?|@Brad Dourif
+Freddy Krueger|Which A Nightmare on Elm Street villain is played by this actor?|@Robert Englund
+Jason Voorhees|Which Friday the 13th villain is associated with an ice-hockey mask?|^mask
+Michael Myers|Which Halloween villain wears a pale, expressionless mask?|^mask
+[TV Shows]
+Breaking Bad|Which series has the pictured actor play chemistry teacher Walter White?|@Bryan Cranston
+Game of Thrones|Which fantasy series has the pictured actor play Tyrion Lannister?|@Peter Dinklage
+The Office|Which workplace comedy has the pictured actor play Michael Scott?|@Steve Carell
+The Big Bang Theory|Which sitcom has the pictured actor play physicist Sheldon Cooper?|@Jim Parsons
+How I Met Your Mother|Which sitcom has the pictured actor play Barney Stinson?|@Neil Patrick Harris
+Modern Family|Which sitcom has the pictured actress play Gloria Delgado-Pritchett?|@Sofía Vergara
+Prison Break|Which series has the pictured actor play escape planner Michael Scofield?|@Wentworth Miller
+Lost|Which series has the pictured actor play Dr Jack Shephard after an island plane crash?|@Matthew Fox
+House|Which medical series has the pictured actor play a brilliant, difficult diagnostician?|@Hugh Laurie
+Grey's Anatomy|Which hospital series has the pictured actress play Meredith Grey?|@Ellen Pompeo
+House of Cards|Which political series has the pictured actor play Frank Underwood?|@Kevin Spacey
+The Crown|Which royal drama has the pictured actress play Queen Elizabeth II in its first two seasons?|@Claire Foy
+The Mandalorian|Which Star Wars series has the pictured actor play Din Djarin?|@Pedro Pascal
+Lupin|Which French series has the pictured actor play gentleman thief Assane Diop?|@Omar Sy
+Money Heist|Which Spanish heist series has the pictured actor play the Professor?|@Álvaro Morte
+Peaky Blinders|Which British crime series has the pictured actor play Tommy Shelby?|@Cillian Murphy
+Suits|Which legal series has the pictured actor play Harvey Specter?|@Gabriel Macht
+NCIS|Which crime series has the pictured actor play Leroy Jethro Gibbs?|@Mark Harmon
+CSI: Crime Scene Investigation|Which forensic series has the pictured actor play Gil Grissom?|@William Petersen
+Supernatural|Which series has the pictured actor play Dean Winchester, hunting monsters with his brother?|@Jensen Ackles
+Doctor Who|Which British science-fiction series has the pictured actor play the Tenth Doctor?|@David Tennant
+Downton Abbey|Which period drama has the pictured actress play the Dowager Countess of Grantham?|@Maggie Smith
+The Good Doctor|Which medical series has the pictured actor play surgeon Shaun Murphy?|@Freddie Highmore
+Cobra Kai|Which martial-arts series has the pictured actor return as Johnny Lawrence?|@William Zabka
+[Superheroes]
+Captain America|Which shield-carrying Marvel hero is played by the pictured actor?|@Chris Evans
+Thor|Which hammer-wielding Marvel hero is played by the pictured actor?|@Chris Hemsworth
+Hulk|Which green Marvel powerhouse is played by this actor in the Avengers films?|@Mark Ruffalo
+Black Widow|Which Marvel spy, Natasha Romanoff, is played by this actress?|@Scarlett Johansson
+Hawkeye|Which bow-and-arrow Avenger is played by the pictured actor?|@Jeremy Renner
+Doctor Strange|Which sorcerer and former surgeon is played by the pictured actor?|@Benedict Cumberbatch
+Captain Marvel|Which cosmic Marvel hero, Carol Danvers, is played by this actress?|@Brie Larson
+Ant-Man|Which shrinking Marvel hero, Scott Lang, is played by this actor?|@Paul Rudd
+Wasp|Which winged Marvel hero, Hope van Dyne, is played by this actress?|@Evangeline Lilly
+Scarlet Witch|Which reality-altering Marvel hero, Wanda Maximoff, is played by this actress?|@Elizabeth Olsen
+Vision|Which synthetic Avenger is played by the pictured actor?|@Paul Bettany
+Falcon|Which winged Marvel hero, Sam Wilson, was played by this actor before carrying Captain America's shield?|@Anthony Mackie
+War Machine|Which armoured Marvel hero, James Rhodes, is played by this actor?|@Don Cheadle
+Star-Lord|Which Guardians of the Galaxy leader is played by the pictured actor?|@Chris Pratt
+Gamora|Which green Guardians of the Galaxy fighter is played by the pictured actress?|@Zoe Saldaña
+Groot|Which tree-like Guardian is voiced by the pictured actor?|@Vin Diesel
+Rocket Raccoon|Which gadget-loving Guardian is voiced by the pictured actor?|@Bradley Cooper
+Wolverine|Which clawed X-Men hero is played by the pictured actor?|@Hugh Jackman
+Deadpool|Which fourth-wall-breaking Marvel antihero is played by this actor?|@Ryan Reynolds
+Aquaman|Which ocean-ruling DC hero is played by the pictured actor?|@Jason Momoa
+The Flash|Which speedy DC hero does the pictured actor play in the television series?|@Grant Gustin
+Green Lantern|Which ring-powered DC hero does this actor play in the 2011 film?|@Ryan Reynolds
+Shazam|Which adult superhero form of Billy Batson is played by this actor?|@Zachary Levi
+Supergirl|Which Kryptonian television heroine is played by the pictured actress?|@Melissa Benoist
+[Disney Characters]
+Snow White|Which princess falls into an enchanted sleep after eating a poisoned version of this fruit?|$Fruits::Apple
+Cinderella|Which princess loses a glass slipper at a royal ball?|^shoe
+Aurora|Which Sleeping Beauty princess pricks her finger on a spindle?|^crown
+Belle|Which book-loving heroine befriends a beast in a castle with an enchanted rose?|$Rose
+Jasmine|Name the princess of Agrabah who befriends Aladdin and his genie.|^lamp
+Rapunzel|Which long-haired princess grows up hidden in a tower?|^tower
+Moana|Which ocean voyager sails with Maui to restore the heart of Te Fiti?|$Vehicles::Sailboat
+Mulan|Which Disney heroine joins the army in her father's place?|^sword
+Pocahontas|Which Disney heroine befriends John Smith in colonial Virginia?|$Nature::River
+Tiana|Which New Orleans waitress dreams of opening a restaurant and becomes a frog?|$Frog
+Merida|Which red-haired Scottish princess is a skilled archer?|$Sports Equipment::Archery bow
+Anna|Which Arendelle princess is Elsa's younger sister?|^snowflake
+Olaf|Which cheerful Frozen snowman dreams about summer?|^snowman
+Simba|Which lion cub is the son of Mufasa and grows up to reclaim his kingdom?|$Animals::Lion
+Mufasa|Name Simba's father, the king of the Pride Lands.|$Animals::Lion
+Timon|Which meerkat is Pumbaa's best friend in The Lion King?|$Animals::Meerkat
+Pumbaa|Which warthog befriends Simba alongside Timon?|$Animals::Warthog
+Stitch|Which blue alien is also called Experiment 626 and becomes Lilo's friend?|^alien
+Dumbo|Which circus elephant learns to fly using his enormous ears?|$Animals::African elephant
+Peter Pan|Which flying boy lives in Neverland and refuses to grow up?|^green-hat
+Tinker Bell|Which tiny fairy accompanies Peter Pan?|^fairy
+Pinocchio|Which wooden puppet has a nose that grows when he lies?|^puppet
+Winnie-the-Pooh|Which bear living in the Hundred Acre Wood loves this sweet food?|^honey
+Maleficent|Which horned fairy curses Princess Aurora in Sleeping Beauty?|#Fictional Creatures::Dragon
+[Pixar Characters]
+Boo|Name the little girl who enters the monster world in Monsters, Inc.|^door
+Mike Wazowski|Which one-eyed green monster is voiced by the pictured actor?|@Billy Crystal
+James P. Sullivan / Sulley|Which large blue monster is voiced by the pictured actor?|@John Goodman
+Roz|Which Monsters, Inc. administrator reminds Mike to complete his paperwork?|^book
+Randall Boggs|Which purple Monsters, Inc. rival can change colour to disappear?|^monster
+Joy|Which yellow emotion in Inside Out is voiced by the pictured actress?|@Amy Poehler
+Sadness|Which blue emotion in Inside Out is voiced by the pictured actress?|@Phyllis Smith
+Anger|Which red emotion in Inside Out is voiced by the pictured comedian?|@Lewis Black
+Disgust|Which green emotion in Inside Out is voiced by this actress in the first film?|@Mindy Kaling
+Fear|Which purple emotion in Inside Out is voiced by this actor in the first film?|@Bill Hader
+Remy|Which rat dreams of becoming a great chef in Ratatouille?|$Rat
+Russell|Which young Wilderness Explorer accidentally joins Carl's journey in Up?|^badge
+Carl Fredricksen|Which retired balloon salesman flies his house to South America in Up?|$Vehicles::Hot air balloon
+Dug|Which friendly dog in Up speaks through a special collar?|$Dog
+Merida|Which Pixar princess from Brave competes with a bow to control her own future?|$Sports Equipment::Archery bow
+Miguel Rivera|Which Coco boy loves music despite his family's ban on it?|$Musical Instruments::Guitar
+Héctor Rivera|Which Coco musician seeks to cross the marigold bridge and reconnect with his family?|$Musical Instruments::Guitar
+Dash Parr|Which child in The Incredibles can run extremely fast?|^lightning
+Violet Parr|Which child in The Incredibles can turn invisible and create force fields?|^magic
+Elastigirl|What is the superhero name of Helen Parr, who can stretch her body?|@Holly Hunter
+Mr. Incredible|What is the superhero name of Bob Parr, known for his great strength?|@Craig T. Nelson
+Frozone|Which ice-making superhero is voiced by the pictured actor?|@Samuel L. Jackson
+Joe Gardner|Which Soul character is a jazz pianist and school music teacher?|$Musical Instruments::Piano
+Luca Paguro|Which young sea monster explores an Italian seaside town with Alberto?|$Nature::Beach
+[Video Games]
+Tetris|Which puzzle game has falling blocks that fit together to clear horizontal rows?|^blocks
+Pac-Man|Which arcade game has a yellow maze character eating dots and avoiding ghosts?|^maze
+Donkey Kong|Which classic arcade game has a large ape throw barrels at a climbing hero?|$Fruits::Banana
+Street Fighter|Which fighting-game series features Ryu, Chun-Li and the Hadouken move?|$Sports Equipment::Boxing glove
+Mortal Kombat|Which fighting-game series features Scorpion, Sub-Zero and a dragon emblem?|#Fictional Creatures::Dragon
+Tekken|Which fighting-game series centres on the Mishima family and the King of Iron Fist tournament?|$Sports Equipment::Boxing glove
+FIFA|Which long-running EA football game series was named after football's governing body?|$Sports Equipment::Football
+Rocket League|Which game combines football with rocket-powered cars?|$Vehicles::Car
+Roblox|Which online platform lets users create and play games and features blocky avatars?|^blocks
+Among Us|Which game has spaceship crewmates try to identify impostors?|^spaceship
+Grand Theft Auto|Which open-world crime game series includes Los Santos and Vice City?|$Vehicles::Car
+Red Dead Redemption|Which game series follows outlaws including John Marston and Arthur Morgan?|^cowboy-hat
+Assassin's Creed|Which game series follows hooded Assassins across different historical settings?|^hood
+God of War|Which action-game series follows Kratos through Greek and Norse mythology?|$Tools::Axe
+Tomb Raider|Which adventure-game series follows archaeologist Lara Croft?|$Landmarks::Petra
+Resident Evil|Which survival-horror series features the Umbrella Corporation and Raccoon City?|^biohazard
+Silent Hill|Which horror-game series is associated with a fog-covered American town?|$Nature::Fog
+The Sims|Which life-simulation series lets you build homes and manage virtual people's lives?|^house
+Animal Crossing|Which peaceful game series has animal neighbours and Tom Nook?|$Animals::Raccoon
+Stardew Valley|Which farming game begins with inheriting your grandfather's old farm?|$Tools::Hoe
+Portal|Which puzzle-game series features Chell, a handheld teleportation device and the computer GLaDOS?|^portal
+Half-Life|Which science-fiction game follows physicist Gordon Freeman at Black Mesa?|^crowbar
+Halo|Which science-fiction shooter series features Master Chief and the Covenant?|^helmet
+Crash Bandicoot|Which platform-game series follows a spinning marsupial who collects Wumpa fruit?|$Fruits::Mango
+[Video Game Characters]
+Luigi|Name Mario's green-clad brother.|^green-hat
+Princess Peach|Which Mushroom Kingdom princess often needs rescuing from Bowser?|^crown
+Bowser|Which giant, fire-breathing turtle is Mario's main rival?|#Fictional Creatures::Dragon
+Donkey Kong|Which Nintendo ape wears a red tie and loves bananas?|$Animals::Gorilla
+Tails|Which two-tailed fox is Sonic's best friend?|$Animals::Red fox
+Knuckles|Which red echidna guards the Master Emerald in the Sonic games?|^gem
+Shadow the Hedgehog|Which black-and-red rival of Sonic is known as the Ultimate Life Form?|$Hedgehog
+Lara Croft|Which British archaeologist leads the Tomb Raider games?|$Landmarks::Petra
+Kratos|Which axe-wielding Spartan is the main character of God of War?|$Tools::Axe
+Master Chief|Which armoured soldier is also known as John-117 in Halo?|^helmet
+Ezio Auditore|Which Italian Assassin leads several Assassin's Creed games set in the Renaissance?|^hood
+Nathan Drake|Which treasure hunter leads the Uncharted adventure games?|^compass
+Arthur Morgan|Which outlaw is the main playable character in Red Dead Redemption 2?|^cowboy-hat
+Carl Johnson / CJ|Which protagonist returns to Grove Street in Grand Theft Auto: San Andreas?|$Vehicles::Car
+Niko Bellic|Which immigrant protagonist arrives in Liberty City in Grand Theft Auto IV?|$Vehicles::Car
+Trevor Philips|Which unpredictable criminal is one of the three protagonists of Grand Theft Auto V?|$Vehicles::Car
+Gordon Freeman|Which Half-Life physicist is associated with a crowbar and an orange HEV suit?|^crowbar
+Chell|Which silent Portal heroine solves puzzles using a portal gun?|^portal
+Samus Aran|Which armoured bounty hunter leads the Metroid games?|^helmet
+Kirby|Which round pink Nintendo character inhales enemies and copies their abilities?|^pink-star
+Yoshi|Which friendly dinosaur often carries Mario on his back?|$Dinosaur
+Crash Bandicoot|Which orange marsupial spins through enemies and collects Wumpa fruit?|$Fruits::Mango
+Ryu|Which headband-wearing Street Fighter martial artist uses the Hadouken?|^headband
+Chun-Li|Which Street Fighter martial artist is known for a blue outfit and powerful kicks?|^blue-bow

@@ -1,0 +1,25 @@
+[Indigenous African Games]
+Ncuva / Ntxuva|Name this four-row seed-sowing board game popular in Mozambique.|^mancala-four|Ntxuva
+Moruba|Which four-row mancala game is associated with the Pedi people of South Africa?|^mancala-four|Moruba
+Omweso|Which Ugandan mancala game uses four rows of eight pits?|^mancala-four|Omweso
+Igisoro|Which four-row mancala game is especially associated with Rwanda and Burundi?|^mancala-four|Igisoro
+Gebeta|What Ethiopian name is widely used for traditional seed-sowing mancala games?|^mancala-two|Gebeta
+Songo|Which mancala game from Gabon and Cameroon is commonly played on two rows of seven pits?|^mancala-seven|Songo
+Ayo|Which Yoruba seed-sowing board game shares the two-row mancala tradition of West Africa?|^mancala-two|Ayoayo
+Dara|Which alignment game from Nigeria and Niger uses a six-by-five board and rows of three counters?|^grid-six-five|Dara (game)
+Achi|Which Ghanaian alignment game uses a three-by-three grid and four counters per player?|^grid-three|Achi (game)
+Shisima|Which Kenyan game uses an eight-sided board with a central point and three counters per player?|^shisima|Shisima
+Seega|Which Egyptian board game captures opposing counters by trapping them between two of your own?|^grid-five|Seega
+Yoté|Which West African game uses a five-by-six board and captures by jumping over a counter?|^grid-six-five|Yoté
+Fanorona|Which Madagascan strategy game captures counters by moving towards them or withdrawing?|^fanorona|Fanorona
+Shax|Which Somali alignment game uses three concentric squares and twelve counters per player?|^shax|Shax (board game)
+Diketo|Which Southern African coordination game involves tossing a stone while collecting others from a small hole?|^stones|Diketo
+Intonga|Which South African stick-fighting tradition uses a fighting stick and a defensive stick?|^sticks|Nguni stick-fighting
+Ampe|Which Ghanaian jumping-and-clapping game involves players extending a foot at the same time?|^feet|Ampe
+Drie Stokkies|Which South African jumping game uses three sticks placed progressively farther apart?|^three-sticks|Drie stokkies
+Dibeke|Which South African team running game uses a ball kicked into the field before players run?|$Sports Equipment::Football|Dibeke
+Jukskei|Which traditional South African throwing sport uses wooden pins derived from ox-wagon yokes?|^jukskei|Jukskei
+Kgati|What is the South African traditional skipping game performed with a long rope and rhythmic singing?|$Jump rope|Kgati
+Laamb|What is the traditional wrestling sport of Senegal, often accompanied by ritual and drumming?|^wrestling|Senegalese wrestling
+Tahtib|Which Egyptian traditional martial art is performed with long sticks?|^sticks|Tahtib
+Ngolo|Which Angolan combat tradition is associated with low, acrobatic movements and kicking?|^feet|Engolo
