@@ -74,7 +74,8 @@ async function duel(id,label,prep,leaks){
     const a=leaks(cur);const d=dom();
     a.forEach(x=>{if(x&&String(x).length>2&&d.includes(String(x).toLowerCase())){bad++;console.warn('LEAK',id,x);}});
     if(seen.has(cur.k)&&!/^p:/.test(cur.c||''))bad+=1000;seen.add(cur.k);
-    await go('skip',undefined,60);
+    /* pictures load before the clock runs, so a skip during loading is refused: retry until the card changes */
+    for(let r=0;r<30;r++){await go('skip',undefined,60);if(S().cur.k!==cur.k)break;await sleep(100);}
   }
   t(label+': 40 items, no repeats, no answer in display DOM',bad===0,'problems='+bad);
   for(let tries=0;tries<100&&!App.game.view().top.clock.run;tries++)await sleep(20);
@@ -88,12 +89,12 @@ async function duel(id,label,prep,leaks){
   await go('rematch');t(label+': rematch resets clocks',App.game.save().ms[0]>59000&&S().correct[0]===0);
   await go('hub');
 }
-async function picture(){
+async function picture(only){
   await TP.picturesReady;
   const cats=TP.pictureCats();
   t('picture: emoji categories removed',!cats.some(c=>['emoji','bible','cartoons'].includes(c.id)));
   for(const c of cats){
-    if(c.count()===0)continue;
+    if(c.count()===0||(only&&!only.includes(c.name)))continue;
     await duel('picture','picture/'+c.name,async()=>{
       await go('players');await go('pool','none');await go('cat',c.id);await go('randomize');await sleep(1650);
       t('picture/'+c.name+': category drawn before clock starts',S().opts.category===c.id&&S().phase==='setup'&&App.game.save().ms.every(ms=>ms===60000));

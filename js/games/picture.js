@@ -82,20 +82,29 @@ function normalize(S){
   if(o.stage==='drawing'&&!o.roll)o.stage='category';
   delete o.mixed;delete o.cats;S.opts=o;
 }
+/* decoding a 3 MB atlas takes ~1 s, so decode each sheet once and crop every clue from it */
+const atlasCache=new Map();
+function atlasImage(name){
+  if(atlasCache.has(name))return atlasCache.get(name);
+  const p=(async()=>{
+    const blob=await TP.loadImage('assets/clue-atlases/'+name,{maxPx:0});
+    if(typeof createImageBitmap==='function')return createImageBitmap(blob);
+    const image=new Image(),url=URL.createObjectURL(blob);image.src=url;
+    try{await image.decode();}finally{URL.revokeObjectURL(url);}
+    return image;
+  })();
+  atlasCache.set(name,p);
+  p.catch(()=>atlasCache.delete(name));
+  while(atlasCache.size>3){const old=atlasCache.keys().next().value;atlasCache.delete(old);}
+  return p;
+}
 async function atlasClue(it){
-  const blob=await TP.loadImage('assets/clue-atlases/'+it.atlas,{maxPx:0});
-  let image,url;
-  if(typeof createImageBitmap==='function')image=await createImageBitmap(blob);
-  else{
-    url=URL.createObjectURL(blob);image=new Image();image.src=url;await image.decode();
-  }
-  try{
-    const width=(image.width||image.naturalWidth)/3,height=(image.height||image.naturalHeight)/2;
-    const canvas=document.createElement('canvas');canvas.width=Math.round(width);canvas.height=Math.round(height);
-    canvas.getContext('2d').drawImage(image,(it.cell%3)*width,Math.floor(it.cell/3)*height,width,height,0,0,canvas.width,canvas.height);
-    const clue=await new Promise(resolve=>canvas.toBlob(resolve,'image/jpeg',.92));
-    if(!clue)throw new Error('Could not prepare illustration');return clue;
-  }finally{if(image.close)image.close();if(url)URL.revokeObjectURL(url);}
+  const image=await atlasImage(it.atlas);
+  const width=(image.width||image.naturalWidth)/3,height=(image.height||image.naturalHeight)/2;
+  const canvas=document.createElement('canvas');canvas.width=Math.round(width);canvas.height=Math.round(height);
+  canvas.getContext('2d').drawImage(image,(it.cell%3)*width,Math.floor(it.cell/3)*height,width,height,0,0,canvas.width,canvas.height);
+  const clue=await new Promise(resolve=>canvas.toBlob(resolve,'image/jpeg',.92));
+  if(!clue)throw new Error('Could not prepare illustration');return clue;
 }
 const cfg={
   id:'picture',name:'Picture Game',icon:'',plainUI:true,waitForImage:true,desc:'Two players. One random category.',
